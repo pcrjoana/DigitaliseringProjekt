@@ -1,0 +1,3383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Slöjdskolans dagbok</title>
+            <author corresp="#sls">Alex Bergwhall; Ella Andrén; Joana P.C. Ribeiro</author>
+            <principal>Alex Bergwhall; Ella Andrén; Joana P.C. Ribeiro</principal>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>University of Borås</publisher>
+            <date>May 2026</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+                  <p>
+                     Transcription distributed under a CC-BY-SA 4.0 license.
+                  </p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+               <p>Enåkers socken sljödskolans dagbok åren 1900-1908.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <handNotes>
+            <handNote xml:id="ESS" medium="black-ink">Originaltext i bläck.</handNote>
+         </handNotes>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface xml:id="framsidan">
+         <figure>
+            <label>Första sidan</label>
+            <figDesc>
+               Slöjdskolans dagbokens första sida  
+            </figDesc>
+            <graphic xml:id="framsidan_full" url="assets/img/documents/DagbokFramsidan.jpeg"/>
+            <graphic xml:id="framsidan_thumb" url="assets/img/documents/postit01_thumb.png"/>
+         </figure>
+      </surface>
+      <surface xml:id="19001">
+         <figure>
+            <label>Slöjdskolans dagbok 1900</label>
+            <figDesc>
+               A photograph of the back a post-it with a simple example phrase.
+            </figDesc>
+            <graphic xml:id="19001_full" url="assets/img/documents/postit02.png"/>
+            <graphic xml:id="19001_thumb" url="assets/img/documents/postit02_thumb.png"/>
+         </figure>
+      </surface>
+      <surface xml:id="19011">
+         <figure>
+            <label>Slöjdskolans dagbok 1901</label>
+            <figDesc>
+               A photograph of the back a post-it with a simple example phrase.
+            </figDesc>
+            <graphic xml:id="19011_full" url="assets/img/documents/postit02.png"/>
+            <graphic xml:id="19011_thumb" url="assets/img/documents/postit02_thumb.png"/>
+         </figure>
+      </surface>
+      <surface xml:id="19012">
+         <figure>
+            <label>Slöjdskolans dagbok 1900</label>
+            <figDesc>
+               A photograph of the back a post-it with a simple example phrase.
+            </figDesc>
+            <graphic xml:id="19012_full" url="assets/img/documents/postit02.png"/>
+            <graphic xml:id="19012_thumb" url="assets/img/documents/postit02_thumb.png"/>
+         </figure>
+      </surface>
+      <surface xml:id="19021">
+         <figure>
+            <label>Slöjdskolans dagbok 1900</label>
+            <figDesc>
+               A photograph of the back a post-it with a simple example phrase.
+            </figDesc>
+            <graphic xml:id="19021_full" url="assets/img/documents/postit02.png"/>
+            <graphic xml:id="19021_thumb" url="assets/img/documents/postit02_thumb.png"/>
+         </figure>
+      </surface>
+      <surface xml:id="19022">
+         <figure>
+            <label>Slöjdskolans dagbok 1900</label>
+            <figDesc>
+               A photograph of the back a post-it with a simple example phrase.
+            </figDesc>
+            <graphic xml:id="19022_full" url="assets/img/documents/postit02.png"/>
+            <graphic xml:id="19022_thumb" url="assets/img/documents/postit02_thumb.png"/>
+         </figure>
+      </surface>
+      <surface xml:id="19031">
+         <figure>
+            <label>Slöjdskolans dagbok 1900</label>
+            <figDesc>
+               A photograph of the back a post-it with a simple example phrase.
+            </figDesc>
+            <graphic xml:id="19031_full" url="assets/img/documents/postit02.png"/>
+            <graphic xml:id="19031_thumb" url="assets/img/documents/postit02_thumb.png"/>
+         </figure>
+      </surface>
+	  <surface xml:id="19032">
+         <figure>
+            <label>Slöjdskolans dagbok 1900</label>
+            <figDesc>
+               A photograph of the back a post-it with a simple example phrase.
+            </figDesc>
+            <graphic xml:id="19032_full" url="assets/img/documents/postit02.png"/>
+            <graphic xml:id="19032_thumb" url="assets/img/documents/postit02_thumb.png"/>
+         </figure>
+      </surface>
+	  <surface xml:id="19041">
+         <figure>
+            <label>Slöjdskolans dagbok 1900</label>
+            <figDesc>
+               A photograph of the back a post-it with a simple example phrase.
+            </figDesc>
+            <graphic xml:id="19032_full" url="assets/img/documents/postit02.png"/>
+            <graphic xml:id="19032_thumb" url="assets/img/documents/postit02_thumb.png"/>
+         </figure>
+      </surface>
+	  <surface xml:id="19042">
+         <figure>
+            <label>Slöjdskolans dagbok 1900</label>
+            <figDesc>
+               A photograph of the back a post-it with a simple example phrase.
+            </figDesc>
+            <graphic xml:id="19042_full" url="assets/img/documents/postit02.png"/>
+            <graphic xml:id="19042_thumb" url="assets/img/documents/postit02_thumb.png"/>
+         </figure>
+      </surface>
+	  <surface xml:id="19051">
+         <figure>
+            <label>Slöjdskolans dagbok 1900</label>
+            <figDesc>
+               A photograph of the back a post-it with a simple example phrase.
+            </figDesc>
+            <graphic xml:id="19051_full" url="assets/img/documents/postit02.png"/>
+            <graphic xml:id="19051_thumb" url="assets/img/documents/postit02_thumb.png"/>
+         </figure>
+      </surface>
+	  <surface xml:id="19052">
+         <figure>
+            <label>Slöjdskolans dagbok 1900</label>
+            <figDesc>
+               A photograph of the back a post-it with a simple example phrase.
+            </figDesc>
+            <graphic xml:id="19052_full" url="assets/img/documents/postit02.png"/>
+            <graphic xml:id="19052_thumb" url="assets/img/documents/postit02_thumb.png"/>
+         </figure>
+      </surface>
+	  <surface xml:id="19061">
+         <figure>
+            <label>Slöjdskolans dagbok 1900</label>
+            <figDesc>
+               A photograph of the back a post-it with a simple example phrase.
+            </figDesc>
+            <graphic xml:id="19061_full" url="assets/img/documents/postit02.png"/>
+            <graphic xml:id="19061_thumb" url="assets/img/documents/postit02_thumb.png"/>
+         </figure>
+      </surface>
+	  <surface xml:id="19062">
+         <figure>
+            <label>Slöjdskolans dagbok 1900</label>
+            <figDesc>
+               A photograph of the back a post-it with a simple example phrase.
+            </figDesc>
+            <graphic xml:id="19062_full" url="assets/img/documents/postit02.png"/>
+            <graphic xml:id="19062_thumb" url="assets/img/documents/postit02_thumb.png"/>
+         </figure>
+      </surface>
+	  <surface xml:id="19071">
+         <figure>
+            <label>Slöjdskolans dagbok 1900</label>
+            <figDesc>
+               A photograph of the back a post-it with a simple example phrase.
+            </figDesc>
+            <graphic xml:id="19071_full" url="assets/img/documents/postit02.png"/>
+            <graphic xml:id="19071_thumb" url="assets/img/documents/postit02_thumb.png"/>
+         </figure>
+      </surface>
+	  <surface xml:id="19072">
+         <figure>
+            <label>Slöjdskolans dagbok 1900</label>
+            <figDesc>
+               A photograph of the back a post-it with a simple example phrase.
+            </figDesc>
+            <graphic xml:id="19072_full" url="assets/img/documents/postit02.png"/>
+            <graphic xml:id="19072_thumb" url="assets/img/documents/postit02_thumb.png"/>
+         </figure>
+      </surface>
+	  <surface xml:id="19081">
+         <figure>
+            <label>Slöjdskolans dagbok 1900</label>
+            <figDesc>
+               A photograph of the back a post-it with a simple example phrase.
+            </figDesc>
+            <graphic xml:id="19081_full" url="assets/img/documents/postit02.png"/>
+            <graphic xml:id="19081_thumb" url="assets/img/documents/postit02_thumb.png"/>
+         </figure>
+      </surface>	  
+   </facsimile>
+   <text>
+      <body>
+         <div type="page" facs="#19001">
+            <head>
+               <hi rend="u">DCHM Template</hi>
+            </head>
+			<p>
+            <table rows="11" cols="15">
+				 <head></head>
+				 <row role="label">
+				  <cell>Nr.</cell>
+				  <cell>Namn och hemvist</cell>
+				  <cell cols = "8">Under årets verkställda arbeten</cell>
+				  <cell cols = "4">Summa dagar</cell>
+				  <cell>Anmärkningar</cell>
+				 </row>
+				 <row role="label">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell>Började den</cell>
+				  <cell>Arbeten</cell>
+				  <cell>Slutade den</cell>
+				  <cell>Vits-ord</cell>
+				  <cell>Började den</cell>
+				  <cell>Arbeten</cell>
+				  <cell>Slutade den</cell>
+				  <cell>Vits-ord</cell>
+				  <cell>Närvarande</cell>
+				  <cell cols = "3">Summa dagar</cell>
+				
+				 </row>
+				 <row role="label">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell>Pga sjukdom</cell>
+				  <cell>med löf</cell>
+				  <cell>utan löf</cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				</table>
+				</p>
+         </div>
+         <div type="page" facs="#19011">
+		 <p>
+         <table rows="11" cols="15">
+				 <head></head>
+				 <row role="label">
+				  <cell>Nr.</cell>
+				  <cell>Namn och hemvist</cell>
+				  <cell cols = "8">Under årets verkställda arbeten</cell>
+				  <cell cols = "4">Summa dagar</cell>
+				  <cell>Anmärkningar</cell>
+				 </row>
+				 <row role="label">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell>Började den</cell>
+				  <cell>Arbeten</cell>
+				  <cell>Slutade den</cell>
+				  <cell>Vits-ord</cell>
+				  <cell>Började den</cell>
+				  <cell>Arbeten</cell>
+				  <cell>Slutade den</cell>
+				  <cell>Vits-ord</cell>
+				  <cell>Närvarande</cell>
+				  <cell cols = "3">Summa dagar</cell>
+				
+				 </row>
+				 <row role="label">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell>Pga sjukdom</cell>
+				  <cell>med löf</cell>
+				  <cell>utan löf</cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				</table>
+			</p>
+      </div>
+	   <div type="page" facs="#19012">
+	    <p>
+         <table rows="11" cols="15">
+				 <head></head>
+				 <row role="label">
+				  <cell>Nr.</cell>
+				  <cell>Namn och hemvist</cell>
+				  <cell cols = "8">Under årets verkställda arbeten</cell>
+				  <cell cols = "4">Summa dagar</cell>
+				  <cell>Anmärkningar</cell>
+				 </row>
+				 <row role="label">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell>Började den</cell>
+				  <cell>Arbeten</cell>
+				  <cell>Slutade den</cell>
+				  <cell>Vits-ord</cell>
+				  <cell>Började den</cell>
+				  <cell>Arbeten</cell>
+				  <cell>Slutade den</cell>
+				  <cell>Vits-ord</cell>
+				  <cell>Närvarande</cell>
+				  <cell cols = "3">Summa dagar</cell>
+				
+				 </row>
+				 <row role="label">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell>Pga sjukdom</cell>
+				  <cell>med löf</cell>
+				  <cell>utan löf</cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				</table>
+			</p>
+      </div>
+	   <div type="page" facs="#19021">
+	   <p>
+         <table rows="11" cols="15">
+				 <head></head>
+				 <row role="label">
+				  <cell>Nr.</cell>
+				  <cell>Namn och hemvist</cell>
+				  <cell cols = "8">Under årets verkställda arbeten</cell>
+				  <cell cols = "4">Summa dagar</cell>
+				  <cell>Anmärkningar</cell>
+				 </row>
+				 <row role="label">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell>Började den</cell>
+				  <cell>Arbeten</cell>
+				  <cell>Slutade den</cell>
+				  <cell>Vits-ord</cell>
+				  <cell>Började den</cell>
+				  <cell>Arbeten</cell>
+				  <cell>Slutade den</cell>
+				  <cell>Vits-ord</cell>
+				  <cell>Närvarande</cell>
+				  <cell cols = "3">Summa dagar</cell>
+				
+				 </row>
+				 <row role="label">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell>Pga sjukdom</cell>
+				  <cell>med löf</cell>
+				  <cell>utan löf</cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				</table>
+			</p>	
+      </div>
+	   <div type="page" facs="#19022">
+	   <p>
+         <table rows="11" cols="15">
+				 <head></head>
+				 <row role="label">
+				  <cell>Nr.</cell>
+				  <cell>Namn och hemvist</cell>
+				  <cell cols = "8">Under årets verkställda arbeten</cell>
+				  <cell cols = "4">Summa dagar</cell>
+				  <cell>Anmärkningar</cell>
+				 </row>
+				 <row role="label">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell>Började den</cell>
+				  <cell>Arbeten</cell>
+				  <cell>Slutade den</cell>
+				  <cell>Vits-ord</cell>
+				  <cell>Började den</cell>
+				  <cell>Arbeten</cell>
+				  <cell>Slutade den</cell>
+				  <cell>Vits-ord</cell>
+				  <cell>Närvarande</cell>
+				  <cell cols = "3">Summa dagar</cell>
+				
+				 </row>
+				 <row role="label">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell>Pga sjukdom</cell>
+				  <cell>med löf</cell>
+				  <cell>utan löf</cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				</table>
+			</p>	
+      </div>
+	   <div type="page" facs="#19031">
+	   <p>
+         <table rows="11" cols="15">
+				 <head></head>
+				 <row role="label">
+				  <cell>Nr.</cell>
+				  <cell>Namn och hemvist</cell>
+				  <cell cols = "8">Under årets verkställda arbeten</cell>
+				  <cell cols = "4">Summa dagar</cell>
+				  <cell>Anmärkningar</cell>
+				 </row>
+				 <row role="label">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell>Började den</cell>
+				  <cell>Arbeten</cell>
+				  <cell>Slutade den</cell>
+				  <cell>Vits-ord</cell>
+				  <cell>Började den</cell>
+				  <cell>Arbeten</cell>
+				  <cell>Slutade den</cell>
+				  <cell>Vits-ord</cell>
+				  <cell>Närvarande</cell>
+				  <cell cols = "3">Summa dagar</cell>
+				
+				 </row>
+				 <row role="label">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell>Pga sjukdom</cell>
+				  <cell>med löf</cell>
+				  <cell>utan löf</cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				</table>
+			</p>	
+      </div>
+	  	   <div type="page" facs="#19032">
+	   <p>
+         <table rows="11" cols="15">
+				 <head></head>
+				 <row role="label">
+				  <cell>Nr.</cell>
+				  <cell>Namn och hemvist</cell>
+				  <cell cols = "8">Under årets verkställda arbeten</cell>
+				  <cell cols = "4">Summa dagar</cell>
+				  <cell>Anmärkningar</cell>
+				 </row>
+				 <row role="label">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell>Började den</cell>
+				  <cell>Arbeten</cell>
+				  <cell>Slutade den</cell>
+				  <cell>Vits-ord</cell>
+				  <cell>Började den</cell>
+				  <cell>Arbeten</cell>
+				  <cell>Slutade den</cell>
+				  <cell>Vits-ord</cell>
+				  <cell>Närvarande</cell>
+				  <cell cols = "3">Summa dagar</cell>
+				
+				 </row>
+				 <row role="label">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell>Pga sjukdom</cell>
+				  <cell>med löf</cell>
+				  <cell>utan löf</cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				</table>
+			</p>	
+      </div>
+	   	   <div type="page" facs="#19041">
+	   <p>
+         <table rows="11" cols="15">
+				 <head></head>
+				 <row role="label">
+				  <cell>Nr.</cell>
+				  <cell>Namn och hemvist</cell>
+				  <cell cols = "8">Under årets verkställda arbeten</cell>
+				  <cell cols = "4">Summa dagar</cell>
+				  <cell>Anmärkningar</cell>
+				 </row>
+				 <row role="label">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell>Började den</cell>
+				  <cell>Arbeten</cell>
+				  <cell>Slutade den</cell>
+				  <cell>Vits-ord</cell>
+				  <cell>Började den</cell>
+				  <cell>Arbeten</cell>
+				  <cell>Slutade den</cell>
+				  <cell>Vits-ord</cell>
+				  <cell>Närvarande</cell>
+				  <cell cols = "3">Summa dagar</cell>
+				
+				 </row>
+				 <row role="label">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell>Pga sjukdom</cell>
+				  <cell>med löf</cell>
+				  <cell>utan löf</cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				</table>
+			</p>	
+      </div>
+	   	   <div type="page" facs="#19042">
+	   <p>
+         <table rows="11" cols="15">
+				 <head></head>
+				 <row role="label">
+				  <cell>Nr.</cell>
+				  <cell>Namn och hemvist</cell>
+				  <cell cols = "8">Under årets verkställda arbeten</cell>
+				  <cell cols = "4">Summa dagar</cell>
+				  <cell>Anmärkningar</cell>
+				 </row>
+				 <row role="label">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell>Började den</cell>
+				  <cell>Arbeten</cell>
+				  <cell>Slutade den</cell>
+				  <cell>Vits-ord</cell>
+				  <cell>Började den</cell>
+				  <cell>Arbeten</cell>
+				  <cell>Slutade den</cell>
+				  <cell>Vits-ord</cell>
+				  <cell>Närvarande</cell>
+				  <cell cols = "3">Summa dagar</cell>
+				
+				 </row>
+				 <row role="label">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell>Pga sjukdom</cell>
+				  <cell>med löf</cell>
+				  <cell>utan löf</cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				</table>
+			</p>	
+      </div>
+	   	   <div type="page" facs="#19051">
+	   <p>
+         <table rows="11" cols="15">
+				 <head></head>
+				 <row role="label">
+				  <cell>Nr.</cell>
+				  <cell>Namn och hemvist</cell>
+				  <cell cols = "8">Under årets verkställda arbeten</cell>
+				  <cell cols = "4">Summa dagar</cell>
+				  <cell>Anmärkningar</cell>
+				 </row>
+				 <row role="label">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell>Började den</cell>
+				  <cell>Arbeten</cell>
+				  <cell>Slutade den</cell>
+				  <cell>Vits-ord</cell>
+				  <cell>Började den</cell>
+				  <cell>Arbeten</cell>
+				  <cell>Slutade den</cell>
+				  <cell>Vits-ord</cell>
+				  <cell>Närvarande</cell>
+				  <cell cols = "3">Summa dagar</cell>
+				
+				 </row>
+				 <row role="label">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell>Pga sjukdom</cell>
+				  <cell>med löf</cell>
+				  <cell>utan löf</cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				</table>
+			</p>	
+      </div>
+	  	   <div type="page" facs="#19052">
+	   <p>
+         <table rows="11" cols="15">
+				 <head></head>
+				 <row role="label">
+				  <cell>Nr.</cell>
+				  <cell>Namn och hemvist</cell>
+				  <cell cols = "8">Under årets verkställda arbeten</cell>
+				  <cell cols = "4">Summa dagar</cell>
+				  <cell>Anmärkningar</cell>
+				 </row>
+				 <row role="label">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell>Började den</cell>
+				  <cell>Arbeten</cell>
+				  <cell>Slutade den</cell>
+				  <cell>Vits-ord</cell>
+				  <cell>Började den</cell>
+				  <cell>Arbeten</cell>
+				  <cell>Slutade den</cell>
+				  <cell>Vits-ord</cell>
+				  <cell>Närvarande</cell>
+				  <cell cols = "3">Summa dagar</cell>
+				
+				 </row>
+				 <row role="label">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell>Pga sjukdom</cell>
+				  <cell>med löf</cell>
+				  <cell>utan löf</cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				</table>
+			</p>	
+      </div>
+	   	   <div type="page" facs="#19061">
+	   <p>
+         <table rows="11" cols="15">
+				 <head></head>
+				 <row role="label">
+				  <cell>Nr.</cell>
+				  <cell>Namn och hemvist</cell>
+				  <cell cols = "8">Under årets verkställda arbeten</cell>
+				  <cell cols = "4">Summa dagar</cell>
+				  <cell>Anmärkningar</cell>
+				 </row>
+				 <row role="label">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell>Började den</cell>
+				  <cell>Arbeten</cell>
+				  <cell>Slutade den</cell>
+				  <cell>Vits-ord</cell>
+				  <cell>Började den</cell>
+				  <cell>Arbeten</cell>
+				  <cell>Slutade den</cell>
+				  <cell>Vits-ord</cell>
+				  <cell>Närvarande</cell>
+				  <cell cols = "3">Summa dagar</cell>
+				
+				 </row>
+				 <row role="label">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell>Pga sjukdom</cell>
+				  <cell>med löf</cell>
+				  <cell>utan löf</cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				</table>
+			</p>	
+      </div>
+	   	   <div type="page" facs="#19062">
+	   <p>
+         <table rows="11" cols="15">
+				 <head></head>
+				 <row role="label">
+				  <cell>Nr.</cell>
+				  <cell>Namn och hemvist</cell>
+				  <cell cols = "8">Under årets verkställda arbeten</cell>
+				  <cell cols = "4">Summa dagar</cell>
+				  <cell>Anmärkningar</cell>
+				 </row>
+				 <row role="label">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell>Började den</cell>
+				  <cell>Arbeten</cell>
+				  <cell>Slutade den</cell>
+				  <cell>Vits-ord</cell>
+				  <cell>Började den</cell>
+				  <cell>Arbeten</cell>
+				  <cell>Slutade den</cell>
+				  <cell>Vits-ord</cell>
+				  <cell>Närvarande</cell>
+				  <cell cols = "3">Summa dagar</cell>
+				
+				 </row>
+				 <row role="label">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell>Pga sjukdom</cell>
+				  <cell>med löf</cell>
+				  <cell>utan löf</cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				</table>
+			</p>	
+      </div>
+	   	   <div type="page" facs="#19071">
+	   <p>
+         <table rows="11" cols="15">
+				 <head></head>
+				 <row role="label">
+				  <cell>Nr.</cell>
+				  <cell>Namn och hemvist</cell>
+				  <cell cols = "8">Under årets verkställda arbeten</cell>
+				  <cell cols = "4">Summa dagar</cell>
+				  <cell>Anmärkningar</cell>
+				 </row>
+				 <row role="label">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell>Började den</cell>
+				  <cell>Arbeten</cell>
+				  <cell>Slutade den</cell>
+				  <cell>Vits-ord</cell>
+				  <cell>Började den</cell>
+				  <cell>Arbeten</cell>
+				  <cell>Slutade den</cell>
+				  <cell>Vits-ord</cell>
+				  <cell>Närvarande</cell>
+				  <cell cols = "3">Summa dagar</cell>
+				
+				 </row>
+				 <row role="label">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell>Pga sjukdom</cell>
+				  <cell>med löf</cell>
+				  <cell>utan löf</cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				</table>
+			</p>	
+      </div>
+	  	   <div type="page" facs="#19072">
+	   <p>
+         <table rows="11" cols="15">
+				 <head></head>
+				 <row role="label">
+				  <cell>Nr.</cell>
+				  <cell>Namn och hemvist</cell>
+				  <cell cols = "8">Under årets verkställda arbeten</cell>
+				  <cell cols = "4">Summa dagar</cell>
+				  <cell>Anmärkningar</cell>
+				 </row>
+				 <row role="label">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell>Började den</cell>
+				  <cell>Arbeten</cell>
+				  <cell>Slutade den</cell>
+				  <cell>Vits-ord</cell>
+				  <cell>Började den</cell>
+				  <cell>Arbeten</cell>
+				  <cell>Slutade den</cell>
+				  <cell>Vits-ord</cell>
+				  <cell>Närvarande</cell>
+				  <cell cols = "3">Summa dagar</cell>
+				
+				 </row>
+				 <row role="label">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell>Pga sjukdom</cell>
+				  <cell>med löf</cell>
+				  <cell>utan löf</cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				</table>
+			</p>	
+      </div>
+	   	   <div type="page" facs="#19081">
+	   <p>
+         <table rows="11" cols="15">
+				 <head></head>
+				 <row role="label">
+				  <cell>Nr.</cell>
+				  <cell>Namn och hemvist</cell>
+				  <cell cols = "8">Under årets verkställda arbeten</cell>
+				  <cell cols = "4">Summa dagar</cell>
+				  <cell>Anmärkningar</cell>
+				 </row>
+				 <row role="label">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell>Började den</cell>
+				  <cell>Arbeten</cell>
+				  <cell>Slutade den</cell>
+				  <cell>Vits-ord</cell>
+				  <cell>Började den</cell>
+				  <cell>Arbeten</cell>
+				  <cell>Slutade den</cell>
+				  <cell>Vits-ord</cell>
+				  <cell>Närvarande</cell>
+				  <cell cols = "3">Summa dagar</cell>
+				
+				 </row>
+				 <row role="label">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell>Pga sjukdom</cell>
+				  <cell>med löf</cell>
+				  <cell>utan löf</cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				
+				 <row role="data">
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				</table>
+			</p>	
+      </div>
+	   	   
+	  
+      </body>
+   </text>
+</TEI>

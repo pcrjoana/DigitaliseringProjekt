@@ -93,7 +93,7 @@
                   			</a>
                   		</div>
                   		<div class="copyright_text">
-                         2022 Wout Dillen.
+                         2026 Alex Bergwhall; Ella Andrén; Joana P.C. Ribeiro
                       </div>
                     </div>
                 </div>
