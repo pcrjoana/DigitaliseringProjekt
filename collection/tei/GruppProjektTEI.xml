@@ -6,13 +6,13 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>DCHM Template</title>
-            <author corresp="#WD">Wout Dillen</author>
-            <principal>Wout Dillen</principal>
+            <title>Slöjdskolans dagbok</title>
+            <author corresp="#sls">Slöjdskolan i Heby</author>
+            <principal>Gruppen</principal>
          </titleStmt>
          <publicationStmt>
             <publisher>University of Borås</publisher>
-            <date>March 2022</date>
+            <date>May 2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
                   <p>
@@ -22,23 +22,23 @@
             </availability>
          </publicationStmt>
          <sourceDesc>
-               <p>A two-sided post-it with a simple example phrase on either side.</p>
+               <p>Enåkers socken sljödskolans dagbok åren 1900-1908.</p>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
          <handNotes>
-            <handNote xml:id="WD" medium="blue-ink">Original text in blue ink, written by Wout Dillen.</handNote>
+            <handNote xml:id="WD" medium="blue-ink">Originaltext i bläck.</handNote>
          </handNotes>
       </profileDesc>
    </teiHeader>
    <facsimile>
-      <surface xml:id="postit01">
+      <surface xml:id="framsidan">
          <figure>
-            <label>Post-It Front</label>
+            <label>Första sidan</label>
             <figDesc>
-               A photograph of the front of a post-it with a simple example phrase.
+               A photograph of the front page of the logbook
             </figDesc>
-            <graphic xml:id="postit01_full" url="assets/img/documents/postit01.png"/>
+            <graphic xml:id="framsidan_full" url="assets/img/documents/DagbokFramsidan.jpeg"/>
             <graphic xml:id="postit01_thumb" url="assets/img/documents/postit01_thumb.png"/>
          </figure>
       </surface>
