@@ -659,6 +659,11 @@
 				 
 				 <row role="data">
 				  <cell>1</cell>
+				    <cell><l>Gustaf Alrik Olsson</l><l>Enåkersby</l><l>Gust. Olsson</l></cell>
+				    <cell><l></l><l>9/2</l><l>16/3</l><l>30/3</l></cell>
+				    <cell><l>Bord</l><l>Strykmått</l><l>Köttklubba</l><l>Trädgårdsstol</l></cell>
+				    <cell><l>2/2</l><l>9/3</l><l>30/3</l><l>2/11</l></cell>
+				    <cell><l>b</l><l>b</l><l>b</l><l>b</l></cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -667,17 +672,17 @@
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
+				    <cell>Slutade den 2 nov</cell>
 				 </row>
 				 
 				 
 				 <row role="data">
 				  <cell>2</cell>
+				    <cell><l>Er. Anton Eriksson</l><l>Andersbo</l><l>Skrädd. And. Larsson</l></cell>
+				    <cell><l>19/1</l><l>16/2</l><l>2/3</l><l>6/4</l><l>25/5</l><l>14/9</l></cell>
+				    <cell><l>Pall</l><l>Brödspade</l><l>Hacklåda</l><l>Köttklubba</l><l>Kniflåda</l><l>Skurlåda</l></cell>
+				    <cell><l>9/2</l><l>23/2</l><l>30/3</l><l>18/5</l><l>15/6</l><l>26/10</l></cell>
+				    <cell><l>b</l><l>b</l><l>b</l><l>b</l><l>b</l><l>b</l></cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -686,22 +691,17 @@
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
+				    <cell>Slutade den 26 okt.</cell>
 				 </row>
 				 
 				
 				 <row role="data">
 				  <cell>3</cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
+				    <cell><l>Bror Erik Pil</l><l>Österbo</l><l>Sold. L. E. Pil</l></cell>
+				    <cell><l>19/1</l><l>9/2</l><l>13/4</l><l>25/5</l><l>8/6</l><l>14/9</l><l>2/11</l></cell>
+				    <cell><l>Skottkärra</l><l>Bord</l><l>Strykmått</l><l>Brödspade</l><l>Linjal</l><l>Trädgårdsstol</l><l>Baktråg</l></cell>
+				    <cell><l>2/2</l><l>30/3</l><l>25/5</l><l>8/6</l><l>15/6</l><l>2/11</l><l>30/11</l></cell>
+				    <cell><l>b</l><l>b</l><l>b</l><l>b</l><l>b</l><l>b</l><l>b</l></cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
