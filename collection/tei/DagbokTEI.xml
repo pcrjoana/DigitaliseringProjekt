@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Slöjdskolans dagbok</title>
+            <title>Slöjdskolan i Enåkers sockens dagbok åren 1900-1908</title>
             <author corresp="#sls">Alex Bergwhall; Ella Andrén; Joana P.C. Ribeiro</author>
             <principal>Alex Bergwhall; Ella Andrén; Joana P.C. Ribeiro</principal>
          </titleStmt>
@@ -42,17 +42,27 @@
             <graphic xml:id="framsidan_thumb" url="assets/img/documents/postit01_thumb.png"/>
          </figure>
       </surface>
-      <surface xml:id="ss19001">
+      <surface xml:id="s19001">
          <figure>
             <label>Slöjdskolans dagbok 1900</label>
             <figDesc>
                A photograph of the back a post-it with a simple example phrase.
             </figDesc>
-            <graphic xml:id="ss19001_full" url="assets/img/documents/postit02.png"/>
-            <graphic xml:id="ss19001_thumb" url="assets/img/documents/postit02_thumb.png"/>
+            <graphic xml:id="s19001_full" url="assets/img/documents/postit02.png"/>
+            <graphic xml:id="s19001_thumb" url="assets/img/documents/postit02_thumb.png"/>
          </figure>
       </surface>
-      <surface xml:id="ss19011">
+      <surface xml:id="s19002">
+         <figure>
+            <label>Slöjdskolans dagbok 1900</label>
+            <figDesc>
+               A photograph of the back a post-it with a simple example phrase.
+            </figDesc>
+            <graphic xml:id="s19002_full" url="assets/img/documents/postit02.png"/>
+            <graphic xml:id="s19002_thumb" url="assets/img/documents/postit02_thumb.png"/>
+         </figure>
+      </surface>
+      <surface xml:id="s19011">
          <figure>
             <label>Slöjdskolans dagbok 1901</label>
             <figDesc>
@@ -252,10 +262,27 @@
 				  <cell>utan löf</cell>
 				 </row>
 				 
+               <row role="data">
+                  <cell>1</cell>
+                  <cell><l>Gustaf Alrik Olsson</l><l>Enåkersby</l><l>XX A.G. Olsson</l></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+               </row>
 				 
 				 <row role="data">
-				  <cell></cell>
-				  <cell></cell>
+				  <cell>2</cell>
+				  <cell><l>Otto Berlund</l><l>Ingbo</l><l>Arb. J. O. Berglund</l></cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -273,84 +300,8 @@
 				 
 				 
 				 <row role="data">
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				 </row>
-				 
-				
-				 <row role="data">
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				 </row>
-				 
-				 
-				 <row role="data">
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				 </row>
-				 
-				 
-				 <row role="data">
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				 </row>
-				 
-				 
-				 <row role="data">
-				  <cell></cell>
-				  <cell></cell>
+				  <cell>3</cell>
+				  <cell><l>Karl Rick. Hedlund</l><l>Uddnäs</l><l>Statk. P.O. Hedlund</l></cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -368,8 +319,65 @@
 				 
 				
 				 <row role="data">
+				  <cell>4</cell>
+				  <cell><l>Bror Er. Pil</l><l>Österbo</l></cell>
 				  <cell></cell>
 				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell>5</cell>
+				  <cell><l>Karl Aug. Andersson</l><l>Ingbo</l><l>Fördelsm. And Ersson</l></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell>6</cell>
+				  <cell><l>Alexius Arenander</l><l>Lindsbro</l><l>Fru Arenander</l></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell>7</cell>
+				  <cell><l>Per Axel Andersson</l><l>Kroksbo</l><l>Bn. Er. Andersson</l></cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -387,8 +395,8 @@
 				 
 				
 				 <row role="data">
-				  <cell></cell>
-				  <cell></cell>
+				  <cell>8</cell>
+				  <cell><l>Er. Anton Eriksson</l><l>Andersbo</l><l>Skrädd. And. Larsson</l></cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -405,6 +413,204 @@
 				 </row>
 				</table>
 				</p>
+         </div>
+         <div type="page" facs="#s19002">
+            <p>
+               <table rows="11" cols="15">
+                  <head></head>
+                  <row role="label">
+                     <cell>Nr.</cell>
+                     <cell>Namn och hemvist</cell>
+                     <cell cols = "8">Under årets verkställda arbeten</cell>
+                     <cell cols = "4">Summa dagar</cell>
+                     <cell>Anmärkningar</cell>
+                  </row>
+                  <row role="label">
+                     <cell></cell>
+                     <cell></cell>
+                     <cell>Började den</cell>
+                     <cell>Arbeten</cell>
+                     <cell>Slutade den</cell>
+                     <cell>Vits-ord</cell>
+                     <cell>Började den</cell>
+                     <cell>Arbeten</cell>
+                     <cell>Slutade den</cell>
+                     <cell>Vits-ord</cell>
+                     <cell>Närvarande</cell>
+                     <cell cols = "3">Summa dagar</cell>
+                     
+                  </row>
+                  <row role="label">
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell>Pga sjukdom</cell>
+                     <cell>med löf</cell>
+                     <cell>utan löf</cell>
+                  </row>
+                  
+                  
+                  <row role="data">
+                     <cell>9</cell>
+                     <cell><l>Elof Lindevall</l><l>Kroksbo</l><l>Torp. P.E. Lindevall</l></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                  </row>
+                  
+                  
+                  <row role="data">
+                     <cell>10</cell>
+                     <cell><l>Frans Gunnar Andersson</l><l>Aspnäs</l><l>Förm. L.O. Andersson</l></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                  </row>
+                  
+                  
+                  <row role="data">
+                     <cell>11</cell>
+                     <cell><l>Axel Enlund</l><l>Persbo</l><l>Lägenhetstäg. J. O. Enlund</l></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                  </row>
+                  
+                  
+                  <row role="data">
+                     <cell>12</cell>
+                     <cell><l>Ernst Kanr. Eriksson</l><l>Enåkersby</l><l>Skom. Gust. Eriksson</l></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                  </row>
+                  
+                  
+                  <row role="data">
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                  </row>
+                  
+                  
+                  <row role="data">
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                  </row>
+                  
+                  
+                  <row role="data">
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                  </row>
+                  
+                  
+                  <row role="data">
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                  </row>
+               </table>
+            </p>
          </div>
          <div type="page" facs="#s19011">
 		 <p>
@@ -452,45 +658,7 @@
 				 
 				 
 				 <row role="data">
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				 </row>
-				 
-				 
-				 <row role="data">
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				 </row>
-				 
-				
-				 <row role="data">
-				  <cell></cell>
+				  <cell>1</cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -509,45 +677,7 @@
 				 
 				 
 				 <row role="data">
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				 </row>
-				 
-				 
-				 <row role="data">
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				 </row>
-				 
-				 
-				 <row role="data">
-				  <cell></cell>
+				  <cell>2</cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -566,7 +696,64 @@
 				 
 				
 				 <row role="data">
+				  <cell>3</cell>
 				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell>4</cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell>5</cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell>6</cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -585,7 +772,26 @@
 				 
 				
 				 <row role="data">
+				  <cell>7</cell>
 				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				
+				 <row role="data">
+				  <cell>8</cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -650,45 +856,7 @@
 				 
 				 
 				 <row role="data">
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				 </row>
-				 
-				 
-				 <row role="data">
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				 </row>
-				 
-				
-				 <row role="data">
-				  <cell></cell>
+				  <cell>9</cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -707,45 +875,7 @@
 				 
 				 
 				 <row role="data">
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				 </row>
-				 
-				 
-				 <row role="data">
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				 </row>
-				 
-				 
-				 <row role="data">
-				  <cell></cell>
+				  <cell>10</cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -764,7 +894,64 @@
 				 
 				
 				 <row role="data">
+				  <cell>11</cell>
 				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell>12</cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell>13</cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				 
+				 <row role="data">
+				  <cell>14</cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -783,7 +970,26 @@
 				 
 				
 				 <row role="data">
+				  <cell>15</cell>
 				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell></cell>
+				 </row>
+				 
+				
+				 <row role="data">
+				  <cell>16</cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>

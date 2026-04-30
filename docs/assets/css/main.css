@@ -29,7 +29,12 @@ h3 {
     
 }
 
-
+table {
+  width: 50%;
+}
+div.tablecontainer {
+  overflow-x: auto;
+}
 
 #details {
     padding: 2vw;
