@@ -686,10 +686,10 @@
 				  <cell>1</cell>
 				    <cell><l>Gustaf Alrik Olsson</l><l>Enåkersby</l><l>Gust. Olsson</l></cell>
 				    <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>
-				    <cell><l></l><l>9/2</l><l>16/3</l><l>30/3</l></cell>
-				    <cell><l>Bord</l><l>Strykmått</l><l>Köttklubba</l><l>Trädgårdsstol</l></cell>
-				    <cell><l>2/2</l><l>9/3</l><l>30/3</l><l>2/11</l></cell>
-				    <cell><l>b</l><l>b</l><l>b</l><l>b</l></cell>
+				    <cell><l></l><l>9/2</l><l>16/3</l><l>30/3</l><l></l><l></l></cell>
+				    <cell><l>Bord</l><l>Strykmått</l><l>Köttklubba</l><l>Trädgårdsstol</l><l></l><l></l></cell>
+				    <cell><l>2/2</l><l>9/3</l><l>30/3</l><l>2/11</l><l></l><l></l></cell>
+				    <cell><l>b</l><l>b</l><l>b</l><l>b</l><l></l><l></l></cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -726,14 +726,14 @@
 				  <cell>3</cell>
 				    <cell><l>Bror Erik Pil</l><l>Österbo</l><l>Sold. L. E. Pil</l></cell>
 				    <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>
-				    <cell><l>19/1</l><l>9/2</l><l>13/4</l><l>25/5</l><l>8/6</l><l>14/9</l><l>2/11</l></cell>
-				    <cell><l>Skottkärra</l><l>Bord</l><l>Strykmått</l><l>Brödspade</l><l>Linjal</l><l>Trädgårdsstol</l><l>Baktråg</l></cell>
-				    <cell><l>2/2</l><l>30/3</l><l>25/5</l><l>8/6</l><l>15/6</l><l>2/11</l><l>30/11</l></cell>
-				    <cell><l>b</l><l>b</l><l>b</l><l>b</l><l>b</l><l>b</l><l>b</l></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
+				    <cell><l>19/1</l><l>9/2</l><l>13/4</l><l>25/5</l><l>8/6</l><l>14/9</l></cell>
+				    <cell><l>Skottkärra</l><l>Bord</l><l>Strykmått</l><l>Brödspade</l><l>Linjal</l><l>Trädgårdsstol</l></cell>
+				    <cell><l>2/2</l><l>30/3</l><l>25/5</l><l>8/6</l><l>15/6</l><l>2/11</l></cell>
+				    <cell><l>b</l><l>b</l><l>b</l><l>b</l><l>b</l><l>b</l></cell>
+				    <cell><l>2/11</l><l></l><l></l><l></l><l></l><l></l><l></l></cell>
+				    <cell><l>Baktråg</l><l></l><l></l><l></l><l></l><l></l><l></l></cell>
+				    <cell><l>30/11</l><l></l><l></l><l></l><l></l><l></l><l></l></cell>
+				    <cell><l>b</l><l></l><l></l><l></l><l></l><l></l><l></l></cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -786,14 +786,14 @@
 				  <cell>6</cell>
 				    <cell><l>Ernst Eriksson</l><l>Enåkersby</l><l>Skom. Gust. Eriksson</l></cell>
 				    <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>
-				    <cell><l>26/1</l><l>2/2</l><l>21/9</l><l>12/10</l><l>26/10</l><l>2/11</l><l>23/11</l></cell>
-				    <cell><l>Filskaft</l><l>Werktygsklubba</l><l>Mjölskopa</l><l>Hörnhylla</l><l>Spade</l><l>Fotskrapa</l><l>Brödpigg</l></cell>
-				    <cell><l>26/1</l><l>14/9</l><l>12/10</l><l>26/10</l><l>2/11</l><l>16/11</l><l>30/11</l></cell>
-				    <cell><l>b</l><l>b</l><l>b</l><l>b</l><l>b</l><l>b</l><l>b</l></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
+				    <cell><l>26/1</l><l>2/2</l><l>21/9</l><l>12/10</l><l>26/10</l><l>2/11</l></cell>
+				    <cell><l>Filskaft</l><l>Werktygsklubba</l><l>Mjölskopa</l><l>Hörnhylla</l><l>Spade</l><l>Fotskrapa</l></cell>
+				    <cell><l>26/1</l><l>14/9</l><l>12/10</l><l>26/10</l><l>2/11</l><l>16/11</l></cell>
+				    <cell><l>b</l><l>b</l><l>b</l><l>b</l><l>b</l><l>b</l></cell>
+				    <cell><l>23/11</l><l></l><l></l><l></l><l></l><l></l><l></l></cell>
+				    <cell><l>Brödpigg</l><l></l><l></l><l></l><l></l><l></l><l></l></cell>
+				    <cell><l>30/11</l><l></l><l></l><l></l><l></l><l></l><l></l></cell>
+				    <cell><l>b</l><l></l><l></l><l></l><l></l><l></l><l></l></cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -806,14 +806,14 @@
 				  <cell>7</cell>
 				    <cell><l>Gunnar Andersson</l><l>Aspnäs</l><l>Förm. L. O. Andersson</l></cell>
 				    <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>
-				    <cell><l>19/1</l><l>26/1</l><l>2/3</l><l>16/3</l><l>6/4</l><l>25/5</l><l>4/9</l></cell>
-				    <cell><l>Filskaft</l><l>Klappträ</l><l>Köttklubba</l><l>Brödspade</l><l>Hörnhylla</l><l>Kniflåda</l><l>Skurlåda</l></cell>
-				    <cell><l>26/1</l><l>23/2</l><l>16/3</l><l>30/3</l><l>18/5</l><l>15/6</l><l>30/11</l></cell>
-				    <cell><l>b</l><l>b</l><l>b</l><l>b</l><l>b</l><l></l><l>b</l></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
+				    <cell><l>19/1</l><l>26/1</l><l>2/3</l><l>16/3</l><l>6/4</l><l>25/5</l><l></l></cell>
+				    <cell><l>Filskaft</l><l>Klappträ</l><l>Köttklubba</l><l>Brödspade</l><l>Hörnhylla</l><l>Kniflåda</l><l></l></cell>
+				    <cell><l>26/1</l><l>23/2</l><l>16/3</l><l>30/3</l><l>18/5</l><l>15/6</l><l></l></cell>
+				    <cell><l>b</l><l>b</l><l>b</l><l>b</l><l>b</l><l></l><l></l></cell>
+				    <cell><l>4/9</l><l></l><l></l><l></l><l></l><l></l><l></l></cell>
+				    <cell><l>Skurlåda</l><l></l><l></l><l></l><l></l><l></l><l></l></cell>
+				    <cell><l>30/11</l><l></l><l></l><l></l><l></l><l></l><l></l></cell>
+				    <cell><l>b</l><l></l><l></l><l></l><l></l><l></l><l></l></cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
