@@ -718,9 +718,9 @@
 				  <cell>4</cell>
 				    <cell><l>Karl August Andersson</l><l>Ingbo</l><l>Fördelsm. And. Ersson</l></cell>
 				    <cell><l>19/1</l><l>30/3</l><l>20/4</l><l>25/5</l><l>12/10</l>16/11<l></l></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
+				    <cell><l>Skottkärra</l><l>Köttklubba</l><l>Strykmått</l><l>Mjölkar</l><l>Skurlåda</l><l>Sågställning</l></cell>
+				    <cell><l>23/3</l><l>13/4</l><l>25/5</l><l>15/6</l><l>9/11</l><l>30/11</l></cell>
+				    <cell><l>b</l><l>b</l><l>b</l><l>b</l><l>b</l><l>b</l></cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -735,11 +735,11 @@
 				 
 				 <row role="data">
 				  <cell>5</cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
+				    <cell><l>Alexius Arenander</l><l>Lindsbro</l><l>Änkefru Arenander</l></cell>
+				    <cell><l>19/1</l><l>16/2</l><l>20/4</l><l>25/5</l><l>1/6</l><l>16/11</l></cell>
+				    <cell><l>Hacklåda</l><l>Werktygsklubba</l><l>Köttklubba</l><l>Brödpigg</l><l>Skottkärra</l><l>Sågställning</l></cell>
+				    <cell><l>9/2</l><l>13/4</l><l>25/5</l><l>1/6</l><l>9/11</l><l>30/11</l></cell>
+				    <cell><l>b</l><l>b</l><l>b</l><l>b</l><l>b</l><l>b</l></cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -754,11 +754,11 @@
 				 
 				 <row role="data">
 				  <cell>6</cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
+				    <cell><l>Ernst Eriksson</l><l>Enåkersby</l><l>Skom. Gust. Eriksson</l></cell>
+				    <cell><l>26/1</l><l>2/2</l><l>21/9</l><l>12/10</l><l>26/10</l><l>2/11</l><l>23/11</l></cell>
+				    <cell><l>Filskaft</l><l>Werktygsklubba</l><l>Mjölskopa</l><l>Hörnhylla</l><l>Spade</l><l>Fotskrapa</l><l>Brödpigg</l></cell>
+				    <cell><l>26/1</l><l>14/9</l><l>12/10</l><l>26/10</l><l>2/11</l><l>16/11</l><l>30/11</l></cell>
+				    <cell><l>b</l><l>b</l><l>b</l><l>b</l><l>b</l><l>b</l><l>b</l></cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
