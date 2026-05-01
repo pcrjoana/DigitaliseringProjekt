@@ -46,9 +46,9 @@
          <figure>
             <label>Slöjdskolans dagbok 1900</label>
             <figDesc>
-               A photograph of the back a post-it with a simple example phrase.
+               En lista av elever med nummer 1-8 som pluggade vid slöjdskolan år 1900.
             </figDesc>
-            <graphic xml:id="s19001_full" url="assets/img/documents/postit02.png"/>
+            <graphic xml:id="s19001_full" url="assets/img/documents/1900_2.jpeg"/>
             <graphic xml:id="s19001_thumb" url="assets/img/documents/postit02_thumb.png"/>
          </figure>
       </surface>
@@ -56,9 +56,9 @@
          <figure>
             <label>Slöjdskolans dagbok 1900</label>
             <figDesc>
-               A photograph of the back a post-it with a simple example phrase.
+               En lista elever med nummer 9-12 som pluggade vid slöjdskolan år 1900.
             </figDesc>
-            <graphic xml:id="s19002_full" url="assets/img/documents/postit02.png"/>
+            <graphic xml:id="s19002_full" url="assets/img/documents/1900_4.jpeg"/>
             <graphic xml:id="s19002_thumb" url="assets/img/documents/postit02_thumb.png"/>
          </figure>
       </surface>
