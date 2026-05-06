@@ -66,25 +66,35 @@
          <figure>
             <label>Slöjdskolans dagbok 1901</label>
             <figDesc>
-               A photograph of the back a post-it with a simple example phrase.
+               En lista av elever med nummer 1-8 som pluggade vid slöjdskolan år 1901.
             </figDesc>
-            <graphic xml:id="s19011_full" url="assets/img/documents/postit02.png"/>
+            <graphic xml:id="s19011_full" url="assets/img/documents/1901_2.jpeg"/>
             <graphic xml:id="s19011_thumb" url="assets/img/documents/postit02_thumb.png"/>
          </figure>
       </surface>
       <surface xml:id="s19012">
          <figure>
-            <label>Slöjdskolans dagbok 1900</label>
+            <label>Slöjdskolans dagbok 1901</label>
             <figDesc>
-               A photograph of the back a post-it with a simple example phrase.
+               En lista elever med nummer 9-12 som pluggade vid slöjdskolan år 1901.
             </figDesc>
-            <graphic xml:id="s19012_full" url="assets/img/documents/postit02.png"/>
+            <graphic xml:id="s19012_full" url="assets/img/documents/1901_4.jpeg"/>
             <graphic xml:id="s19012_thumb" url="assets/img/documents/postit02_thumb.png"/>
+         </figure>
+      </surface>
+      <surface xml:id="s19013">
+         <figure>
+            <label>Slöjdskolans dagbok 1901</label>
+            <figDesc>
+               En lista elever med nummer 9-12 som pluggade vid slöjdskolan år 1901.
+            </figDesc>
+            <graphic xml:id="s19013_full" url="assets/img/documents/1901_5.jpeg"/>
+            <graphic xml:id="s19013_thumb" url="assets/img/documents/postit02_thumb.png"/>
          </figure>
       </surface>
       <surface xml:id="s19021">
          <figure>
-            <label>Slöjdskolans dagbok 1900</label>
+            <label>Slöjdskolans dagbok 1902</label>
             <figDesc>
                A photograph of the back a post-it with a simple example phrase.
             </figDesc>
@@ -94,7 +104,7 @@
       </surface>
       <surface xml:id="s19022">
          <figure>
-            <label>Slöjdskolans dagbok 1900</label>
+            <label>Slöjdskolans dagbok 1902</label>
             <figDesc>
                A photograph of the back a post-it with a simple example phrase.
             </figDesc>
@@ -104,7 +114,7 @@
       </surface>
       <surface xml:id="s19031">
          <figure>
-            <label>Slöjdskolans dagbok 1900</label>
+            <label>Slöjdskolans dagbok 1903</label>
             <figDesc>
                A photograph of the back a post-it with a simple example phrase.
             </figDesc>
@@ -114,7 +124,7 @@
       </surface>
 	  <surface xml:id="s19032">
          <figure>
-            <label>Slöjdskolans dagbok 1900</label>
+            <label>Slöjdskolans dagbok 1903</label>
             <figDesc>
                A photograph of the back a post-it with a simple example phrase.
             </figDesc>
@@ -124,7 +134,7 @@
       </surface>
 	  <surface xml:id="s19041">
          <figure>
-            <label>Slöjdskolans dagbok 1900</label>
+            <label>Slöjdskolans dagbok 1904</label>
             <figDesc>
                A photograph of the back a post-it with a simple example phrase.
             </figDesc>
@@ -134,7 +144,7 @@
       </surface>
 	  <surface xml:id="s19042">
          <figure>
-            <label>Slöjdskolans dagbok 1900</label>
+            <label>Slöjdskolans dagbok 1904</label>
             <figDesc>
                A photograph of the back a post-it with a simple example phrase.
             </figDesc>
@@ -144,7 +154,7 @@
       </surface>
 	  <surface xml:id="s19051">
          <figure>
-            <label>Slöjdskolans dagbok 1900</label>
+            <label>Slöjdskolans dagbok 1905</label>
             <figDesc>
                A photograph of the back a post-it with a simple example phrase.
             </figDesc>
@@ -154,7 +164,7 @@
       </surface>
 	  <surface xml:id="s19052">
          <figure>
-            <label>Slöjdskolans dagbok 1900</label>
+            <label>Slöjdskolans dagbok 1905</label>
             <figDesc>
                A photograph of the back a post-it with a simple example phrase.
             </figDesc>
@@ -164,7 +174,7 @@
       </surface>
 	  <surface xml:id="s19061">
          <figure>
-            <label>Slöjdskolans dagbok 1900</label>
+            <label>Slöjdskolans dagbok 1906</label>
             <figDesc>
                A photograph of the back a post-it with a simple example phrase.
             </figDesc>
@@ -174,7 +184,7 @@
       </surface>
 	  <surface xml:id="s19062">
          <figure>
-            <label>Slöjdskolans dagbok 1900</label>
+            <label>Slöjdskolans dagbok 1906</label>
             <figDesc>
                A photograph of the back a post-it with a simple example phrase.
             </figDesc>
@@ -184,7 +194,7 @@
       </surface>
 	  <surface xml:id="s19071">
          <figure>
-            <label>Slöjdskolans dagbok 1900</label>
+            <label>Slöjdskolans dagbok 1907</label>
             <figDesc>
                A photograph of the back a post-it with a simple example phrase.
             </figDesc>
@@ -194,7 +204,7 @@
       </surface>
 	  <surface xml:id="s19072">
          <figure>
-            <label>Slöjdskolans dagbok 1900</label>
+            <label>Slöjdskolans dagbok 1907</label>
             <figDesc>
                A photograph of the back a post-it with a simple example phrase.
             </figDesc>
@@ -204,7 +214,7 @@
       </surface>
 	  <surface xml:id="s19081">
          <figure>
-            <label>Slöjdskolans dagbok 1900</label>
+            <label>Slöjdskolans dagbok 1908</label>
             <figDesc>
                A photograph of the back a post-it with a simple example phrase.
             </figDesc>
@@ -824,16 +834,16 @@
 				
 				 <row role="data">
 				  <cell>8</cell>
-				  <cell></cell>
+				  <cell><l>Axel Enlund</l><l>Persbo</l><l>Torpäg. J.O. Enlund</l></cell>
 				  <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell> 
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
+				  <cell><l>19/1</l><l>16/3</l><l>13/4</l><l>1/6</l><l>8/6</l><l></l></cell>
+				  <cell><l>Pall</l><l>Brödspade</l><l>Werktygsklubba</l><l>Filskaft</l><l>Köttklubba</l><l></l></cell>
+				  <cell><l>9/3</l><l>30/3</l><l>18/5</l><l>1/6</l><l>15/6</l><l></l></cell>
+				  <cell><l>b</l><l>b</l><l>b</l><l>b</l><l>b</l><l></l></cell>
+				  <cell><l>4/9</l><l>26/10</l><l>23/11</l><l></l><l></l><l></l></cell>
+				  <cell><l>Skurlåda</l><l>Hacklåda</l><l>Brödpigg</l><l></l><l></l><l></l></cell>
+				  <cell><l>19/10</l><l>16/11</l><l>30/11</l><l></l><l></l><l></l></cell>
+				  <cell><l>b</l><l>b</l><l>b</l><l></l><l></l><l></l></cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -893,16 +903,16 @@
 				 
 				 <row role="data">
 				  <cell>9</cell>
-				  <cell></cell>
+				    <cell><l>Wiktor Söderberg</l><l>Främnäs</l><l>Torp. A. Söderberg</l></cell>
 				  <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell> 
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
+				    <cell><l>19/1</l><l>19/1</l><l>26/1</l><l>2/2</l><l>9/2</l><l>23/2</l></cell>
+				    <cell><l>Blomkrukspinne</l><l>Nyckeletikett</l><l>Klädstrecksklyka</l><l>Selpinne</l><l>Skärbräde</l><l>Strumpbräde</l></cell>
+				    <cell><l>19/1</l><l>26/1</l><l>26/1</l><l>9/2</l><l>16/2</l><l>2/3</l></cell>
+				    <cell><l>b</l><l>b</l><l>b</l><l>b</l><l>b</l><l>b</l></cell>
+				    <cell><l>2/3</l><l>9/3</l><l>16/3</l><l>23/3</l><l>30/3</l><l>30/3</l></cell>
+				    <cell><l>Rockhängare</l><l>Stämjärnsskaft</l><l>Hammarskaft</l><l>Smörspade</l><l>Pappersknif</l><l>Spjälpall</l></cell>
+				    <cell><l>9/3</l><l>16/3</l><l>16/3</l><l>23/3</l><l>30/3</l><l>13/4</l></cell>
+				    <cell><l>b</l><l>b</l><l>b</l><l>b</l><l>b</l><l>b</l></cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -1052,6 +1062,215 @@
 				</table>
 			</p>
       </div>
+         <div type="page" facs="#s19013">
+            <p>
+               <table rows="11" cols="16">
+                  <head></head>
+                  <row role="label">
+                     <cell>Nr.</cell>
+                     <cell>Namn och hemvist</cell>
+                     <cell>Dagar.</cell> 
+                     <cell cols = "8">Under årets verkställda arbeten</cell>
+                     <cell cols = "4">Summa dagar</cell>
+                     <cell>Anmärkningar</cell>
+                  </row>
+                  <row role="label">
+                     <cell></cell>
+                     <cell></cell> 
+                     <cell></cell>
+                     <cell>Började den</cell>
+                     <cell>Arbeten</cell>
+                     <cell>Slutade den</cell>
+                     <cell>Vits-ord</cell>
+                     <cell>Började den</cell>
+                     <cell>Arbeten</cell>
+                     <cell>Slutade den</cell>
+                     <cell>Vits-ord</cell>
+                     <cell>Närvarande</cell>
+                     <cell cols = "3">Summa dagar</cell>
+                     
+                  </row>
+                  <row role="label">
+                     <cell></cell>
+                     <cell></cell> 
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell>Pga sjukdom</cell>
+                     <cell>med löf</cell>
+                     <cell>utan löf</cell>
+                  </row>
+                  
+                  
+                  <row role="data">
+                     <cell>9</cell>
+                     <cell><l>Wiktor Söderberg</l><l>Främnäs</l><l>Torp. A. Söderberg</l></cell>
+                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell> 
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                  </row>
+                  
+                  
+                  <row role="data">
+                     <cell>10</cell>
+                     <cell></cell>
+                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>   
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                  </row>
+                  
+                  
+                  <row role="data">
+                     <cell>11</cell>
+                     <cell></cell>
+                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>   
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                  </row>
+                  
+                  
+                  <row role="data">
+                     <cell>12</cell>
+                     <cell></cell>
+                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                  </row>
+                  
+                  
+                  <row role="data">
+                     <cell>13</cell>
+                     <cell></cell>
+                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                  </row>
+                  
+                  
+                  <row role="data">
+                     <cell>14</cell>
+                     <cell></cell>
+                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                  </row>
+                  
+                  
+                  <row role="data">
+                     <cell>15</cell>
+                     <cell></cell>
+                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                  </row>
+                  
+                  
+                  <row role="data">
+                     <cell>16</cell>
+                     <cell></cell>
+                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>    
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                  </row>
+               </table>
+            </p>
+         </div>         
 	   <div type="page" facs="#s19021">
 	   <p>
          <table rows="11" cols="16">
