@@ -989,10 +989,10 @@
 				    <cell><l>Blomkrukspinne</l><l>Nyckeletikett</l><l>Klädstrecksklyka</l><l>Selpinne</l><l>Skärbräde</l><l>Strumpbräde</l></cell>
 				    <cell><l>19/1</l><l>2/2</l><l>23/2</l><l>l9/3></l><l>16/3</l><l>30/3</l></cell>
 				    <cell><l>b</l><l>c</l><l>c</l><l>b</l><l>b</l><l>c</l></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
+				    <cell><l>30/3</l><l>6/4</l><l>18/5</l><l>1/6</l><l>4/9</l><l>21/9</l></cell>
+				    <cell><l>Rockhängare</l><l>Stämjärnsskaft</l><l>Hammarskaft</l><l>Smörspade</l><l>Pappersknif</l><l>Spjälpall</l></cell>
+				    <cell><l>6/4</l><l>20/4</l><l>1/6</l><l>15/6</l><l>21/9</l><l>19/10</l></cell>
+				    <cell><l>c</l><l>b</l><l>b</l><l>b</l><l>b</l><l>b</l></cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -1003,11 +1003,11 @@
 				 
 				 <row role="data">
 				  <cell>14</cell>
-				  <cell></cell>
+				    <cell><l>Gunnar Hedlund</l><l>Enåkersby</l><l>Statdr. J.O. Hedlund</l></cell>
 				  <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
+				    <cell><l>19/1</l><l>26/1</l><l>2/2</l><l>23/2</l><l>9/3</l><l>16/3</l><l>30/3</l></cell>
+				    <cell><l>Blomkrukspinne</l><l>Nyckeletikett</l><l>Klädstrecksklyka</l><l>Selpinne</l><l>Skärbräde</l><l>Strumpbräde</l><l>Rockhängare</l></cell>
+				    <cell><l>19/1</l><l>1/2</l><l>23/2</l><l>9/3</l><l>16/3</l><l>30/3</l><l>6/4</l></cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -1192,7 +1192,7 @@
                   
                   <row role="data">
                      <cell>13</cell>
-                     <cell></cell>
+                     <cell><l>Sigfrid Andersson</l><l>Aspnäs</l><l>Förm. L.O. Andersson</l></cell>
                      <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
                      <cell></cell>
                      <cell></cell>
@@ -1212,7 +1212,7 @@
                   
                   <row role="data">
                      <cell>14</cell>
-                     <cell></cell>
+                     <cell><l>Gunnar Hedlund</l><l>Enåkersby</l><l>Statdr. J.O. Hedlund</l></cell>
                      <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>
                      <cell></cell>
                      <cell></cell>
