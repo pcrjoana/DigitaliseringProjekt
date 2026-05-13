@@ -6,9 +6,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Slöjdskolan i Enåkers sockens dagbok åren 1900-1908</title>
-            <author corresp="#sls">Alex Bergwhall; Ella Andrén; Joana P.C. Ribeiro</author>
-            <principal>Alex Bergwhall; Ella Andrén; Joana P.C. Ribeiro</principal>
+            <title>Slöjdskolan i Enåkers sockens dagbok åren 1900-1902</title>
+            <author corresp="#sls">Alex Bergwhall; Joana P.C. Ribeiro</author>
+            <principal>Alex Bergwhall; Joana P.C. Ribeiro</principal>
          </titleStmt>
          <publicationStmt>
             <publisher>Högskolan i Borås</publisher>
@@ -22,7 +22,7 @@
             </availability>
          </publicationStmt>
          <sourceDesc>
-               <p>Enåkers socken sljödskolans dagbok åren 1900-1908.</p>
+               <p>Enåkers socken sljödskolans dagbok åren 1900-1902.</p>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
@@ -96,9 +96,9 @@
          <figure>
             <label>Slöjdskolans dagbok 1902</label>
             <figDesc>
-               A photograph of the back a post-it with a simple example phrase.
+               En lista av elever med nummer 1-8 som pluggade vid slöjdskolan år 1902.
             </figDesc>
-            <graphic xml:id="s19021_full" url="assets/img/documents/postit02.png"/>
+            <graphic xml:id="s19021_full" url="assets/img/documents/1902_2.jpeg"/>
             <graphic xml:id="s19021_thumb" url="assets/img/documents/postit02_thumb.png"/>
          </figure>
       </surface>
@@ -106,122 +106,33 @@
          <figure>
             <label>Slöjdskolans dagbok 1902</label>
             <figDesc>
-               A photograph of the back a post-it with a simple example phrase.
+               En lista av elever med nummer 1-8 som pluggade vid slöjdskolan år 1902.
             </figDesc>
-            <graphic xml:id="s19022_full" url="assets/img/documents/postit02.png"/>
+            <graphic xml:id="s19022_full" url="assets/img/documents/1902_3.jpeg"/>
             <graphic xml:id="s19022_thumb" url="assets/img/documents/postit02_thumb.png"/>
          </figure>
       </surface>
-      <surface xml:id="s19031">
+      <surface xml:id="s19023">
          <figure>
-            <label>Slöjdskolans dagbok 1903</label>
+            <label>Slöjdskolans dagbok 1902</label>
             <figDesc>
-               A photograph of the back a post-it with a simple example phrase.
+               En lista elever med nummer 9-16 som pluggade vid slöjdskolan år 1902.
             </figDesc>
-            <graphic xml:id="s19031_full" url="assets/img/documents/postit02.png"/>
-            <graphic xml:id="s19031_thumb" url="assets/img/documents/postit02_thumb.png"/>
+            <graphic xml:id="s19023_full" url="assets/img/documents/1902_5.jpeg"/>
+            <graphic xml:id="s19023_thumb" url="assets/img/documents/postit02_thumb.png"/>
          </figure>
       </surface>
-	  <surface xml:id="s19032">
+      <surface xml:id="s19024">
          <figure>
-            <label>Slöjdskolans dagbok 1903</label>
+            <label>Slöjdskolans dagbok 1902</label>
             <figDesc>
-               A photograph of the back a post-it with a simple example phrase.
+               En lista elever med nummer 9-16 som pluggade vid slöjdskolan år 1902.
             </figDesc>
-            <graphic xml:id="s19032_full" url="assets/img/documents/postit02.png"/>
-            <graphic xml:id="s19032_thumb" url="assets/img/documents/postit02_thumb.png"/>
+            <graphic xml:id="s19024_full" url="assets/img/documents/1902_6.jpeg"/>
+            <graphic xml:id="s19024_thumb" url="assets/img/documents/postit02_thumb.png"/>
          </figure>
       </surface>
-	  <surface xml:id="s19041">
-         <figure>
-            <label>Slöjdskolans dagbok 1904</label>
-            <figDesc>
-               A photograph of the back a post-it with a simple example phrase.
-            </figDesc>
-            <graphic xml:id="s19041_full" url="assets/img/documents/postit02.png"/>
-            <graphic xml:id="s19041_thumb" url="assets/img/documents/postit02_thumb.png"/>
-         </figure>
-      </surface>
-	  <surface xml:id="s19042">
-         <figure>
-            <label>Slöjdskolans dagbok 1904</label>
-            <figDesc>
-               A photograph of the back a post-it with a simple example phrase.
-            </figDesc>
-            <graphic xml:id="s19042_full" url="assets/img/documents/postit02.png"/>
-            <graphic xml:id="s19042_thumb" url="assets/img/documents/postit02_thumb.png"/>
-         </figure>
-      </surface>
-	  <surface xml:id="s19051">
-         <figure>
-            <label>Slöjdskolans dagbok 1905</label>
-            <figDesc>
-               A photograph of the back a post-it with a simple example phrase.
-            </figDesc>
-            <graphic xml:id="s19051_full" url="assets/img/documents/postit02.png"/>
-            <graphic xml:id="s19051_thumb" url="assets/img/documents/postit02_thumb.png"/>
-         </figure>
-      </surface>
-	  <surface xml:id="s19052">
-         <figure>
-            <label>Slöjdskolans dagbok 1905</label>
-            <figDesc>
-               A photograph of the back a post-it with a simple example phrase.
-            </figDesc>
-            <graphic xml:id="s19052_full" url="assets/img/documents/postit02.png"/>
-            <graphic xml:id="s19052_thumb" url="assets/img/documents/postit02_thumb.png"/>
-         </figure>
-      </surface>
-	  <surface xml:id="s19061">
-         <figure>
-            <label>Slöjdskolans dagbok 1906</label>
-            <figDesc>
-               A photograph of the back a post-it with a simple example phrase.
-            </figDesc>
-            <graphic xml:id="s19061_full" url="assets/img/documents/postit02.png"/>
-            <graphic xml:id="s19061_thumb" url="assets/img/documents/postit02_thumb.png"/>
-         </figure>
-      </surface>
-	  <surface xml:id="s19062">
-         <figure>
-            <label>Slöjdskolans dagbok 1906</label>
-            <figDesc>
-               A photograph of the back a post-it with a simple example phrase.
-            </figDesc>
-            <graphic xml:id="s19062_full" url="assets/img/documents/postit02.png"/>
-            <graphic xml:id="s19062_thumb" url="assets/img/documents/postit02_thumb.png"/>
-         </figure>
-      </surface>
-	  <surface xml:id="s19071">
-         <figure>
-            <label>Slöjdskolans dagbok 1907</label>
-            <figDesc>
-               A photograph of the back a post-it with a simple example phrase.
-            </figDesc>
-            <graphic xml:id="s19071_full" url="assets/img/documents/postit02.png"/>
-            <graphic xml:id="s19071_thumb" url="assets/img/documents/postit02_thumb.png"/>
-         </figure>
-      </surface>
-	  <surface xml:id="s19072">
-         <figure>
-            <label>Slöjdskolans dagbok 1907</label>
-            <figDesc>
-               A photograph of the back a post-it with a simple example phrase.
-            </figDesc>
-            <graphic xml:id="s19072_full" url="assets/img/documents/postit02.png"/>
-            <graphic xml:id="s19072_thumb" url="assets/img/documents/postit02_thumb.png"/>
-         </figure>
-      </surface>
-	  <surface xml:id="s19081">
-         <figure>
-            <label>Slöjdskolans dagbok 1908</label>
-            <figDesc>
-               A photograph of the back a post-it with a simple example phrase.
-            </figDesc>
-            <graphic xml:id="s19081_full" url="assets/img/documents/postit02.png"/>
-            <graphic xml:id="s19081_thumb" url="assets/img/documents/postit02_thumb.png"/>
-         </figure>
-      </surface>	  
+      
    </facsimile>
    <text>
       <body>
@@ -570,25 +481,6 @@
                   
                   <row role="data">
                      <cell></cell>
-                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                  </row>
-                  
-                  
-                  <row role="data">
                      <cell></cell>
                      <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>
                      <cell></cell>
@@ -610,6 +502,7 @@
                   
                   <row role="data">
                      <cell></cell>
+                     <cell></cell>
                      <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>
                      <cell></cell>
                      <cell></cell>
@@ -629,6 +522,28 @@
                   
                   
                   <row role="data">
+                     <cell></cell>
+                     <cell></cell>
+                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                  </row>
+                  
+                  
+                  <row role="data">
+                     <cell></cell>
                      <cell></cell>
                      <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>
                      <cell></cell>
@@ -1018,8 +933,8 @@
 				    <cell><l>b</l><l>b</l><l>c</l><l>b</l><l>b</l><l>c</l></cell>
 				    <cell><l>30/3</l><l>6/4</l><l>18/5</l><l>1/6</l><l>4/9</l><l>21/9</l></cell>
 				    <cell><l>Rockhängare</l><l>Stämjärnsskaft</l><l>Hammarskaft</l><l>Smörspade</l><l>Pappersknif</l><l>Spjälpall</l></cell>
-				  <cell></cell>
-				  <cell></cell>
+				    <cell><l>6/4</l><l>20/4</l><l>1/6</l><l>15/6</l><l>21/9</l><l>19/10</l></cell>
+				    <cell><l>c</l><l>b</l><l>b</l><l>b</l><l>c</l><l>c</l></cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -1030,16 +945,16 @@
 				
 				 <row role="data">
 				  <cell>15</cell>
-				  <cell></cell>
+				    <cell><l>Erik Sigfrid Larsson</l><l>Skrädderbo</l><l>Bn. L.E. Larsson</l></cell>
 				  <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
+				    <cell><l>26/1</l><l>26/1</l><l>23/2</l><l>9/3</l><l>16/3</l><l>23/3</l></cell>
+				    <cell><l>Blomkrukspinne</l><l>Nyckeletikett</l><l>Klädstrecksklyka</l><l>Selpinne</l><l>Skärbräde</l><l>Strumpbräde</l></cell>
+				    <cell><l>26/1</l><l>2/2</l><l>9/3</l><l>16/3</l><l>16/3</l><l>31/3</l></cell>
+				  <cell><l>b</l><l>c</l><l>b</l><l>b</l><l>b</l><l>c</l></cell>
+				    <cell><l>6/4</l><l>13/4</l><l>18/5</l><l>1/6</l><l>4/9</l><l>21/9</l><l>21/9</l></cell>
+				    <cell><l>Rockhängare</l><l>Stämjärnsskaft</l><l>Hammarskaft</l><l>Smörspade</l><l>Pappersknif</l><l>Spjälpall</l></cell>
+				    <cell><l>13/4</l><l>20/4</l><l>1/6</l><l>15/6</l><l>21/9</l><l>19/10</l></cell>
+				    <cell><l>c</l><l>b</l><l>b</l><l>b</l><l>b</l><l>b</l></cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -1050,8 +965,10 @@
 				
 				 <row role="data">
 				  <cell>16</cell>
-				  <cell></cell>
+				    <cell><l>Gunnar Ekström</l><l></l><l></l></cell>
 				  <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>    
+				    <cell><l>2/3</l><l>2/3</l><l>16/3</l><l>23/3</l><l>6/4</l><l>20/4</l></cell>
+				    <cell><l>Blomkrukspinne</l><l>Nyckeletikett</l><l>Klädstrecksklyka</l><l>Selpinne</l><l>Skärbräde</l><l>Strumpbräde</l></cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -1062,9 +979,7 @@
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
+				    <cell><l>Började den 2/3 Flyttade den 8/10</l></cell>
 				 </row>
 				</table>
 			</p>
@@ -1240,7 +1155,7 @@
                   
                   <row role="data">
                      <cell>15</cell>
-                     <cell></cell>
+                     <cell><l>Erik Sigfrid Larsson</l><l>Skrädderbo</l><l>Bn. L.E. Larsson</l></cell>
                      <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>
                      <cell></cell>
                      <cell></cell>
@@ -1260,7 +1175,7 @@
                   
                   <row role="data">
                      <cell>16</cell>
-                     <cell></cell>
+                     <cell><l>Gunnar Ekström</l><l></l><l></l></cell>
                      <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>    
                      <cell></cell>
                      <cell></cell>
@@ -1274,7 +1189,7 @@
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
-                     <cell></cell>
+                     <cell><l>Började den 2/3 Flyttade den 8/10</l></cell>
                   </row>
                </table>
             </p>
@@ -1293,6 +1208,7 @@
 				 </row>
 				 <row role="label">
 				  <cell></cell>
+				  <cell></cell>  
 				  <cell></cell>  
 				  <cell></cell>
 				  <cell>Började den</cell>
@@ -1329,6 +1245,7 @@
 				 
 				 <row role="data">
 				  <cell></cell>
+				  <cell></cell>  
 				  <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
 				  <cell></cell>
 				  <cell></cell>
@@ -1343,94 +1260,13 @@
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
-				  <cell></cell>
 				 </row>
 				 
 				 
-				 <row role="data">
-				  <cell></cell>
-				  <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				 </row>
-				 
-				
             <row role="data">
                <cell></cell>
-               <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-               <cell></cell>
-               <cell></cell>
-               <cell></cell>
-               <cell></cell>
-               <cell></cell>
-               <cell></cell>
-               <cell></cell>
-               <cell></cell>
-               <cell></cell>
-               <cell></cell>
-               <cell></cell>
-               <cell></cell>
-               <cell></cell>
-               <cell></cell>
-            </row>
-				 
-				 
-            <row role="data">
-               <cell></cell>
-               <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-               <cell></cell>
-               <cell></cell>
-               <cell></cell>
-               <cell></cell>
-               <cell></cell>
-               <cell></cell>
-               <cell></cell>
-               <cell></cell>
-               <cell></cell>
-               <cell></cell>
-               <cell></cell>
-               <cell></cell>
-               <cell></cell>
-               <cell></cell>
-            </row>
-				 
-				 
-            <row role="data">
-               <cell></cell>
-               <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-               <cell></cell>
-               <cell></cell>
-               <cell></cell>
-               <cell></cell>
-               <cell></cell>
-               <cell></cell>
-               <cell></cell>
-               <cell></cell>
-               <cell></cell>
-               <cell></cell>
-               <cell></cell>
-               <cell></cell>
-               <cell></cell>
-               <cell></cell>
-            </row>
-				 
-				 
-            <row role="data">
-               <cell></cell>
-               <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-               <cell></cell>
+               <cell></cell>  
+               <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
                <cell></cell>
                <cell></cell>
                <cell></cell>
@@ -1449,8 +1285,68 @@
 				
             <row role="data">
                <cell></cell>
-               <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
+               <cell></cell>  
+               <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
                <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+            </row>
+				 
+				 
+            <row role="data">
+               <cell></cell>
+               <cell></cell>  
+               <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+            </row>
+				 
+				 
+            <row role="data">
+               <cell></cell>
+               <cell></cell>  
+               <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+            </row>
+				 
+				 
+            <row role="data">
+               <cell></cell>
+               <cell></cell>  
+               <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
                <cell></cell>
                <cell></cell>
                <cell></cell>
@@ -1469,8 +1365,28 @@
 				
             <row role="data">
                <cell></cell>
-               <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
+               <cell></cell>  
+               <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
                <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+            </row>
+				 
+				
+            <row role="data">
+               <cell></cell>
+               <cell></cell>  
+               <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
                <cell></cell>
                <cell></cell>
                <cell></cell>
@@ -1488,2515 +1404,636 @@
 				</table>
 			</p>	
       </div>
-	   <div type="page" facs="#s19022">
-	   <p>
-	      <table rows="11" cols="16">
-	         <head></head>
-	         <row role="label">
-	            <cell>Nr.</cell>
-	            <cell>Namn och hemvist</cell>
-	            <cell></cell>  
-	            <cell cols = "8">Under årets verkställda arbeten</cell>
-	            <cell cols = "4">Summa dagar</cell>
-	            <cell>Anmärkningar</cell>
-	         </row>
-	         <row role="label">
-	            <cell></cell>
-	            <cell></cell>  
-	            <cell></cell>
-	            <cell>Började den</cell>
-	            <cell>Arbeten</cell>
-	            <cell>Slutade den</cell>
-	            <cell>Vits-ord</cell>
-	            <cell>Började den</cell>
-	            <cell>Arbeten</cell>
-	            <cell>Slutade den</cell>
-	            <cell>Vits-ord</cell>
-	            <cell>Närvarande</cell>
-	            <cell cols = "3">Summa dagar</cell>
-	            
-	         </row>
-	         <row role="label">
-	            <cell></cell>
-	            <cell></cell> 
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell>Pga sjukdom</cell>
-	            <cell>med löf</cell>
-	            <cell>utan löf</cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	      </table>
-			</p>	
-      </div>
-	   <div type="page" facs="#s19031">
-	   <p>
-	      <table rows="11" cols="16">
-	         <head></head>
-	         <row role="label">
-	            <cell>Nr.</cell>
-	            <cell>Namn och hemvist</cell>
-	            <cell></cell>  
-	            <cell cols = "8">Under årets verkställda arbeten</cell>
-	            <cell cols = "4">Summa dagar</cell>
-	            <cell>Anmärkningar</cell>
-	         </row>
-	         <row role="label">
-	            <cell></cell>
-	            <cell></cell>  
-	            <cell></cell>
-	            <cell>Började den</cell>
-	            <cell>Arbeten</cell>
-	            <cell>Slutade den</cell>
-	            <cell>Vits-ord</cell>
-	            <cell>Började den</cell>
-	            <cell>Arbeten</cell>
-	            <cell>Slutade den</cell>
-	            <cell>Vits-ord</cell>
-	            <cell>Närvarande</cell>
-	            <cell cols = "3">Summa dagar</cell>
-	            
-	         </row>
-	         <row role="label">
-	            <cell></cell>
-	            <cell></cell> 
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell>Pga sjukdom</cell>
-	            <cell>med löf</cell>
-	            <cell>utan löf</cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	      </table>
-			</p>	
-      </div>
-	  	   <div type="page" facs="#s19032">
-	   <p>
-	      <table rows="11" cols="16">
-	         <head></head>
-	         <row role="label">
-	            <cell>Nr.</cell>
-	            <cell>Namn och hemvist</cell>
-	            <cell></cell>  
-	            <cell cols = "8">Under årets verkställda arbeten</cell>
-	            <cell cols = "4">Summa dagar</cell>
-	            <cell>Anmärkningar</cell>
-	         </row>
-	         <row role="label">
-	            <cell></cell>
-	            <cell></cell>  
-	            <cell></cell>
-	            <cell>Började den</cell>
-	            <cell>Arbeten</cell>
-	            <cell>Slutade den</cell>
-	            <cell>Vits-ord</cell>
-	            <cell>Började den</cell>
-	            <cell>Arbeten</cell>
-	            <cell>Slutade den</cell>
-	            <cell>Vits-ord</cell>
-	            <cell>Närvarande</cell>
-	            <cell cols = "3">Summa dagar</cell>
-	            
-	         </row>
-	         <row role="label">
-	            <cell></cell>
-	            <cell></cell> 
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell>Pga sjukdom</cell>
-	            <cell>med löf</cell>
-	            <cell>utan löf</cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	      </table>
-			</p>	
-      </div>
-	   	   <div type="page" facs="#s19041">
-	   <p>
-	      <table rows="11" cols="16">
-	         <head></head>
-	         <row role="label">
-	            <cell>Nr.</cell>
-	            <cell>Namn och hemvist</cell>
-	            <cell></cell>  
-	            <cell cols = "8">Under årets verkställda arbeten</cell>
-	            <cell cols = "4">Summa dagar</cell>
-	            <cell>Anmärkningar</cell>
-	         </row>
-	         <row role="label">
-	            <cell></cell>
-	            <cell></cell>  
-	            <cell></cell>
-	            <cell>Började den</cell>
-	            <cell>Arbeten</cell>
-	            <cell>Slutade den</cell>
-	            <cell>Vits-ord</cell>
-	            <cell>Började den</cell>
-	            <cell>Arbeten</cell>
-	            <cell>Slutade den</cell>
-	            <cell>Vits-ord</cell>
-	            <cell>Närvarande</cell>
-	            <cell cols = "3">Summa dagar</cell>
-	            
-	         </row>
-	         <row role="label">
-	            <cell></cell>
-	            <cell></cell> 
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell>Pga sjukdom</cell>
-	            <cell>med löf</cell>
-	            <cell>utan löf</cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	      </table>
-			</p>	
-      </div>
-	   	   <div type="page" facs="#s19042">
-	   <p>
-	      <table rows="11" cols="16">
-	         <head></head>
-	         <row role="label">
-	            <cell>Nr.</cell>
-	            <cell>Namn och hemvist</cell>
-	            <cell></cell>  
-	            <cell cols = "8">Under årets verkställda arbeten</cell>
-	            <cell cols = "4">Summa dagar</cell>
-	            <cell>Anmärkningar</cell>
-	         </row>
-	         <row role="label">
-	            <cell></cell>
-	            <cell></cell>  
-	            <cell></cell>
-	            <cell>Började den</cell>
-	            <cell>Arbeten</cell>
-	            <cell>Slutade den</cell>
-	            <cell>Vits-ord</cell>
-	            <cell>Började den</cell>
-	            <cell>Arbeten</cell>
-	            <cell>Slutade den</cell>
-	            <cell>Vits-ord</cell>
-	            <cell>Närvarande</cell>
-	            <cell cols = "3">Summa dagar</cell>
-	            
-	         </row>
-	         <row role="label">
-	            <cell></cell>
-	            <cell></cell> 
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell>Pga sjukdom</cell>
-	            <cell>med löf</cell>
-	            <cell>utan löf</cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	      </table>
-			</p>	
-      </div>
-	   	   <div type="page" facs="#s19051">
-	   <p>
-	      <table rows="11" cols="16">
-	         <head></head>
-	         <row role="label">
-	            <cell>Nr.</cell>
-	            <cell>Namn och hemvist</cell>
-	            <cell></cell>  
-	            <cell cols = "8">Under årets verkställda arbeten</cell>
-	            <cell cols = "4">Summa dagar</cell>
-	            <cell>Anmärkningar</cell>
-	         </row>
-	         <row role="label">
-	            <cell></cell>
-	            <cell></cell>  
-	            <cell></cell>
-	            <cell>Började den</cell>
-	            <cell>Arbeten</cell>
-	            <cell>Slutade den</cell>
-	            <cell>Vits-ord</cell>
-	            <cell>Började den</cell>
-	            <cell>Arbeten</cell>
-	            <cell>Slutade den</cell>
-	            <cell>Vits-ord</cell>
-	            <cell>Närvarande</cell>
-	            <cell cols = "3">Summa dagar</cell>
-	            
-	         </row>
-	         <row role="label">
-	            <cell></cell>
-	            <cell></cell> 
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell>Pga sjukdom</cell>
-	            <cell>med löf</cell>
-	            <cell>utan löf</cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	      </table>
-			</p>	
-      </div>
-	  	   <div type="page" facs="#s19052">
-	   <p>
-	      <table rows="11" cols="16">
-	         <head></head>
-	         <row role="label">
-	            <cell>Nr.</cell>
-	            <cell>Namn och hemvist</cell>
-	            <cell></cell>  
-	            <cell cols = "8">Under årets verkställda arbeten</cell>
-	            <cell cols = "4">Summa dagar</cell>
-	            <cell>Anmärkningar</cell>
-	         </row>
-	         <row role="label">
-	            <cell></cell>
-	            <cell></cell>  
-	            <cell></cell>
-	            <cell>Började den</cell>
-	            <cell>Arbeten</cell>
-	            <cell>Slutade den</cell>
-	            <cell>Vits-ord</cell>
-	            <cell>Började den</cell>
-	            <cell>Arbeten</cell>
-	            <cell>Slutade den</cell>
-	            <cell>Vits-ord</cell>
-	            <cell>Närvarande</cell>
-	            <cell cols = "3">Summa dagar</cell>
-	            
-	         </row>
-	         <row role="label">
-	            <cell></cell>
-	            <cell></cell> 
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell>Pga sjukdom</cell>
-	            <cell>med löf</cell>
-	            <cell>utan löf</cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	      </table>
-			</p>	
-      </div>
-	   	   <div type="page" facs="#s19061">
-	   <p>
-	      <table rows="11" cols="16">
-	         <head></head>
-	         <row role="label">
-	            <cell>Nr.</cell>
-	            <cell>Namn och hemvist</cell>
-	            <cell></cell>  
-	            <cell cols = "8">Under årets verkställda arbeten</cell>
-	            <cell cols = "4">Summa dagar</cell>
-	            <cell>Anmärkningar</cell>
-	         </row>
-	         <row role="label">
-	            <cell></cell>
-	            <cell></cell>  
-	            <cell></cell>
-	            <cell>Började den</cell>
-	            <cell>Arbeten</cell>
-	            <cell>Slutade den</cell>
-	            <cell>Vits-ord</cell>
-	            <cell>Började den</cell>
-	            <cell>Arbeten</cell>
-	            <cell>Slutade den</cell>
-	            <cell>Vits-ord</cell>
-	            <cell>Närvarande</cell>
-	            <cell cols = "3">Summa dagar</cell>
-	            
-	         </row>
-	         <row role="label">
-	            <cell></cell>
-	            <cell></cell> 
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell>Pga sjukdom</cell>
-	            <cell>med löf</cell>
-	            <cell>utan löf</cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	      </table>
-			</p>	
-      </div>
-	   	   <div type="page" facs="#s19062">
-	   <p>
-	      <table rows="11" cols="16">
-	         <head></head>
-	         <row role="label">
-	            <cell>Nr.</cell>
-	            <cell>Namn och hemvist</cell>
-	            <cell></cell>  
-	            <cell cols = "8">Under årets verkställda arbeten</cell>
-	            <cell cols = "4">Summa dagar</cell>
-	            <cell>Anmärkningar</cell>
-	         </row>
-	         <row role="label">
-	            <cell></cell>
-	            <cell></cell>  
-	            <cell></cell>
-	            <cell>Började den</cell>
-	            <cell>Arbeten</cell>
-	            <cell>Slutade den</cell>
-	            <cell>Vits-ord</cell>
-	            <cell>Började den</cell>
-	            <cell>Arbeten</cell>
-	            <cell>Slutade den</cell>
-	            <cell>Vits-ord</cell>
-	            <cell>Närvarande</cell>
-	            <cell cols = "3">Summa dagar</cell>
-	            
-	         </row>
-	         <row role="label">
-	            <cell></cell>
-	            <cell></cell> 
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell>Pga sjukdom</cell>
-	            <cell>med löf</cell>
-	            <cell>utan löf</cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	      </table>
-			</p>	
-      </div>
-	   	   <div type="page" facs="#s19071">
-	   <p>
-	      <table rows="11" cols="16">
-	         <head></head>
-	         <row role="label">
-	            <cell>Nr.</cell>
-	            <cell>Namn och hemvist</cell>
-	            <cell></cell>  
-	            <cell cols = "8">Under årets verkställda arbeten</cell>
-	            <cell cols = "4">Summa dagar</cell>
-	            <cell>Anmärkningar</cell>
-	         </row>
-	         <row role="label">
-	            <cell></cell>
-	            <cell></cell>  
-	            <cell></cell>
-	            <cell>Började den</cell>
-	            <cell>Arbeten</cell>
-	            <cell>Slutade den</cell>
-	            <cell>Vits-ord</cell>
-	            <cell>Började den</cell>
-	            <cell>Arbeten</cell>
-	            <cell>Slutade den</cell>
-	            <cell>Vits-ord</cell>
-	            <cell>Närvarande</cell>
-	            <cell cols = "3">Summa dagar</cell>
-	            
-	         </row>
-	         <row role="label">
-	            <cell></cell>
-	            <cell></cell> 
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell>Pga sjukdom</cell>
-	            <cell>med löf</cell>
-	            <cell>utan löf</cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	      </table>
-			</p>	
-      </div>
-	  	   <div type="page" facs="#s19072">
-	   <p>
-	      <table rows="11" cols="16">
-	         <head></head>
-	         <row role="label">
-	            <cell>Nr.</cell>
-	            <cell>Namn och hemvist</cell>
-	            <cell></cell>  
-	            <cell cols = "8">Under årets verkställda arbeten</cell>
-	            <cell cols = "4">Summa dagar</cell>
-	            <cell>Anmärkningar</cell>
-	         </row>
-	         <row role="label">
-	            <cell></cell>
-	            <cell></cell>  
-	            <cell></cell>
-	            <cell>Började den</cell>
-	            <cell>Arbeten</cell>
-	            <cell>Slutade den</cell>
-	            <cell>Vits-ord</cell>
-	            <cell>Började den</cell>
-	            <cell>Arbeten</cell>
-	            <cell>Slutade den</cell>
-	            <cell>Vits-ord</cell>
-	            <cell>Närvarande</cell>
-	            <cell cols = "3">Summa dagar</cell>
-	            
-	         </row>
-	         <row role="label">
-	            <cell></cell>
-	            <cell></cell> 
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell>Pga sjukdom</cell>
-	            <cell>med löf</cell>
-	            <cell>utan löf</cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	      </table>
-			</p>	
-      </div>
-	  <div type="page" facs="#s19081">
-	   <p>
-	      <table rows="11" cols="16">
-	         <head></head>
-	         <row role="label">
-	            <cell>Nr.</cell>
-	            <cell>Namn och hemvist</cell>
-	            <cell></cell>  
-	            <cell cols = "8">Under årets verkställda arbeten</cell>
-	            <cell cols = "4">Summa dagar</cell>
-	            <cell>Anmärkningar</cell>
-	         </row>
-	         <row role="label">
-	            <cell></cell>
-	            <cell></cell>  
-	            <cell></cell>
-	            <cell>Började den</cell>
-	            <cell>Arbeten</cell>
-	            <cell>Slutade den</cell>
-	            <cell>Vits-ord</cell>
-	            <cell>Började den</cell>
-	            <cell>Arbeten</cell>
-	            <cell>Slutade den</cell>
-	            <cell>Vits-ord</cell>
-	            <cell>Närvarande</cell>
-	            <cell cols = "3">Summa dagar</cell>
-	            
-	         </row>
-	         <row role="label">
-	            <cell></cell>
-	            <cell></cell> 
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell>Pga sjukdom</cell>
-	            <cell>med löf</cell>
-	            <cell>utan löf</cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	         
-	         
-	         <row role="data">
-	            <cell></cell>
-	            <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>	  
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	            <cell></cell>
-	         </row>
-	      </table>
-			</p>	
-      </div>
-	   	   
+         <div type="page" facs="#s19022">
+            <p>
+               <table rows="11" cols="16">
+                  <head></head>
+                  <row role="label">
+                     <cell>Nr.</cell>
+                     <cell>Namn och hemvist</cell>
+                     <cell></cell>  
+                     <cell cols = "8">Under årets verkställda arbeten</cell>
+                     <cell cols = "4">Summa dagar</cell>
+                     <cell>Anmärkningar</cell>
+                  </row>
+                  <row role="label">
+                     <cell></cell>
+                     <cell></cell>  
+                     <cell></cell>  
+                     <cell></cell>
+                     <cell>Började den</cell>
+                     <cell>Arbeten</cell>
+                     <cell>Slutade den</cell>
+                     <cell>Vits-ord</cell>
+                     <cell>Började den</cell>
+                     <cell>Arbeten</cell>
+                     <cell>Slutade den</cell>
+                     <cell>Vits-ord</cell>
+                     <cell>Närvarande</cell>
+                     <cell cols = "3">Summa dagar</cell>
+                     
+                  </row>
+                  <row role="label">
+                     <cell></cell>
+                     <cell></cell> 
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell>Pga sjukdom</cell>
+                     <cell>med löf</cell>
+                     <cell>utan löf</cell>
+                  </row>
+                  
+                  
+                  <row role="data">
+                     <cell></cell>
+                     <cell></cell>  
+                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                  </row>
+                  
+                  
+                  <row role="data">
+                     <cell></cell>
+                     <cell></cell>  
+                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                  </row>
+                  
+                  
+                  <row role="data">
+                     <cell></cell>
+                     <cell></cell>  
+                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                  </row>
+                  
+                  
+                  <row role="data">
+                     <cell></cell>
+                     <cell></cell>  
+                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                  </row>
+                  
+                  
+                  <row role="data">
+                     <cell></cell>
+                     <cell></cell>  
+                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                  </row>
+                  
+                  
+                  <row role="data">
+                     <cell></cell>
+                     <cell></cell>  
+                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                  </row>
+                  
+                  
+                  <row role="data">
+                     <cell></cell>
+                     <cell></cell>  
+                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                  </row>
+                  
+                  
+                  <row role="data">
+                     <cell></cell>
+                     <cell></cell>  
+                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                  </row>
+               </table>
+            </p>	
+         </div>
+         <div type="page" facs="#s19023">
+            <p>
+               <table rows="11" cols="16">
+                  <head></head>
+                  <row role="label">
+                     <cell>Nr.</cell>
+                     <cell>Namn och hemvist</cell>
+                     <cell></cell>  
+                     <cell cols = "8">Under årets verkställda arbeten</cell>
+                     <cell cols = "4">Summa dagar</cell>
+                     <cell>Anmärkningar</cell>
+                  </row>
+                  <row role="label">
+                     <cell></cell>
+                     <cell></cell>  
+                     <cell></cell>  
+                     <cell></cell>
+                     <cell>Började den</cell>
+                     <cell>Arbeten</cell>
+                     <cell>Slutade den</cell>
+                     <cell>Vits-ord</cell>
+                     <cell>Började den</cell>
+                     <cell>Arbeten</cell>
+                     <cell>Slutade den</cell>
+                     <cell>Vits-ord</cell>
+                     <cell>Närvarande</cell>
+                     <cell cols = "3">Summa dagar</cell>
+                     
+                  </row>
+                  <row role="label">
+                     <cell></cell>
+                     <cell></cell> 
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell>Pga sjukdom</cell>
+                     <cell>med löf</cell>
+                     <cell>utan löf</cell>
+                  </row>
+                  
+                  
+                  <row role="data">
+                     <cell></cell>
+                     <cell></cell>  
+                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                  </row>
+                  
+                  
+                  <row role="data">
+                     <cell></cell>
+                     <cell></cell>  
+                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                  </row>
+                  
+                  
+                  <row role="data">
+                     <cell></cell>
+                     <cell></cell>  
+                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                  </row>
+                  
+                  
+                  <row role="data">
+                     <cell></cell>
+                     <cell></cell>  
+                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                  </row>
+                  
+                  
+                  <row role="data">
+                     <cell></cell>
+                     <cell></cell>  
+                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                  </row>
+                  
+                  
+                  <row role="data">
+                     <cell></cell>
+                     <cell></cell>  
+                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                  </row>
+                  
+                  
+                  <row role="data">
+                     <cell></cell>
+                     <cell></cell>  
+                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                  </row>
+                  
+                  
+                  <row role="data">
+                     <cell></cell>
+                     <cell></cell>  
+                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                  </row>
+               </table>
+            </p>	
+         </div>	 
+         <div type="page" facs="#s19024">
+            <p>
+               <table rows="11" cols="16">
+                  <head></head>
+                  <row role="label">
+                     <cell>Nr.</cell>
+                     <cell>Namn och hemvist</cell>
+                     <cell></cell>  
+                     <cell cols = "8">Under årets verkställda arbeten</cell>
+                     <cell cols = "4">Summa dagar</cell>
+                     <cell>Anmärkningar</cell>
+                  </row>
+                  <row role="label">
+                     <cell></cell>
+                     <cell></cell>  
+                     <cell></cell>  
+                     <cell></cell>
+                     <cell>Började den</cell>
+                     <cell>Arbeten</cell>
+                     <cell>Slutade den</cell>
+                     <cell>Vits-ord</cell>
+                     <cell>Började den</cell>
+                     <cell>Arbeten</cell>
+                     <cell>Slutade den</cell>
+                     <cell>Vits-ord</cell>
+                     <cell>Närvarande</cell>
+                     <cell cols = "3">Summa dagar</cell>
+                     
+                  </row>
+                  <row role="label">
+                     <cell></cell>
+                     <cell></cell> 
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell>Pga sjukdom</cell>
+                     <cell>med löf</cell>
+                     <cell>utan löf</cell>
+                  </row>
+                  
+                  
+                  <row role="data">
+                     <cell></cell>
+                     <cell></cell>  
+                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                  </row>
+                  
+                  
+                  <row role="data">
+                     <cell></cell>
+                     <cell></cell>  
+                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                  </row>
+                  
+                  
+                  <row role="data">
+                     <cell></cell>
+                     <cell></cell>  
+                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                  </row>
+                  
+                  
+                  <row role="data">
+                     <cell></cell>
+                     <cell></cell>  
+                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                  </row>
+                  
+                  
+                  <row role="data">
+                     <cell></cell>
+                     <cell></cell>  
+                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                  </row>
+                  
+                  
+                  <row role="data">
+                     <cell></cell>
+                     <cell></cell>  
+                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                  </row>
+                  
+                  
+                  <row role="data">
+                     <cell></cell>
+                     <cell></cell>  
+                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                  </row>
+                  
+                  
+                  <row role="data">
+                     <cell></cell>
+                     <cell></cell>  
+                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                  </row>
+               </table>
+            </p>	
+         </div>	   	   
 	  
       </body>
    </text>

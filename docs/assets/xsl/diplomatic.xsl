@@ -12,7 +12,7 @@
                 <title>
                     <!-- add the title from the metadata. This is what will be shown
                     on your browsers tab-->
-                    Slöjdskolan i Enåkers sockens dagbok åren 1900-1908: Transkribering
+                    Slöjdskolan i Enåkers sockens dagbok åren 1900-1902: Transkribering
                 </title>
                 <!-- load bootstrap css (requires internet!) so you can use their pre-defined css classes to style your html -->
                 <link rel="stylesheet"
@@ -87,7 +87,9 @@
                                 <!-- fill the second column with our transcription -->
                                 <div class='col-sm'>
                                     <article class="transcription">
-                                            <xsl:apply-templates/>                                      
+                                        <table>
+                                            <xsl:apply-templates/>   
+                                        </table>    
                                     </article>
                                 </div>
                             </div>
@@ -103,7 +105,7 @@
                         </a>
                       </div>
                       <div>
-                         2022 Wout Dillen.
+                          2026 Alex Bergwhall; Joana P.C. Ribeiro
                       </div>
                     </div>
                 </div>
@@ -135,7 +137,12 @@
             <xsl:apply-templates/>
         </h2>
     </xsl:template>
-
+    
+    <xsl:template match="tei:table">
+        <u>
+            <xsl:apply-templates/>
+        </u>
+    </xsl:template>
     <!-- transform tei paragraphs into html paragraphs -->
     <xsl:template match="tei:p">
         <p>
@@ -165,6 +172,6 @@
             <xsl:apply-templates/>
         </u>
     </xsl:template>
-
+    
 
 </xsl:stylesheet>
