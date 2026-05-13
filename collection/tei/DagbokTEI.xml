@@ -227,9 +227,10 @@
       <body>
          <div type="page" facs="#s19001">
             <head>
-               <hi rend="u">DCHM Template</hi>
+               <hi rend="u">Enåckers socken dagbok</hi>
             </head>
 			<p>
+			   <l>År 19__.</l>
             <table rows="11" cols="16">
 				 <head></head>
 				 <row role="label">
@@ -433,10 +434,14 @@
 				  <cell></cell>
 				 </row>
 				</table>
+			   <l>Eftertryck förbjudes 
+			      N:r 522 1/2.  Hasse W. Tullberg, Stockholm. — N. A. 
+			      N:r 522.  Hasse W. Tullberg, Stockholm. — N. A.</l>
 				</p>
          </div>
          <div type="page" facs="#s19002">
             <p>
+               <l>År 19__.</l>
                <table rows="11" cols="16">
                   <head></head>
                   <row role="label">
@@ -646,6 +651,7 @@
          </div>
          <div type="page" facs="#s19011">
 		 <p>
+		    <l>År 1901.</l>
          <table rows="11" cols="16">
 				 <head></head>
 				 <row role="label">
@@ -855,6 +861,7 @@
       </div>
 	   <div type="page" facs="#s19012">
 	    <p>
+	       <l>År 1901.</l>
          <table rows="11" cols="16">
 				 <head></head>
 				 <row role="label">
@@ -1008,9 +1015,9 @@
 				    <cell><l>19/1</l><l>26/1</l><l>2/2</l><l>23/2</l><l>9/3</l><l>16/3</l><l>30/3</l></cell>
 				    <cell><l>Blomkrukspinne</l><l>Nyckeletikett</l><l>Klädstrecksklyka</l><l>Selpinne</l><l>Skärbräde</l><l>Strumpbräde</l><l>Rockhängare</l></cell>
 				    <cell><l>19/1</l><l>1/2</l><l>23/2</l><l>9/3</l><l>16/3</l><l>30/3</l><l>6/4</l></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
+				    <cell><l>b</l><l>b</l><l>c</l><l>b</l><l>b</l><l>c</l></cell>
+				    <cell><l>30/3</l><l>6/4</l><l>18/5</l><l>1/6</l><l>4/9</l><l>21/9</l></cell>
+				    <cell><l>Rockhängare</l><l>Stämjärnsskaft</l><l>Hammarskaft</l><l>Smörspade</l><l>Pappersknif</l><l>Spjälpall</l></cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -1064,6 +1071,7 @@
       </div>
          <div type="page" facs="#s19013">
             <p>
+               <l>År 1901.</l>
                <table rows="11" cols="16">
                   <head></head>
                   <row role="label">
