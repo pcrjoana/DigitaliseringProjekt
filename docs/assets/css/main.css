@@ -7,6 +7,10 @@ body {
 	font-size: 1vw;
   width: 100%;
 	}
+	
+div {
+  overflow: auto;
+}
 
 h1, h2, h3, nav, footer {
     text-align: center;
@@ -28,13 +32,24 @@ h3 {
     padding: 1vw;
     
 }
+#table {
+    display: table;
+    padding: 5px;
+}
+.tr {
+    display: table-row;
+    padding: 5px;
+}
+.td {
+    display: table-cell;
+    padding: 5px;
+    width: 150px;
+    border: #000000 solid 1px;
+    margin: 5px;
+}
 
-table {
-  width: auto;
-}
-div.tablecontainer {
-  overflow-x: auto;
-}
+
+
 
 th, td {
   border-bottom: 1px solid #ddd;

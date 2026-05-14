@@ -137,9 +137,7 @@
    <text>
       <body>
          <div type="page" facs="#s19001">
-            <head>
-               <hi rend="u">Enåckers socken dagbok</hi>
-            </head>
+
 			<p>
 			   År 19__.
             <table rows="11" cols="16">
@@ -147,50 +145,63 @@
 				 <row role="label">
 				  <cell>Nr.</cell>
 				  <cell>Namn och hemvist</cell>
-				  <cell>Dagar.</cell>
-				  <cell cols = "8">Under årets verkställda arbeten</cell>
-				  <cell cols = "4">Summa dagar</cell>
+				    <cell>Da-<lb/>gar.</cell>
+				  <cell></cell>
+				  <cell></cell>    
+				  <cell>Under </cell>
+				  <cell>årets </cell>
+				  <cell>verkställda </cell>
+				  <cell>arbeten</cell>
+				  <cell></cell>
+				  <cell></cell>
+				  <cell>Summa</cell>
+				  <cell>dagar</cell>
+				  <cell></cell>
+				  <cell></cell>				    
 				  <cell>Anmärkningar</cell>
 				 </row>
-				 <row role="label">
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell>Började den</cell>
-				  <cell>Arbeten</cell>
-				  <cell>Slutade den</cell>
-				  <cell>Vits-ord</cell>
-				  <cell>Började den</cell>
-				  <cell>Arbeten</cell>
-				  <cell>Slutade den</cell>
-				  <cell>Vits-ord</cell>
-				  <cell>Närvarande</cell>
-				  <cell cols = "3">Summa dagar</cell>
-				
-				 </row>
-				 <row role="label">
-				  <cell></cell>
-				  <cell></cell> 
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell>Pga sjukdom</cell>
-				  <cell>med löf</cell>
-				  <cell>utan löf</cell>
-				 </row>
+
+               <row role="label">
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell>Började<lb/>den</cell>
+                  <cell>Arbeten</cell>
+                  <cell>Slutade<lb/>den</cell>
+                  <cell>Vits-<lb/>ord</cell>
+                  <cell>Börjaded<lb/>en</cell>
+                  <cell>Arbeten</cell>
+                  <cell>Slutade<lb/>den</cell>
+                  <cell>Vits-<lb/>ord</cell>
+                  <cell>När-<lb/>va<lb/>rande.</cell>
+                  <cell>Franvarande</cell>
+                  <cell></cell> 				    
+                  <cell></cell>
+                  <cell></cell>
+               </row>
+               <row role="label">
+                  <cell></cell>
+                  <cell></cell> 
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell></cell>
+                  <cell>på grund<lb/>af sjuk-<lb/>dom.</cell>
+                  <cell>med lof<lb/>eller annat<lb/>godkänt<lb/>förfall.</cell>
+                  <cell>utan löf<lb/>eller<lb/>godkänt<lb/>förfall.</cell>
+                  <cell></cell>
+               </row>
 				 
                <row role="data">
                   <cell>1</cell>
-                  <cell><lb/>Gustaf Alrik Olsson<lb/>Enåkersby<lb/>XX A.G. Olsson</cell>
-                  <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
+                  <cell>Gustaf Alrik Olsson<lb/>Enåkersby<lb/>XX A.G. Olsson</cell>
+                  <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
                   <cell></cell>
                   <cell></cell>
                   <cell></cell>
@@ -208,8 +219,8 @@
 				 
 				 <row role="data">
 				  <cell>2</cell>
-				  <cell><lb/>Otto Berlund<lb/>Ingbo<lb/>Arb. J. O. Berglund</cell>
-				  <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
+				  <cell>Otto Berlund<lb/>Ingbo<lb/>Arb. J. O. Berglund</cell>
+				  <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -228,8 +239,8 @@
 				 
 				 <row role="data">
 				  <cell>3</cell>
-				  <cell><lb/>Karl Rick. Hedlund<lb/>Uddnäs<lb/>Statk. P.O. Hedlund</cell>
-				  <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
+				  <cell>Karl Rick. Hedlund<lb/>Uddnäs<lb/>Statk. P.O. Hedlund</cell>
+				  <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -248,8 +259,8 @@
 				
 				 <row role="data">
 				  <cell>4</cell>
-				  <cell><lb/>Bror Er. Pil<lb/>Österbo</cell>
-				  <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
+				  <cell>Bror Er. Pil<lb/>Österbo</cell>
+				  <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -268,8 +279,8 @@
 				 
 				 <row role="data">
 				  <cell>5</cell>
-				  <cell><lb/>Karl Aug. Andersson<lb/>Ingbo<lb/>Fördelsm. And Ersson</cell>
-				  <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
+				  <cell>Karl Aug. Andersson<lb/>Ingbo<lb/>Fördelsm. And Ersson</cell>
+				  <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -288,8 +299,8 @@
 				 
 				 <row role="data">
 				  <cell>6</cell>
-				  <cell><lb/>Alexius Arenander<lb/>Lindsbro<lb/>Fru Arenander</cell>
-				  <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
+				  <cell>Alexius Arenander<lb/>Lindsbro<lb/>Fru Arenander</cell>
+				  <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -308,8 +319,8 @@
 				 
 				 <row role="data">
 				  <cell>7</cell>
-				  <cell><lb/>Per Axel Andersson<lb/>Kroksbo<lb/>Bn. Er. Andersson</cell>
-				  <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
+				  <cell>Per Axel Andersson<lb/>Kroksbo<lb/>Bn. Er. Andersson</cell>
+				  <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -328,8 +339,8 @@
 				
 				 <row role="data">
 				  <cell>8</cell>
-				  <cell><lb/>Er. Anton Eriksson<lb/>Andersbo<lb/>Skrädd. And. Larsson</cell>
-				  <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
+				  <cell>Er. Anton Eriksson<lb/>Andersbo<lb/>Skrädd. And. Larsson</cell>
+				  <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -353,56 +364,67 @@
          <div type="page" facs="#s19002">
             <p>
                <lb/>År 19__.
-               <table rows="11" cols="16">
-                  <head></head>
-                  <row role="label">
-                     <cell>Nr.</cell>
-                     <cell>Namn och hemvist</cell>
-                     <cell>Dagar.</cell>
-                     <cell cols = "8">Under årets verkställda arbeten</cell>
-                     <cell cols = "4">Summa dagar</cell>
-                     <cell>Anmärkningar</cell>
-                  </row>
-                  <row role="label">
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell>Började den</cell>
-                     <cell>Arbeten</cell>
-                     <cell>Slutade den</cell>
-                     <cell>Vits-ord</cell>
-                     <cell>Började den</cell>
-                     <cell>Arbeten</cell>
-                     <cell>Slutade den</cell>
-                     <cell>Vits-ord</cell>
-                     <cell>Närvarande</cell>
-                     <cell cols = "3">Summa dagar</cell>
-                     
-                  </row>
-                  <row role="label">
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell>Pga sjukdom</cell>
-                     <cell>med löf</cell>
-                     <cell>utan löf</cell>
-                  </row>
-                  
-                  
+                  <table rows="11" cols="16">
+                        <head></head>
+                     <row role="label">
+                        <cell>Nr.</cell>
+                        <cell>Namn och hemvist</cell>
+                        <cell>Da-<lb/>gar.</cell>
+                        <cell></cell>
+                        <cell></cell>    
+                        <cell>Under </cell>
+                        <cell>årets </cell>
+                        <cell>verkställda </cell>
+                        <cell>arbeten</cell>
+                        <cell></cell>
+                        <cell></cell>
+                        <cell>Summa</cell>
+                        <cell>dagar</cell>
+                        <cell></cell>
+                        <cell></cell>				    
+                        <cell>Anmärkningar</cell>
+                     </row>
+                     <row role="label">
+                        <cell></cell>
+                        <cell></cell>
+                        <cell></cell>
+                        <cell>Började<lb/>den</cell>
+                        <cell>Arbeten</cell>
+                        <cell>Slutade<lb/>den</cell>
+                        <cell>Vits-<lb/>ord</cell>
+                        <cell>Börjaded<lb/>en</cell>
+                        <cell>Arbeten</cell>
+                        <cell>Slutade<lb/>den</cell>
+                        <cell>Vits-<lb/>ord</cell>
+                        <cell>När-<lb/>va<lb/>rande.</cell>
+                        <cell>Franvarande</cell>
+                        <cell></cell> 				    
+                        <cell></cell>
+                        <cell></cell>
+                     </row>
+                     <row role="label">
+                        <cell></cell>
+                        <cell></cell> 
+                        <cell></cell>
+                        <cell></cell>
+                        <cell></cell>
+                        <cell></cell>
+                        <cell></cell>
+                        <cell></cell>
+                        <cell></cell>
+                        <cell></cell>
+                        <cell></cell>
+                        <cell></cell>
+                        <cell>på grund<lb/>af sjuk-<lb/>dom.</cell>
+                        <cell>med lof<lb/>eller annat<lb/>godkänt<lb/>förfall.</cell>
+                        <cell>utan löf<lb/>eller<lb/>godkänt<lb/>förfall.</cell>
+                        <cell></cell>
+                     </row>
+
                   <row role="data">
                      <cell>9</cell>
-                     <cell><lb/>Elof Lindevall<lb/>Kroksbo<lb/>Torp. P.E. Lindevall</cell>
-                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
+                     <cell>Elof Lindevall<lb/>Kroksbo<lb/>Torp. P.E. Lindevall</cell>
+                     <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -421,8 +443,8 @@
                   
                   <row role="data">
                      <cell>10</cell>
-                     <cell><lb/>Frans Gunnar Andersson<lb/>Aspnäs<lb/>Förm. L.O. Andersson</cell>
-                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
+                     <cell>Frans Gunnar Andersson<lb/>Aspnäs<lb/>Förm. L.O. Andersson</cell>
+                     <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -441,8 +463,8 @@
                   
                   <row role="data">
                      <cell>11</cell>
-                     <cell><lb/>Axel Enlund<lb/>Persbo<lb/>Lägenhetstäg. J. O. Enlund</cell>
-                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
+                     <cell>Axel Enlund<lb/>Persbo<lb/>Lägenhetstäg. J. O. Enlund</cell>
+                     <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -461,8 +483,8 @@
                   
                   <row role="data">
                      <cell>12</cell>
-                     <cell><lb/>Ernst Kanr. Eriksson<lb/>Enåkersby<lb/>Skom. Gust. Eriksson</cell>
-                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
+                     <cell>Ernst Kanr. Eriksson<lb/>Enåkersby<lb/>Skom. Gust. Eriksson</cell>
+                     <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -482,28 +504,7 @@
                   <row role="data">
                      <cell></cell>
                      <cell></cell>
-                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                  </row>
-                  
-                  
-                  <row role="data">
-                     <cell></cell>
-                     <cell></cell>
-                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
+                     <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -524,7 +525,7 @@
                   <row role="data">
                      <cell></cell>
                      <cell></cell>
-                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
+                     <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -545,7 +546,28 @@
                   <row role="data">
                      <cell></cell>
                      <cell></cell>
-                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
+                     <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                  </row>
+                  
+                  
+                  <row role="data">
+                     <cell></cell>
+                     <cell></cell>
+                     <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -567,60 +589,73 @@
          <div type="page" facs="#s19011">
 		 <p>
 		    <lb/>År 1901.
-         <table rows="11" cols="16">
-				 <head></head>
-				 <row role="label">
-				  <cell>Nr.</cell>
-				  <cell>Namn och hemvist</cell>
-				  <cell>Dagar.</cell>  
-				  <cell cols = "8">Under årets verkställda arbeten</cell>
-				  <cell cols = "4">Summa dagar</cell>
-				  <cell>Anmärkningar</cell>
-				 </row>
-				 <row role="label">
-				  <cell></cell>
-				  <cell></cell> 
-				  <cell></cell>
-				  <cell>Började den</cell>
-				  <cell>Arbeten</cell>
-				  <cell>Slutade den</cell>
-				  <cell>Vits-ord</cell>
-				  <cell>Började den</cell>
-				  <cell>Arbeten</cell>
-				  <cell>Slutade den</cell>
-				  <cell>Vits-ord</cell>
-				  <cell>Närvarande</cell>
-				  <cell cols = "3">Summa dagar</cell>
-				
-				 </row>
-				 <row role="label">
-				  <cell></cell>
-				  <cell></cell> 
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell>Pga sjukdom</cell>
-				  <cell>med löf</cell>
-				  <cell>utan löf</cell>
-				 </row>
+		    <table rows="11" cols="16">
+		       <head></head>
+ 
+		       <row role="label">
+		          <cell>Nr.</cell>
+		          <cell>Namn och hemvist</cell>
+		          <cell>Da-<lb/>gar.</cell>
+		          <cell></cell>
+		          <cell></cell>    
+		          <cell>Under </cell>
+		          <cell>årets </cell>
+		          <cell>verkställda </cell>
+		          <cell>arbeten</cell>
+		          <cell></cell>
+		          <cell></cell>
+		          <cell>Summa</cell>
+		          <cell>dagar</cell>
+		          <cell></cell>
+		          <cell></cell>				    
+		          <cell>Anmärkningar</cell>
+		       </row>
+		       <row role="label">
+		          <cell></cell>
+		          <cell></cell>
+		          <cell></cell>
+		          <cell>Började<lb/>den</cell>
+		          <cell>Arbeten</cell>
+		          <cell>Slutade<lb/>den</cell>
+		          <cell>Vits-<lb/>ord</cell>
+		          <cell>Börjaded<lb/>en</cell>
+		          <cell>Arbeten</cell>
+		          <cell>Slutade<lb/>den</cell>
+		          <cell>Vits-<lb/>ord</cell>
+		          <cell>När-<lb/>va<lb/>rande.</cell>
+		          <cell>Franvarande</cell>
+		          <cell></cell> 				    
+		          <cell></cell>
+		          <cell></cell>
+		       </row>
+		       <row role="label">
+		          <cell></cell>
+		          <cell></cell> 
+		          <cell></cell>
+		          <cell></cell>
+		          <cell></cell>
+		          <cell></cell>
+		          <cell></cell>
+		          <cell></cell>
+		          <cell></cell>
+		          <cell></cell>
+		          <cell></cell>
+		          <cell></cell>
+		          <cell>på grund<lb/>af sjuk-<lb/>dom.</cell>
+		          <cell>med lof<lb/>eller annat<lb/>godkänt<lb/>förfall.</cell>
+		          <cell>utan löf<lb/>eller<lb/>godkänt<lb/>förfall.</cell>
+		          <cell></cell>
+		       </row>
 				 
 				 
 				 <row role="data">
 				  <cell>1</cell>
-				    <cell><lb/>Gustaf Alrik Olsson<lb/>Enåkersby<lb/>Gust. Olsson</cell>
-				    <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
-				    <cell><lb/><lb/>9/2<lb/>16/3<lb/>30/3<lb/><lb/></cell>
-				    <cell><lb/>Bord<lb/>Strykmått<lb/>Köttklubba<lb/>Trädgårdsstol<lb/><lb/></cell>
-				    <cell><lb/>2/2<lb/>9/3<lb/>30/3<lb/>2/11<lb/><lb/></cell>
-				    <cell><lb/>b<lb/>b<lb/>b<lb/>b<lb/><lb/></cell>
+				    <cell>Gustaf Alrik Olsson<lb/>Enåkersby<lb/>Gust. Olsson</cell>
+				    <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
+				    <cell><lb/>9/2<lb/>16/3<lb/>30/3<lb/><lb/></cell>
+				    <cell>Bord<lb/>Strykmått<lb/>Köttklubba<lb/>Trädgårdsstol<lb/><lb/></cell>
+				    <cell>2/2<lb/>9/3<lb/>30/3<lb/>2/11<lb/><lb/></cell>
+				    <cell>b<lb/>b<lb/>b<lb/>b<lb/><lb/></cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -635,12 +670,12 @@
 				 
 				 <row role="data">
 				  <cell>2</cell>
-				    <cell><lb/>Er. Anton Eriksson<lb/>Andersbo<lb/>Skrädd. And. Larsson</cell>
-				    <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
-				    <cell><lb/>19/1<lb/>16/2<lb/>2/3<lb/>6/4<lb/>25/5<lb/>14/9</cell>
-				    <cell><lb/>Pall<lb/>Brödspade<lb/>Hacklåda<lb/>Köttklubba<lb/>Kniflåda<lb/>Skurlåda</cell>
-				    <cell><lb/>9/2<lb/>23/2<lb/>30/3<lb/>18/5<lb/>15/6<lb/>26/10</cell>
-				    <cell><lb/>b<lb/>b<lb/>b<lb/>b<lb/>b<lb/>b</cell>
+				    <cell>Er. Anton Eriksson<lb/>Andersbo<lb/>Skrädd. And. Larsson</cell>
+				    <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
+				    <cell>19/1<lb/>16/2<lb/>2/3<lb/>6/4<lb/>25/5<lb/>14/9</cell>
+				    <cell>Pall<lb/>Brödspade<lb/>Hacklåda<lb/>Köttklubba<lb/>Kniflåda<lb/>Skurlåda</cell>
+				    <cell>9/2<lb/>23/2<lb/>30/3<lb/>18/5<lb/>15/6<lb/>26/10</cell>
+				    <cell>b<lb/>b<lb/>b<lb/>b<lb/>b<lb/>b</cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -655,16 +690,16 @@
 				
 				 <row role="data">
 				  <cell>3</cell>
-				    <cell><lb/>Bror Erik Pil<lb/>Österbo<lb/>Sold. L. E. Pil</cell>
-				    <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
-				    <cell><lb/>19/1<lb/>9/2<lb/>13/4<lb/>25/5<lb/>8/6<lb/>14/9</cell>
-				    <cell><lb/>Skottkärra<lb/>Bord<lb/>Strykmått<lb/>Brödspade<lb/>Linjal<lb/>Trädgårdsstol</cell>
-				    <cell><lb/>2/2<lb/>30/3<lb/>25/5<lb/>8/6<lb/>15/6<lb/>2/11</cell>
-				    <cell><lb/>b<lb/>b<lb/>b<lb/>b<lb/>b<lb/>b</cell>
-				    <cell><lb/>2/11<lb/><lb/><lb/><lb/><lb/><lb/></cell>
-				    <cell><lb/>Baktråg<lb/><lb/><lb/><lb/><lb/><lb/></cell>
-				    <cell><lb/>30/11<lb/><lb/><lb/><lb/><lb/><lb/></cell>
-				    <cell><lb/>b<lb/><lb/><lb/><lb/><lb/><lb/></cell>
+				    <cell>Bror Erik Pil<lb/>Österbo<lb/>Sold. L. E. Pil</cell>
+				    <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
+				    <cell>19/1<lb/>9/2<lb/>13/4<lb/>25/5<lb/>8/6<lb/>14/9</cell>
+				    <cell>Skottkärra<lb/>Bord<lb/>Strykmått<lb/>Brödspade<lb/>Linjal<lb/>Trädgårdsstol</cell>
+				    <cell>2/2<lb/>30/3<lb/>25/5<lb/>8/6<lb/>15/6<lb/>2/11</cell>
+				    <cell>b<lb/>b<lb/>b<lb/>b<lb/>b<lb/>b</cell>
+				    <cell>2/11<lb/><lb/><lb/><lb/><lb/><lb/></cell>
+				    <cell>Baktråg<lb/><lb/><lb/><lb/><lb/><lb/></cell>
+				    <cell>30/11<lb/><lb/><lb/><lb/><lb/><lb/></cell>
+				    <cell>b<lb/><lb/><lb/><lb/><lb/><lb/></cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -675,12 +710,12 @@
 				 
 				 <row role="data">
 				  <cell>4</cell>
-				    <cell><lb/>Karl August Andersson<lb/>Ingbo<lb/>Fördelsm. And. Ersson</cell>
-				    <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
-				    <cell><lb/>19/1<lb/>30/3<lb/>20/4<lb/>25/5<lb/>12/1016/11<lb/></cell>
-				    <cell><lb/>Skottkärra<lb/>Köttklubba<lb/>Strykmått<lb/>Mjölkar<lb/>Skurlåda<lb/>Sågställning</cell>
-				    <cell><lb/>23/3<lb/>13/4<lb/>25/5<lb/>15/6<lb/>9/11<lb/>30/11</cell>
-				    <cell><lb/>b<lb/>b<lb/>b<lb/>b<lb/>b<lb/>b</cell>
+				    <cell>Karl August Andersson<lb/>Ingbo<lb/>Fördelsm. And. Ersson</cell>
+				    <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
+				    <cell>19/1<lb/>30/3<lb/>20/4<lb/>25/5<lb/>12/1016/11<lb/></cell>
+				    <cell>Skottkärra<lb/>Köttklubba<lb/>Strykmått<lb/>Mjölkar<lb/>Skurlåda<lb/>Sågställning</cell>
+				    <cell>23/3<lb/>13/4<lb/>25/5<lb/>15/6<lb/>9/11<lb/>30/11</cell>
+				    <cell>b<lb/>b<lb/>b<lb/>b<lb/>b<lb/>b</cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -695,12 +730,12 @@
 				 
 				 <row role="data">
 				  <cell>5</cell>
-				    <cell><lb/>Alexius Arenander<lb/>Lindsbro<lb/>Änkefru Arenander</cell>
-				    <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
-				    <cell><lb/>19/1<lb/>16/2<lb/>20/4<lb/>25/5<lb/>1/6<lb/>16/11</cell>
-				    <cell><lb/>Hacklåda<lb/>Werktygsklubba<lb/>Köttklubba<lb/>Brödpigg<lb/>Skottkärra<lb/>Sågställning</cell>
-				    <cell><lb/>9/2<lb/>13/4<lb/>25/5<lb/>1/6<lb/>9/11<lb/>30/11</cell>
-				    <cell><lb/>b<lb/>b<lb/>b<lb/>b<lb/>b<lb/>b</cell>
+				    <cell>Alexius Arenander<lb/>Lindsbro<lb/>Änkefru Arenander</cell>
+				    <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
+				    <cell>19/1<lb/>16/2<lb/>20/4<lb/>25/5<lb/>1/6<lb/>16/11</cell>
+				    <cell>Hacklåda<lb/>Werktygsklubba<lb/>Köttklubba<lb/>Brödpigg<lb/>Skottkärra<lb/>Sågställning</cell>
+				    <cell>9/2<lb/>13/4<lb/>25/5<lb/>1/6<lb/>9/11<lb/>30/11</cell>
+				    <cell>b<lb/>b<lb/>b<lb/>b<lb/>b<lb/>b</cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -715,16 +750,16 @@
 				 
 				 <row role="data">
 				  <cell>6</cell>
-				    <cell><lb/>Ernst Eriksson<lb/>Enåkersby<lb/>Skom. Gust. Eriksson</cell>
-				    <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
-				    <cell><lb/>26/1<lb/>2/2<lb/>21/9<lb/>12/10<lb/>26/10<lb/>2/11</cell>
-				    <cell><lb/>Filskaft<lb/>Werktygsklubba<lb/>Mjölskopa<lb/>Hörnhylla<lb/>Spade<lb/>Fotskrapa</cell>
-				    <cell><lb/>26/1<lb/>14/9<lb/>12/10<lb/>26/10<lb/>2/11<lb/>16/11</cell>
-				    <cell><lb/>b<lb/>b<lb/>b<lb/>b<lb/>b<lb/>b</cell>
-				    <cell><lb/>23/11<lb/><lb/><lb/><lb/><lb/><lb/></cell>
-				    <cell><lb/>Brödpigg<lb/><lb/><lb/><lb/><lb/><lb/></cell>
-				    <cell><lb/>30/11<lb/><lb/><lb/><lb/><lb/><lb/></cell>
-				    <cell><lb/>b<lb/><lb/><lb/><lb/><lb/><lb/></cell>
+				    <cell>Ernst Eriksson<lb/>Enåkersby<lb/>Skom. Gust. Eriksson</cell>
+				    <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
+				    <cell>26/1<lb/>2/2<lb/>21/9<lb/>12/10<lb/>26/10<lb/>2/11</cell>
+				    <cell>Filskaft<lb/>Werktygsklubba<lb/>Mjölskopa<lb/>Hörnhylla<lb/>Spade<lb/>Fotskrapa</cell>
+				    <cell>26/1<lb/>14/9<lb/>12/10<lb/>26/10<lb/>2/11<lb/>16/11</cell>
+				    <cell>b<lb/>b<lb/>b<lb/>b<lb/>b<lb/>b</cell>
+				    <cell>23/11<lb/><lb/><lb/><lb/><lb/><lb/></cell>
+				    <cell>Brödpigg<lb/><lb/><lb/><lb/><lb/><lb/></cell>
+				    <cell>30/11<lb/><lb/><lb/><lb/><lb/><lb/></cell>
+				    <cell>b<lb/><lb/><lb/><lb/><lb/><lb/></cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -735,16 +770,16 @@
 				
 				 <row role="data">
 				  <cell>7</cell>
-				    <cell><lb/>Gunnar Andersson<lb/>Aspnäs<lb/>Förm. L. O. Andersson</cell>
-				    <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
-				    <cell><lb/>19/1<lb/>26/1<lb/>2/3<lb/>16/3<lb/>6/4<lb/>25/5<lb/></cell>
-				    <cell><lb/>Filskaft<lb/>Klappträ<lb/>Köttklubba<lb/>Brödspade<lb/>Hörnhylla<lb/>Kniflåda<lb/></cell>
-				    <cell><lb/>26/1<lb/>23/2<lb/>16/3<lb/>30/3<lb/>18/5<lb/>15/6<lb/></cell>
-				    <cell><lb/>b<lb/>b<lb/>b<lb/>b<lb/>b<lb/><lb/></cell>
-				    <cell><lb/>4/9<lb/><lb/><lb/><lb/><lb/><lb/></cell>
-				    <cell><lb/>Skurlåda<lb/><lb/><lb/><lb/><lb/><lb/></cell>
-				    <cell><lb/>30/11<lb/><lb/><lb/><lb/><lb/><lb/></cell>
-				    <cell><lb/>b<lb/><lb/><lb/><lb/><lb/><lb/></cell>
+				    <cell>Gunnar Andersson<lb/>Aspnäs<lb/>Förm. L. O. Andersson</cell>
+				    <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
+				    <cell>19/1<lb/>26/1<lb/>2/3<lb/>16/3<lb/>6/4<lb/>25/5<lb/></cell>
+				    <cell>Filskaft<lb/>Klappträ<lb/>Köttklubba<lb/>Brödspade<lb/>Hörnhylla<lb/>Kniflåda<lb/></cell>
+				    <cell>26/1<lb/>23/2<lb/>16/3<lb/>30/3<lb/>18/5<lb/>15/6<lb/></cell>
+				    <cell>b<lb/>b<lb/>b<lb/>b<lb/>b<lb/><lb/></cell>
+				    <cell>4/9<lb/><lb/><lb/><lb/><lb/><lb/></cell>
+				    <cell>Skurlåda<lb/><lb/><lb/><lb/><lb/><lb/></cell>
+				    <cell>30/11<lb/><lb/><lb/><lb/><lb/><lb/></cell>
+				    <cell>b<lb/><lb/><lb/><lb/><lb/><lb/></cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -755,16 +790,16 @@
 				
 				 <row role="data">
 				  <cell>8</cell>
-				  <cell><lb/>Axel Enlund<lb/>Persbo<lb/>Torpäg. J.O. Enlund</cell>
-				  <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell> 
-				  <cell><lb/>19/1<lb/>16/3<lb/>13/4<lb/>1/6<lb/>8/6<lb/></cell>
-				  <cell><lb/>Pall<lb/>Brödspade<lb/>Werktygsklubba<lb/>Filskaft<lb/>Köttklubba<lb/></cell>
-				  <cell><lb/>9/3<lb/>30/3<lb/>18/5<lb/>1/6<lb/>15/6<lb/></cell>
-				  <cell><lb/>b<lb/>b<lb/>b<lb/>b<lb/>b<lb/></cell>
-				  <cell><lb/>4/9<lb/>26/10<lb/>23/11<lb/><lb/><lb/></cell>
-				  <cell><lb/>Skurlåda<lb/>Hacklåda<lb/>Brödpigg<lb/><lb/><lb/></cell>
-				  <cell><lb/>19/10<lb/>16/11<lb/>30/11<lb/><lb/><lb/></cell>
-				  <cell><lb/>b<lb/>b<lb/>b<lb/><lb/><lb/></cell>
+				  <cell>Axel Enlund<lb/>Persbo<lb/>Torpäg. J.O. Enlund</cell>
+				  <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell> 
+				  <cell>19/1<lb/>16/3<lb/>13/4<lb/>1/6<lb/>8/6<lb/></cell>
+				  <cell>Pall<lb/>Brödspade<lb/>Werktygsklubba<lb/>Filskaft<lb/>Köttklubba<lb/></cell>
+				  <cell>9/3<lb/>30/3<lb/>18/5<lb/>1/6<lb/>15/6<lb/></cell>
+				  <cell>b<lb/>b<lb/>b<lb/>b<lb/>b<lb/></cell>
+				  <cell>4/9<lb/>26/10<lb/>23/11<lb/><lb/><lb/></cell>
+				  <cell>Skurlåda<lb/>Hacklåda<lb/>Brödpigg<lb/><lb/><lb/></cell>
+				  <cell>19/10<lb/>16/11<lb/>30/11<lb/><lb/><lb/></cell>
+				  <cell>b<lb/>b<lb/>b<lb/><lb/><lb/></cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -777,64 +812,76 @@
 	   <div type="page" facs="#s19012">
 	    <p>
 	       <lb/>År 1901.
-         <table rows="11" cols="16">
-				 <head></head>
-				 <row role="label">
-				  <cell>Nr.</cell>
-				  <cell>Namn och hemvist</cell>
-				  <cell>Dagar.</cell> 
-				  <cell cols = "8">Under årets verkställda arbeten</cell>
-				  <cell cols = "4">Summa dagar</cell>
-				  <cell>Anmärkningar</cell>
-				 </row>
-				 <row role="label">
-				  <cell></cell>
-				  <cell></cell> 
-				  <cell></cell>
-				  <cell>Började den</cell>
-				  <cell>Arbeten</cell>
-				  <cell>Slutade den</cell>
-				  <cell>Vits-ord</cell>
-				  <cell>Började den</cell>
-				  <cell>Arbeten</cell>
-				  <cell>Slutade den</cell>
-				  <cell>Vits-ord</cell>
-				  <cell>Närvarande</cell>
-				  <cell cols = "3">Summa dagar</cell>
-				
-				 </row>
-				 <row role="label">
-				  <cell></cell>
-				  <cell></cell> 
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell>Pga sjukdom</cell>
-				  <cell>med löf</cell>
-				  <cell>utan löf</cell>
-				 </row>
+	       <table rows="11" cols="16">
+	          <head></head>
+	          <row role="label">
+	             <cell>Nr.</cell>
+	             <cell>Namn och hemvist</cell>
+	             <cell>Da-<lb/>gar.</cell>
+	             <cell></cell>
+	             <cell></cell>    
+	             <cell>Under </cell>
+	             <cell>årets </cell>
+	             <cell>verkställda </cell>
+	             <cell>arbeten</cell>
+	             <cell></cell>
+	             <cell></cell>
+	             <cell>Summa</cell>
+	             <cell>dagar</cell>
+	             <cell></cell>
+	             <cell></cell>				    
+	             <cell>Anmärkningar</cell>
+	          </row>
+	          <row role="label">
+	             <cell></cell>
+	             <cell></cell>
+	             <cell></cell>
+	             <cell>Började<lb/>den</cell>
+	             <cell>Arbeten</cell>
+	             <cell>Slutade<lb/>den</cell>
+	             <cell>Vits-<lb/>ord</cell>
+	             <cell>Börjaded<lb/>en</cell>
+	             <cell>Arbeten</cell>
+	             <cell>Slutade<lb/>den</cell>
+	             <cell>Vits-<lb/>ord</cell>
+	             <cell>När-<lb/>va<lb/>rande.</cell>
+	             <cell>Franvarande</cell>
+	             <cell></cell> 				    
+	             <cell></cell>
+	             <cell></cell>
+	          </row>
+	          <row role="label">
+	             <cell></cell>
+	             <cell></cell> 
+	             <cell></cell>
+	             <cell></cell>
+	             <cell></cell>
+	             <cell></cell>
+	             <cell></cell>
+	             <cell></cell>
+	             <cell></cell>
+	             <cell></cell>
+	             <cell></cell>
+	             <cell></cell>
+	             <cell>på grund<lb/>af sjuk-<lb/>dom.</cell>
+	             <cell>med lof<lb/>eller annat<lb/>godkänt<lb/>förfall.</cell>
+	             <cell>utan löf<lb/>eller<lb/>godkänt<lb/>förfall.</cell>
+	             <cell></cell>
+	          </row>
 				 
 				 
 				 <row role="data">
 				  <cell>9</cell>
-				    <cell><lb/>Wiktor Söderberg<lb/>Främnäs<lb/>Torp. A. Söderberg</cell>
-				  <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell> 
-				    <cell><lb/>19/1<lb/>19/1<lb/>26/1<lb/>2/2<lb/>9/2<lb/>23/2</cell>
-				    <cell><lb/>Blomkrukspinne<lb/>Nyckeletikett<lb/>Klädstrecksklyka<lb/>Selpinne<lb/>Skärbräde<lb/>Strumpbräde</cell>
-				    <cell><lb/>19/1<lb/>26/1<lb/>26/1<lb/>9/2<lb/>16/2<lb/>2/3</cell>
-				    <cell><lb/>b<lb/>b<lb/>b<lb/>b<lb/>b<lb/>b</cell>
-				    <cell><lb/>2/3<lb/>9/3<lb/>16/3<lb/>23/3<lb/>30/3<lb/>30/3</cell>
-				    <cell><lb/>Rockhängare<lb/>Stämjärnsskaft<lb/>Hammarskaft<lb/>Smörspade<lb/>Pappersknif<lb/>Spjälpall</cell>
-				    <cell><lb/>9/3<lb/>16/3<lb/>16/3<lb/>23/3<lb/>30/3<lb/>13/4</cell>
-				    <cell><lb/>b<lb/>b<lb/>b<lb/>b<lb/>b<lb/>b</cell>
+				    <cell>Wiktor Söderberg<lb/>Främnäs<lb/>Torp. A. Söderberg</cell>
+				  <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell> 
+				    <cell>19/1<lb/>19/1<lb/>26/1<lb/>2/2<lb/>9/2<lb/>23/2</cell>
+				    <cell>Blomkrukspinne<lb/>Nyckeletikett<lb/>Klädstrecksklyka<lb/>Selpinne<lb/>Skärbräde<lb/>Strumpbräde</cell>
+				    <cell>19/1<lb/>26/1<lb/>26/1<lb/>9/2<lb/>16/2<lb/>2/3</cell>
+				    <cell>b<lb/>b<lb/>b<lb/>b<lb/>b<lb/>b</cell>
+				    <cell>2/3<lb/>9/3<lb/>16/3<lb/>23/3<lb/>30/3<lb/>30/3</cell>
+				    <cell>Rockhängare<lb/>Stämjärnsskaft<lb/>Hammarskaft<lb/>Smörspade<lb/>Pappersknif<lb/>Spjälpall</cell>
+				    <cell>9/3<lb/>16/3<lb/>16/3<lb/>23/3<lb/>30/3<lb/>13/4</cell>
+				    <cell>b<lb/>b<lb/>b<lb/>b<lb/>b<lb/>b</cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -845,16 +892,16 @@
 				 
 				 <row role="data">
 				  <cell>10</cell>
-				    <cell><lb/>Lorentz Arenander<lb/>Lindsbro<lb/>Änkefru Arenander</cell>
-				  <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>   
-				    <cell><lb/>19/1<lb/>26/1<lb/>2/2<lb/>16/2<lb/>2/3<lb/>16/3</cell>
-				    <cell><lb/>Blomkrukspinne<lb/>Nyckeletikett<lb/>Klädstrecksklyka<lb/>Selpinne<lb/>Rockhängare<lb/>Skärbräde</cell>
-				    <cell><lb/>19/1<lb/>26/1<lb/>9/2<lb/>2/3<lb/>16/3<lb/>16/3</cell>
-				    <cell><lb/>b<lb/>c<lb/>b<lb/>b<lb/>c<lb/>b</cell>
-				    <cell><lb/>13/4<lb/>20/4<lb/>18/5<lb/>15/6<lb/>4/9<lb/>21/9</cell>
-				    <cell><lb/>Strumpbräde<lb/>Stämjärnsskaft<lb/>Hammarskaft<lb/>Smörspade<lb/>Pappersknif<lb/>Spjälpall</cell>
-				    <cell><lb/>20/4<lb/>18/5<lb/>18/5<lb/>15/6<lb/>21/9<lb/>19/10</cell>
-				    <cell><lb/>c<lb/>b<lb/>b<lb/>b<lb/>b<lb/>b</cell>
+				    <cell>Lorentz Arenander<lb/>Lindsbro<lb/>Änkefru Arenander</cell>
+				  <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>   
+				    <cell>19/1<lb/>26/1<lb/>2/2<lb/>16/2<lb/>2/3<lb/>16/3</cell>
+				    <cell>Blomkrukspinne<lb/>Nyckeletikett<lb/>Klädstrecksklyka<lb/>Selpinne<lb/>Rockhängare<lb/>Skärbräde</cell>
+				    <cell>19/1<lb/>26/1<lb/>9/2<lb/>2/3<lb/>16/3<lb/>16/3</cell>
+				    <cell>b<lb/>c<lb/>b<lb/>b<lb/>c<lb/>b</cell>
+				    <cell>13/4<lb/>20/4<lb/>18/5<lb/>15/6<lb/>4/9<lb/>21/9</cell>
+				    <cell>Strumpbräde<lb/>Stämjärnsskaft<lb/>Hammarskaft<lb/>Smörspade<lb/>Pappersknif<lb/>Spjälpall</cell>
+				    <cell>20/4<lb/>18/5<lb/>18/5<lb/>15/6<lb/>21/9<lb/>19/10</cell>
+				    <cell>c<lb/>b<lb/>b<lb/>b<lb/>b<lb/>b</cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -865,16 +912,16 @@
 				
 				 <row role="data">
 				  <cell>11</cell>
-				    <cell><lb/>Ernst Olsson<lb/>Österbo<lb/>Torp. L. Olsson</cell>
-				  <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>   
-				    <cell><lb/>19/1<lb/>19/1<lb/>26/1<lb/>2/2<lb/>16/2<lb/>23/2</cell>
-				    <cell><lb/>Blomkrukspinne<lb/>Nyckeletikett<lb/>Klädstrecksklyka<lb/>Selpinne<lb/>Skärbräde<lb/>Strumpbräde</cell>
-				    <cell><lb/>19/1<lb/>26/1<lb/>2/2<lb/>16/2<lb/>23/2<lb/>9/3</cell>
-				    <cell><lb/>b<lb/>b<lb/>b<lb/>b<lb/>b<lb/>c</cell>
-				    <cell><lb/>9/3<lb/>16/3<lb/>23/3<lb/>30/3<lb/>6/4<lb/>4/9</cell>
-				    <cell><lb/>Rockhängare<lb/>Stämjärnsskaft<lb/>Hammarskaft<lb/>Smörspade<lb/>Pappersknif<lb/>Klädhängare</cell>
-				    <cell><lb/>16/3<lb/>23/3<lb/>30/3<lb/>6/4<lb/>20/4<lb/>12/10</cell>
-				    <cell><lb/>c<lb/><lb/>b<lb/>b<lb/>c<lb/>c</cell>
+				    <cell>Ernst Olsson<lb/>Österbo<lb/>Torp. L. Olsson</cell>
+				  <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>   
+				    <cell>19/1<lb/>19/1<lb/>26/1<lb/>2/2<lb/>16/2<lb/>23/2</cell>
+				    <cell>Blomkrukspinne<lb/>Nyckeletikett<lb/>Klädstrecksklyka<lb/>Selpinne<lb/>Skärbräde<lb/>Strumpbräde</cell>
+				    <cell>19/1<lb/>26/1<lb/>2/2<lb/>16/2<lb/>23/2<lb/>9/3</cell>
+				    <cell>b<lb/>b<lb/>b<lb/>b<lb/>b<lb/>c</cell>
+				    <cell>9/3<lb/>16/3<lb/>23/3<lb/>30/3<lb/>6/4<lb/>4/9</cell>
+				    <cell>Rockhängare<lb/>Stämjärnsskaft<lb/>Hammarskaft<lb/>Smörspade<lb/>Pappersknif<lb/>Klädhängare</cell>
+				    <cell>16/3<lb/>23/3<lb/>30/3<lb/>6/4<lb/>20/4<lb/>12/10</cell>
+				    <cell>c<lb/><lb/>b<lb/>b<lb/>c<lb/>c</cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -885,16 +932,16 @@
 				 
 				 <row role="data">
 				  <cell>12</cell>
-				    <cell><lb/>Frans Gust Eriksson<lb/>Enåkersby<lb/>Skom. Gust. Eriksson</cell>
-				  <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
-				    <cell><lb/>26/1<lb/>26/1<lb/>2/2<lb/>9/2<lb/>16/2<lb/>23/2</cell>
-				    <cell><lb/>Blomkrukspinne<lb/>Nyckeletikett<lb/>Klädstrecksklyka<lb/>Selpinne<lb/>Skärbräde<lb/>Strumpbräde</cell>
-				    <cell><lb/>26/1<lb/>2/2<lb/>9/2<lb/>16/2<lb/>16/2<lb/>2/3</cell>
-				    <cell><lb/>b<lb/>b<lb/>b<lb/>b<lb/>b<lb/>b</cell>
-				    <cell><lb/>2/3<lb/>9/3<lb/>9/3<lb/>16/3<lb/>21/9<lb/>26/10</cell>
-				    <cell><lb/>Rockhängare<lb/>Stämjärnsskaft<lb/>Hammarskaft<lb/>Smörspade<lb/>Pappersknif<lb/>Klädhängare</cell>
-				    <cell><lb/>2/3<lb/>9/3<lb/>16/3<lb/>23/3<lb/>28/9<lb/>2/11</cell>
-				    <cell><lb/>b<lb/>b<lb/>b<lb/>b<lb/>b<lb/>b</cell>
+				    <cell>Frans Gust Eriksson<lb/>Enåkersby<lb/>Skom. Gust. Eriksson</cell>
+				  <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
+				    <cell>26/1<lb/>26/1<lb/>2/2<lb/>9/2<lb/>16/2<lb/>23/2</cell>
+				    <cell>Blomkrukspinne<lb/>Nyckeletikett<lb/>Klädstrecksklyka<lb/>Selpinne<lb/>Skärbräde<lb/>Strumpbräde</cell>
+				    <cell>26/1<lb/>2/2<lb/>9/2<lb/>16/2<lb/>16/2<lb/>2/3</cell>
+				    <cell>b<lb/>b<lb/>b<lb/>b<lb/>b<lb/>b</cell>
+				    <cell>2/3<lb/>9/3<lb/>9/3<lb/>16/3<lb/>21/9<lb/>26/10</cell>
+				    <cell>Rockhängare<lb/>Stämjärnsskaft<lb/>Hammarskaft<lb/>Smörspade<lb/>Pappersknif<lb/>Klädhängare</cell>
+				    <cell>2/3<lb/>9/3<lb/>16/3<lb/>23/3<lb/>28/9<lb/>2/11</cell>
+				    <cell>b<lb/>b<lb/>b<lb/>b<lb/>b<lb/>b</cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -905,16 +952,16 @@
 				 
 				 <row role="data">
 				  <cell>13</cell>
-				    <cell><lb/>Sigfrid Andersson<lb/>Aspnäs<lb/>Förm. L.O. Andersson</cell>
-				  <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
-				    <cell><lb/>19/1<lb/>26/1<lb/>2/2<lb/>23/2<lb/>9/3<lb/>16/3</cell>
-				    <cell><lb/>Blomkrukspinne<lb/>Nyckeletikett<lb/>Klädstrecksklyka<lb/>Selpinne<lb/>Skärbräde<lb/>Strumpbräde</cell>
-				    <cell><lb/>19/1<lb/>2/2<lb/>23/2<lb/>l9/3><lb/>16/3<lb/>30/3</cell>
-				    <cell><lb/>b<lb/>c<lb/>c<lb/>b<lb/>b<lb/>c</cell>
-				    <cell><lb/>30/3<lb/>6/4<lb/>18/5<lb/>1/6<lb/>4/9<lb/>21/9</cell>
-				    <cell><lb/>Rockhängare<lb/>Stämjärnsskaft<lb/>Hammarskaft<lb/>Smörspade<lb/>Pappersknif<lb/>Spjälpall</cell>
-				    <cell><lb/>6/4<lb/>20/4<lb/>1/6<lb/>15/6<lb/>21/9<lb/>19/10</cell>
-				    <cell><lb/>c<lb/>b<lb/>b<lb/>b<lb/>b<lb/>b</cell>
+				    <cell>Sigfrid Andersson<lb/>Aspnäs<lb/>Förm. L.O. Andersson</cell>
+				  <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
+				    <cell>19/1<lb/>26/1<lb/>2/2<lb/>23/2<lb/>9/3<lb/>16/3</cell>
+				    <cell>Blomkrukspinne<lb/>Nyckeletikett<lb/>Klädstrecksklyka<lb/>Selpinne<lb/>Skärbräde<lb/>Strumpbräde</cell>
+				    <cell>19/1<lb/>2/2<lb/>23/2<lb/>l9/3><lb/>16/3<lb/>30/3</cell>
+				    <cell>b<lb/>c<lb/>c<lb/>b<lb/>b<lb/>c</cell>
+				    <cell>30/3<lb/>6/4<lb/>18/5<lb/>1/6<lb/>4/9<lb/>21/9</cell>
+				    <cell>Rockhängare<lb/>Stämjärnsskaft<lb/>Hammarskaft<lb/>Smörspade<lb/>Pappersknif<lb/>Spjälpall</cell>
+				    <cell>6/4<lb/>20/4<lb/>1/6<lb/>15/6<lb/>21/9<lb/>19/10</cell>
+				    <cell>c<lb/>b<lb/>b<lb/>b<lb/>b<lb/>b</cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -925,16 +972,16 @@
 				 
 				 <row role="data">
 				  <cell>14</cell>
-				    <cell><lb/>Gunnar Hedlund<lb/>Enåkersby<lb/>Statdr. J.O. Hedlund</cell>
-				  <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
-				    <cell><lb/>19/1<lb/>26/1<lb/>2/2<lb/>23/2<lb/>9/3<lb/>16/3<lb/>30/3</cell>
-				    <cell><lb/>Blomkrukspinne<lb/>Nyckeletikett<lb/>Klädstrecksklyka<lb/>Selpinne<lb/>Skärbräde<lb/>Strumpbräde<lb/>Rockhängare</cell>
-				    <cell><lb/>19/1<lb/>1/2<lb/>23/2<lb/>9/3<lb/>16/3<lb/>30/3<lb/>6/4</cell>
-				    <cell><lb/>b<lb/>b<lb/>c<lb/>b<lb/>b<lb/>c</cell>
-				    <cell><lb/>30/3<lb/>6/4<lb/>18/5<lb/>1/6<lb/>4/9<lb/>21/9</cell>
-				    <cell><lb/>Rockhängare<lb/>Stämjärnsskaft<lb/>Hammarskaft<lb/>Smörspade<lb/>Pappersknif<lb/>Spjälpall</cell>
-				    <cell><lb/>6/4<lb/>20/4<lb/>1/6<lb/>15/6<lb/>21/9<lb/>19/10</cell>
-				    <cell><lb/>c<lb/>b<lb/>b<lb/>b<lb/>c<lb/>c</cell>
+				    <cell>Gunnar Hedlund<lb/>Enåkersby<lb/>Statdr. J.O. Hedlund</cell>
+				  <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
+				    <cell>19/1<lb/>26/1<lb/>2/2<lb/>23/2<lb/>9/3<lb/>16/3<lb/>30/3</cell>
+				    <cell>Blomkrukspinne<lb/>Nyckeletikett<lb/>Klädstrecksklyka<lb/>Selpinne<lb/>Skärbräde<lb/>Strumpbräde<lb/>Rockhängare</cell>
+				    <cell>19/1<lb/>1/2<lb/>23/2<lb/>9/3<lb/>16/3<lb/>30/3<lb/>6/4</cell>
+				    <cell>b<lb/>b<lb/>c<lb/>b<lb/>b<lb/>c</cell>
+				    <cell>30/3<lb/>6/4<lb/>18/5<lb/>1/6<lb/>4/9<lb/>21/9</cell>
+				    <cell>Rockhängare<lb/>Stämjärnsskaft<lb/>Hammarskaft<lb/>Smörspade<lb/>Pappersknif<lb/>Spjälpall</cell>
+				    <cell>6/4<lb/>20/4<lb/>1/6<lb/>15/6<lb/>21/9<lb/>19/10</cell>
+				    <cell>c<lb/>b<lb/>b<lb/>b<lb/>c<lb/>c</cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -945,16 +992,16 @@
 				
 				 <row role="data">
 				  <cell>15</cell>
-				    <cell><lb/>Erik Sigfrid Larsson<lb/>Skrädderbo<lb/>Bn. L.E. Larsson</cell>
-				  <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
-				    <cell><lb/>26/1<lb/>26/1<lb/>23/2<lb/>9/3<lb/>16/3<lb/>23/3</cell>
-				    <cell><lb/>Blomkrukspinne<lb/>Nyckeletikett<lb/>Klädstrecksklyka<lb/>Selpinne<lb/>Skärbräde<lb/>Strumpbräde</cell>
-				    <cell><lb/>26/1<lb/>2/2<lb/>9/3<lb/>16/3<lb/>16/3<lb/>31/3</cell>
-				  <cell><lb/>b<lb/>c<lb/>b<lb/>b<lb/>b<lb/>c</cell>
-				    <cell><lb/>6/4<lb/>13/4<lb/>18/5<lb/>1/6<lb/>4/9<lb/>21/9<lb/>21/9</cell>
-				    <cell><lb/>Rockhängare<lb/>Stämjärnsskaft<lb/>Hammarskaft<lb/>Smörspade<lb/>Pappersknif<lb/>Spjälpall</cell>
-				    <cell><lb/>13/4<lb/>20/4<lb/>1/6<lb/>15/6<lb/>21/9<lb/>19/10</cell>
-				    <cell><lb/>c<lb/>b<lb/>b<lb/>b<lb/>b<lb/>b</cell>
+				    <cell>Erik Sigfrid Larsson<lb/>Skrädderbo<lb/>Bn. L.E. Larsson</cell>
+				  <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
+				    <cell>26/1<lb/>26/1<lb/>23/2<lb/>9/3<lb/>16/3<lb/>23/3</cell>
+				    <cell>Blomkrukspinne<lb/>Nyckeletikett<lb/>Klädstrecksklyka<lb/>Selpinne<lb/>Skärbräde<lb/>Strumpbräde</cell>
+				    <cell>26/1<lb/>2/2<lb/>9/3<lb/>16/3<lb/>16/3<lb/>31/3</cell>
+				  <cell>b<lb/>c<lb/>b<lb/>b<lb/>b<lb/>c</cell>
+				    <cell>6/4<lb/>13/4<lb/>18/5<lb/>1/6<lb/>4/9<lb/>21/9<lb/>21/9</cell>
+				    <cell>Rockhängare<lb/>Stämjärnsskaft<lb/>Hammarskaft<lb/>Smörspade<lb/>Pappersknif<lb/>Spjälpall</cell>
+				    <cell>13/4<lb/>20/4<lb/>1/6<lb/>15/6<lb/>21/9<lb/>19/10</cell>
+				    <cell>c<lb/>b<lb/>b<lb/>b<lb/>b<lb/>b</cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -965,21 +1012,21 @@
 				
 				 <row role="data">
 				  <cell>16</cell>
-				    <cell><lb/>Gunnar Ekström<lb/><lb/></cell>
-				  <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>    
-				    <cell><lb/>2/3<lb/>2/3<lb/>16/3<lb/>23/3<lb/>6/4<lb/>20/4</cell>
-				    <cell><lb/>Blomkrukspinne<lb/>Nyckeletikett<lb/>Klädstrecksklyka<lb/>Selpinne<lb/>Skärbräde<lb/>Strumpbräde</cell>
-				    <cell><lb/>2/3<lb/>9/3<lb/>23/3<lb/>30/3<lb/>20/4<lb/>25/5</cell>
+				    <cell>Gunnar Ekström<lb/><lb/></cell>
+				  <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>    
+				    <cell>2/3<lb/>2/3<lb/>16/3<lb/>23/3<lb/>6/4<lb/>20/4</cell>
+				    <cell>Blomkrukspinne<lb/>Nyckeletikett<lb/>Klädstrecksklyka<lb/>Selpinne<lb/>Skärbräde<lb/>Strumpbräde</cell>
+				    <cell>2/3<lb/>9/3<lb/>23/3<lb/>30/3<lb/>20/4<lb/>25/5</cell>
+				    <cell>b<lb/>c<lb/>b<lb/>b<lb/>b<lb/>c</cell>
+				    <cell>25/3<lb/>4/9<lb/>14/9</cell>
+				    <cell>Rockhängare<lb/>Pappersknif<lb/>Spjälpall</cell>
+				    <cell>15/6<lb/>14/9</cell>
+				    <cell>b<lb/>c</cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				    <cell><lb/>Började den 2/3 Flyttade den 8/10</cell>
+				    <cell>Började den 2/3 Flyttade den 8/10</cell>
 				 </row>
 				</table>
 			</p>
@@ -992,26 +1039,38 @@
                   <row role="label">
                      <cell>Nr.</cell>
                      <cell>Namn och hemvist</cell>
-                     <cell>Dagar.</cell> 
-                     <cell cols = "8">Under årets verkställda arbeten</cell>
-                     <cell cols = "4">Summa dagar</cell>
+                     <cell>Da-<lb/>gar.</cell>
+                     <cell></cell>
+                     <cell></cell>    
+                     <cell>Under </cell>
+                     <cell>årets </cell>
+                     <cell>verkställda </cell>
+                     <cell>arbeten</cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell>Summa</cell>
+                     <cell>dagar</cell>
+                     <cell></cell>
+                     <cell></cell>				    
                      <cell>Anmärkningar</cell>
                   </row>
                   <row role="label">
                      <cell></cell>
-                     <cell></cell> 
                      <cell></cell>
-                     <cell>Började den</cell>
+                     <cell></cell>
+                     <cell>Började<lb/>den</cell>
                      <cell>Arbeten</cell>
-                     <cell>Slutade den</cell>
-                     <cell>Vits-ord</cell>
-                     <cell>Började den</cell>
+                     <cell>Slutade<lb/>den</cell>
+                     <cell>Vits-<lb/>ord</cell>
+                     <cell>Börjaded<lb/>en</cell>
                      <cell>Arbeten</cell>
-                     <cell>Slutade den</cell>
-                     <cell>Vits-ord</cell>
-                     <cell>Närvarande</cell>
-                     <cell cols = "3">Summa dagar</cell>
-                     
+                     <cell>Slutade<lb/>den</cell>
+                     <cell>Vits-<lb/>ord</cell>
+                     <cell>När-<lb/>va<lb/>rande.</cell>
+                     <cell>Franvarande</cell>
+                     <cell></cell> 				    
+                     <cell></cell>
+                     <cell></cell>
                   </row>
                   <row role="label">
                      <cell></cell>
@@ -1026,21 +1085,20 @@
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
+                     <cell>på grund<lb/>af sjuk-<lb/>dom.</cell>
+                     <cell>med lof<lb/>eller annat<lb/>godkänt<lb/>förfall.</cell>
+                     <cell>utan löf<lb/>eller<lb/>godkänt<lb/>förfall.</cell>
                      <cell></cell>
-                     <cell>Pga sjukdom</cell>
-                     <cell>med löf</cell>
-                     <cell>utan löf</cell>
                   </row>
-                  
                   
                   <row role="data">
                      <cell>9</cell>
-                     <cell><lb/>Wiktor Söderberg<lb/>Främnäs<lb/>Torp. A. Söderberg</cell>
-                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell> 
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
+                     <cell>Wiktor Söderberg<lb/>Främnäs<lb/>Torp. A. Söderberg</cell>
+                     <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell> 
+                     <cell>20/4<lb/>8/6<lb/>12/10<lb/>2/11<lb/>23/11</cell>
+                     <cell>Klädhängare<lb/>Ägghylla<lb/>Kratta<lb/>Såptråg<lb/>Sked</cell>
+                     <cell>8/6<lb/>12/10<lb/>26/10<lb/>23/11</cell>
+                     <cell>b<lb/>b<lb/>b<lb/>b</cell>
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -1055,12 +1113,12 @@
                   
                   <row role="data">
                      <cell>10</cell>
-                     <cell><lb/>Lorentz Arenander<lb/>Lindsbro<lb/>Änkefru Arenander</cell>
-                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>   
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
+                     <cell>Lorentz Arenander<lb/>Lindsbro<lb/>Änkefru Arenander</cell>
+                     <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>   
+                     <cell>26/10<lb/>9/11</cell>
+                     <cell>Klädhängare<lb/>Ägghylla</cell>
+                     <cell>2/11</cell>
+                     <cell>b</cell>
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -1075,12 +1133,12 @@
                   
                   <row role="data">
                      <cell>11</cell>
-                     <cell><lb/>Ernst Olsson<lb/>Österbo<lb/>Torp. L. Olsson</cell>
-                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>   
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
+                     <cell>Ernst Olsson<lb/>Österbo<lb/>Torp. L. Olsson</cell>
+                     <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>   
+                     <cell>4/9<lb/>19/10<lb/>23/11</cell>
+                     <cell>Klädhängare<lb/>Flughåfskaft<lb/>Kratta</cell>
+                     <cell>12/10<lb/>9/11</cell>
+                     <cell>c<lb/>c</cell>
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -1095,12 +1153,12 @@
                   
                   <row role="data">
                      <cell>12</cell>
-                     <cell><lb/>Frans Gust Eriksson<lb/>Enåkersby<lb/>Skom. Gust. Eriksson</cell>
-                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
+                     <cell>Frans Gust Eriksson<lb/>Enåkersby<lb/>Skom. Gust. Eriksson</cell>
+                     <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
+                     <cell>26/10<lb/>2/11<lb/>23/11</cell>
+                     <cell>Klädhängare<lb/>Ägghylla<lb/>Kratta</cell>
+                     <cell>2/11<lb/>23/11</cell>
+                     <cell>b<lb/>b</cell>
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -1115,8 +1173,8 @@
                   
                   <row role="data">
                      <cell>13</cell>
-                     <cell><lb/>Sigfrid Andersson<lb/>Aspnäs<lb/>Förm. L.O. Andersson</cell>
-                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
+                     <cell>Sigfrid Andersson<lb/>Aspnäs<lb/>Förm. L.O. Andersson</cell>
+                     <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -1135,8 +1193,8 @@
                   
                   <row role="data">
                      <cell>14</cell>
-                     <cell><lb/>Gunnar Hedlund<lb/>Enåkersby<lb/>Statdr. J.O. Hedlund</cell>
-                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
+                     <cell>Gunnar Hedlund<lb/>Enåkersby<lb/>Statdr. J.O. Hedlund</cell>
+                     <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -1155,8 +1213,8 @@
                   
                   <row role="data">
                      <cell>15</cell>
-                     <cell><lb/>Erik Sigfrid Larsson<lb/>Skrädderbo<lb/>Bn. L.E. Larsson</cell>
-                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
+                     <cell>Erik Sigfrid Larsson<lb/>Skrädderbo<lb/>Bn. L.E. Larsson</cell>
+                     <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -1175,8 +1233,8 @@
                   
                   <row role="data">
                      <cell>16</cell>
-                     <cell><lb/>Gunnar Ekström<lb/><lb/></cell>
-                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>    
+                     <cell>Gunnar Ekström<lb/><lb/></cell>
+                     <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>    
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -1189,64 +1247,74 @@
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
-                     <cell><lb/>Började den 2/3 Flyttade den 8/10</cell>
+                     <cell>Började den 2/3 Flyttade den 8/10</cell>
                   </row>
                </table>
             </p>
          </div>         
 	   <div type="page" facs="#s19021">
 	   <p>
-         <table rows="11" cols="16">
-				 <head></head>
-				 <row role="label">
-				  <cell>Nr.</cell>
-				  <cell>Namn och hemvist</cell>
-				  <cell></cell>  
-				  <cell cols = "8">Under årets verkställda arbeten</cell>
-				  <cell cols = "4">Summa dagar</cell>
-				  <cell>Anmärkningar</cell>
-				 </row>
-				 <row role="label">
-				  <cell></cell>
-				  <cell></cell>  
-				  <cell></cell>  
-				  <cell></cell>
-				  <cell>Började den</cell>
-				  <cell>Arbeten</cell>
-				  <cell>Slutade den</cell>
-				  <cell>Vits-ord</cell>
-				  <cell>Började den</cell>
-				  <cell>Arbeten</cell>
-				  <cell>Slutade den</cell>
-				  <cell>Vits-ord</cell>
-				  <cell>Närvarande</cell>
-				  <cell cols = "3">Summa dagar</cell>
-				
-				 </row>
-				 <row role="label">
-				  <cell></cell>
-				  <cell></cell> 
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell></cell>
-				  <cell>Pga sjukdom</cell>
-				  <cell>med löf</cell>
-				  <cell>utan löf</cell>
-				 </row>
-				 
+	      <table rows="11" cols="16">
+	         <head></head>
+	         <row role="label">
+	            <cell>Nr.</cell>
+	            <cell>Namn och hemvist</cell>
+	            <cell>Da-<lb/>gar.</cell>
+	            <cell></cell>
+	            <cell></cell>    
+	            <cell>Under </cell>
+	            <cell>årets </cell>
+	            <cell>verkställda </cell>
+	            <cell>arbeten</cell>
+	            <cell></cell>
+	            <cell></cell>
+	            <cell>Summa</cell>
+	            <cell>dagar</cell>
+	            <cell></cell>
+	            <cell></cell>				    
+	            <cell>Anmärkningar</cell>
+	         </row>
+	         <row role="label">
+	            <cell></cell>
+	            <cell></cell>
+	            <cell></cell>
+	            <cell>Började<lb/>den</cell>
+	            <cell>Arbeten</cell>
+	            <cell>Slutade<lb/>den</cell>
+	            <cell>Vits-<lb/>ord</cell>
+	            <cell>Börjaded<lb/>en</cell>
+	            <cell>Arbeten</cell>
+	            <cell>Slutade<lb/>den</cell>
+	            <cell>Vits-<lb/>ord</cell>
+	            <cell>När-<lb/>va<lb/>rande.</cell>
+	            <cell>Franvarande</cell>
+	            <cell></cell> 				    
+	            <cell></cell>
+	            <cell></cell>
+	         </row>
+	         <row role="label">
+	            <cell></cell>
+	            <cell></cell> 
+	            <cell></cell>
+	            <cell></cell>
+	            <cell></cell>
+	            <cell></cell>
+	            <cell></cell>
+	            <cell></cell>
+	            <cell></cell>
+	            <cell></cell>
+	            <cell></cell>
+	            <cell></cell>
+	            <cell>på grund<lb/>af sjuk-<lb/>dom.</cell>
+	            <cell>med lof<lb/>eller annat<lb/>godkänt<lb/>förfall.</cell>
+	            <cell>utan löf<lb/>eller<lb/>godkänt<lb/>förfall.</cell>
+	            <cell></cell>
+	         </row>
 				 
 				 <row role="data">
 				  <cell></cell>
 				  <cell></cell>  
-				  <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
+				  <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -1266,7 +1334,7 @@
             <row role="data">
                <cell></cell>
                <cell></cell>  
-               <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
+               <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                <cell></cell>
                <cell></cell>
                <cell></cell>
@@ -1286,7 +1354,7 @@
             <row role="data">
                <cell></cell>
                <cell></cell>  
-               <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
+               <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                <cell></cell>
                <cell></cell>
                <cell></cell>
@@ -1306,7 +1374,7 @@
             <row role="data">
                <cell></cell>
                <cell></cell>  
-               <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
+               <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                <cell></cell>
                <cell></cell>
                <cell></cell>
@@ -1326,7 +1394,7 @@
             <row role="data">
                <cell></cell>
                <cell></cell>  
-               <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
+               <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                <cell></cell>
                <cell></cell>
                <cell></cell>
@@ -1346,27 +1414,7 @@
             <row role="data">
                <cell></cell>
                <cell></cell>  
-               <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
-               <cell></cell>
-               <cell></cell>
-               <cell></cell>
-               <cell></cell>
-               <cell></cell>
-               <cell></cell>
-               <cell></cell>
-               <cell></cell>
-               <cell></cell>
-               <cell></cell>
-               <cell></cell>
-               <cell></cell>
-               <cell></cell>
-            </row>
-				 
-				
-            <row role="data">
-               <cell></cell>
-               <cell></cell>  
-               <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
+               <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                <cell></cell>
                <cell></cell>
                <cell></cell>
@@ -1386,7 +1434,27 @@
             <row role="data">
                <cell></cell>
                <cell></cell>  
-               <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
+               <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+            </row>
+				 
+				
+            <row role="data">
+               <cell></cell>
+               <cell></cell>  
+               <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                <cell></cell>
                <cell></cell>
                <cell></cell>
@@ -1411,27 +1479,38 @@
                   <row role="label">
                      <cell>Nr.</cell>
                      <cell>Namn och hemvist</cell>
-                     <cell></cell>  
-                     <cell cols = "8">Under årets verkställda arbeten</cell>
-                     <cell cols = "4">Summa dagar</cell>
+                     <cell>Da-<lb/>gar.</cell>
+                     <cell></cell>
+                     <cell></cell>    
+                     <cell>Under </cell>
+                     <cell>årets </cell>
+                     <cell>verkställda </cell>
+                     <cell>arbeten</cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell>Summa</cell>
+                     <cell>dagar</cell>
+                     <cell></cell>
+                     <cell></cell>				    
                      <cell>Anmärkningar</cell>
                   </row>
                   <row role="label">
                      <cell></cell>
-                     <cell></cell>  
-                     <cell></cell>  
                      <cell></cell>
-                     <cell>Började den</cell>
+                     <cell></cell>
+                     <cell>Började<lb/>den</cell>
                      <cell>Arbeten</cell>
-                     <cell>Slutade den</cell>
-                     <cell>Vits-ord</cell>
-                     <cell>Började den</cell>
+                     <cell>Slutade<lb/>den</cell>
+                     <cell>Vits-<lb/>ord</cell>
+                     <cell>Börjaded<lb/>en</cell>
                      <cell>Arbeten</cell>
-                     <cell>Slutade den</cell>
-                     <cell>Vits-ord</cell>
-                     <cell>Närvarande</cell>
-                     <cell cols = "3">Summa dagar</cell>
-                     
+                     <cell>Slutade<lb/>den</cell>
+                     <cell>Vits-<lb/>ord</cell>
+                     <cell>När-<lb/>va<lb/>rande.</cell>
+                     <cell>Franvarande</cell>
+                     <cell></cell> 				    
+                     <cell></cell>
+                     <cell></cell>
                   </row>
                   <row role="label">
                      <cell></cell>
@@ -1446,37 +1525,16 @@
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
+                     <cell>på grund<lb/>af sjuk-<lb/>dom.</cell>
+                     <cell>med lof<lb/>eller annat<lb/>godkänt<lb/>förfall.</cell>
+                     <cell>utan löf<lb/>eller<lb/>godkänt<lb/>förfall.</cell>
                      <cell></cell>
-                     <cell>Pga sjukdom</cell>
-                     <cell>med löf</cell>
-                     <cell>utan löf</cell>
                   </row>
-                  
                   
                   <row role="data">
                      <cell></cell>
                      <cell></cell>  
-                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                  </row>
-                  
-                  
-                  <row role="data">
-                     <cell></cell>
-                     <cell></cell>  
-                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
+                     <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -1496,7 +1554,7 @@
                   <row role="data">
                      <cell></cell>
                      <cell></cell>  
-                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
+                     <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -1516,7 +1574,7 @@
                   <row role="data">
                      <cell></cell>
                      <cell></cell>  
-                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
+                     <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -1536,7 +1594,7 @@
                   <row role="data">
                      <cell></cell>
                      <cell></cell>  
-                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
+                     <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -1556,7 +1614,7 @@
                   <row role="data">
                      <cell></cell>
                      <cell></cell>  
-                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
+                     <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -1576,7 +1634,7 @@
                   <row role="data">
                      <cell></cell>
                      <cell></cell>  
-                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
+                     <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -1596,7 +1654,27 @@
                   <row role="data">
                      <cell></cell>
                      <cell></cell>  
-                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
+                     <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                  </row>
+                  
+                  
+                  <row role="data">
+                     <cell></cell>
+                     <cell></cell>  
+                     <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -1621,27 +1699,38 @@
                   <row role="label">
                      <cell>Nr.</cell>
                      <cell>Namn och hemvist</cell>
-                     <cell></cell>  
-                     <cell cols = "8">Under årets verkställda arbeten</cell>
-                     <cell cols = "4">Summa dagar</cell>
+                     <cell>Da-<lb/>gar.</cell>
+                     <cell></cell>
+                     <cell></cell>    
+                     <cell>Under </cell>
+                     <cell>årets </cell>
+                     <cell>verkställda </cell>
+                     <cell>arbeten</cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell>Summa</cell>
+                     <cell>dagar</cell>
+                     <cell></cell>
+                     <cell></cell>				    
                      <cell>Anmärkningar</cell>
                   </row>
                   <row role="label">
                      <cell></cell>
-                     <cell></cell>  
-                     <cell></cell>  
                      <cell></cell>
-                     <cell>Började den</cell>
+                     <cell></cell>
+                     <cell>Började<lb/>den</cell>
                      <cell>Arbeten</cell>
-                     <cell>Slutade den</cell>
-                     <cell>Vits-ord</cell>
-                     <cell>Började den</cell>
+                     <cell>Slutade<lb/>den</cell>
+                     <cell>Vits-<lb/>ord</cell>
+                     <cell>Börjaded<lb/>en</cell>
                      <cell>Arbeten</cell>
-                     <cell>Slutade den</cell>
-                     <cell>Vits-ord</cell>
-                     <cell>Närvarande</cell>
-                     <cell cols = "3">Summa dagar</cell>
-                     
+                     <cell>Slutade<lb/>den</cell>
+                     <cell>Vits-<lb/>ord</cell>
+                     <cell>När-<lb/>va<lb/>rande.</cell>
+                     <cell>Franvarande</cell>
+                     <cell></cell> 				    
+                     <cell></cell>
+                     <cell></cell>
                   </row>
                   <row role="label">
                      <cell></cell>
@@ -1656,37 +1745,16 @@
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
+                     <cell>på grund<lb/>af sjuk-<lb/>dom.</cell>
+                     <cell>med lof<lb/>eller annat<lb/>godkänt<lb/>förfall.</cell>
+                     <cell>utan löf<lb/>eller<lb/>godkänt<lb/>förfall.</cell>
                      <cell></cell>
-                     <cell>Pga sjukdom</cell>
-                     <cell>med löf</cell>
-                     <cell>utan löf</cell>
                   </row>
-                  
                   
                   <row role="data">
                      <cell></cell>
                      <cell></cell>  
-                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                  </row>
-                  
-                  
-                  <row role="data">
-                     <cell></cell>
-                     <cell></cell>  
-                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
+                     <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -1706,7 +1774,7 @@
                   <row role="data">
                      <cell></cell>
                      <cell></cell>  
-                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
+                     <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -1726,7 +1794,7 @@
                   <row role="data">
                      <cell></cell>
                      <cell></cell>  
-                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
+                     <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -1746,7 +1814,7 @@
                   <row role="data">
                      <cell></cell>
                      <cell></cell>  
-                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
+                     <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -1766,7 +1834,7 @@
                   <row role="data">
                      <cell></cell>
                      <cell></cell>  
-                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
+                     <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -1786,7 +1854,7 @@
                   <row role="data">
                      <cell></cell>
                      <cell></cell>  
-                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
+                     <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -1806,7 +1874,27 @@
                   <row role="data">
                      <cell></cell>
                      <cell></cell>  
-                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
+                     <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                  </row>
+                  
+                  
+                  <row role="data">
+                     <cell></cell>
+                     <cell></cell>  
+                     <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -1831,27 +1919,38 @@
                   <row role="label">
                      <cell>Nr.</cell>
                      <cell>Namn och hemvist</cell>
-                     <cell></cell>  
-                     <cell cols = "8">Under årets verkställda arbeten</cell>
-                     <cell cols = "4">Summa dagar</cell>
+                     <cell>Da-<lb/>gar.</cell>
+                     <cell></cell>
+                     <cell></cell>    
+                     <cell>Under </cell>
+                     <cell>årets </cell>
+                     <cell>verkställda </cell>
+                     <cell>arbeten</cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell>Summa</cell>
+                     <cell>dagar</cell>
+                     <cell></cell>
+                     <cell></cell>				    
                      <cell>Anmärkningar</cell>
                   </row>
                   <row role="label">
                      <cell></cell>
-                     <cell></cell>  
-                     <cell></cell>  
                      <cell></cell>
-                     <cell>Började den</cell>
+                     <cell></cell>
+                     <cell>Började<lb/>den</cell>
                      <cell>Arbeten</cell>
-                     <cell>Slutade den</cell>
-                     <cell>Vits-ord</cell>
-                     <cell>Började den</cell>
+                     <cell>Slutade<lb/>den</cell>
+                     <cell>Vits-<lb/>ord</cell>
+                     <cell>Börjaded<lb/>en</cell>
                      <cell>Arbeten</cell>
-                     <cell>Slutade den</cell>
-                     <cell>Vits-ord</cell>
-                     <cell>Närvarande</cell>
-                     <cell cols = "3">Summa dagar</cell>
-                     
+                     <cell>Slutade<lb/>den</cell>
+                     <cell>Vits-<lb/>ord</cell>
+                     <cell>När-<lb/>va<lb/>rande.</cell>
+                     <cell>Franvarande</cell>
+                     <cell></cell> 				    
+                     <cell></cell>
+                     <cell></cell>
                   </row>
                   <row role="label">
                      <cell></cell>
@@ -1866,37 +1965,16 @@
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
+                     <cell>på grund<lb/>af sjuk-<lb/>dom.</cell>
+                     <cell>med lof<lb/>eller annat<lb/>godkänt<lb/>förfall.</cell>
+                     <cell>utan löf<lb/>eller<lb/>godkänt<lb/>förfall.</cell>
                      <cell></cell>
-                     <cell>Pga sjukdom</cell>
-                     <cell>med löf</cell>
-                     <cell>utan löf</cell>
                   </row>
-                  
                   
                   <row role="data">
                      <cell></cell>
                      <cell></cell>  
-                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                  </row>
-                  
-                  
-                  <row role="data">
-                     <cell></cell>
-                     <cell></cell>  
-                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
+                     <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -1916,7 +1994,7 @@
                   <row role="data">
                      <cell></cell>
                      <cell></cell>  
-                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
+                     <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -1936,7 +2014,7 @@
                   <row role="data">
                      <cell></cell>
                      <cell></cell>  
-                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
+                     <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -1956,7 +2034,7 @@
                   <row role="data">
                      <cell></cell>
                      <cell></cell>  
-                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
+                     <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -1976,7 +2054,7 @@
                   <row role="data">
                      <cell></cell>
                      <cell></cell>  
-                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
+                     <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -1996,7 +2074,7 @@
                   <row role="data">
                      <cell></cell>
                      <cell></cell>  
-                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
+                     <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -2016,7 +2094,27 @@
                   <row role="data">
                      <cell></cell>
                      <cell></cell>  
-                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
+                     <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                  </row>
+                  
+                  
+                  <row role="data">
+                     <cell></cell>
+                     <cell></cell>  
+                     <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>

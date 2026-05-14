@@ -38,13 +38,12 @@
                 <main id="manuscript">
                     <!-- bootstrap "container" class makes the columns look pretty -->
                     <div class="container">
-                    <!-- define a row layout with bootstrap's css classes (two columns with content, and an empty column in between) -->
+                        <!-- define a row layout with bootstrap's css classes (two columns with content, and an empty column in between) -->
                         <div class="row">
                             <div class="col-sm">
                                 <h3>Bilder</h3>
                             </div>
-                            <div class="col-sm">
-                            </div>
+ 
                             <div class="col-sm">
                                 <h3>Transkribering</h3>
                             </div>
@@ -86,14 +85,13 @@
                                 </div>
                                 <!-- fill the second column with our transcription -->
                                 <div class='col-sm'>
-                                    <article class="transcription">
-                                       
+                                <article>   
                                             <xsl:apply-templates/>   
                                     </article>
                                 </div>
                             </div>
                         </xsl:for-each>
-                        </div>
+                    </div>
                 </main>
                 <footer>
                 <div class="row" id="footer">
