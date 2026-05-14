@@ -30,10 +30,14 @@ h3 {
 }
 
 table {
-  width: 40%;
+  width: auto;
 }
 div.tablecontainer {
   overflow-x: auto;
+}
+
+th, td {
+  border-bottom: 1px solid #ddd;
 }
 
 #details {

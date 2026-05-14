@@ -141,7 +141,7 @@
                <hi rend="u">Enåckers socken dagbok</hi>
             </head>
 			<p>
-			   <l>År 19__.</l>
+			   År 19__.
             <table rows="11" cols="16">
 				 <head></head>
 				 <row role="label">
@@ -189,8 +189,8 @@
 				 
                <row role="data">
                   <cell>1</cell>
-                  <cell><l>Gustaf Alrik Olsson</l><l>Enåkersby</l><l>XX A.G. Olsson</l></cell>
-                  <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>
+                  <cell><lb/>Gustaf Alrik Olsson<lb/>Enåkersby<lb/>XX A.G. Olsson</cell>
+                  <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
                   <cell></cell>
                   <cell></cell>
                   <cell></cell>
@@ -208,8 +208,8 @@
 				 
 				 <row role="data">
 				  <cell>2</cell>
-				  <cell><l>Otto Berlund</l><l>Ingbo</l><l>Arb. J. O. Berglund</l></cell>
-				  <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+				  <cell><lb/>Otto Berlund<lb/>Ingbo<lb/>Arb. J. O. Berglund</cell>
+				  <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -228,8 +228,8 @@
 				 
 				 <row role="data">
 				  <cell>3</cell>
-				  <cell><l>Karl Rick. Hedlund</l><l>Uddnäs</l><l>Statk. P.O. Hedlund</l></cell>
-				  <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>
+				  <cell><lb/>Karl Rick. Hedlund<lb/>Uddnäs<lb/>Statk. P.O. Hedlund</cell>
+				  <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -248,8 +248,8 @@
 				
 				 <row role="data">
 				  <cell>4</cell>
-				  <cell><l>Bror Er. Pil</l><l>Österbo</l></cell>
-				  <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>
+				  <cell><lb/>Bror Er. Pil<lb/>Österbo</cell>
+				  <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -268,8 +268,8 @@
 				 
 				 <row role="data">
 				  <cell>5</cell>
-				  <cell><l>Karl Aug. Andersson</l><l>Ingbo</l><l>Fördelsm. And Ersson</l></cell>
-				  <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>
+				  <cell><lb/>Karl Aug. Andersson<lb/>Ingbo<lb/>Fördelsm. And Ersson</cell>
+				  <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -288,8 +288,8 @@
 				 
 				 <row role="data">
 				  <cell>6</cell>
-				  <cell><l>Alexius Arenander</l><l>Lindsbro</l><l>Fru Arenander</l></cell>
-				  <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+				  <cell><lb/>Alexius Arenander<lb/>Lindsbro<lb/>Fru Arenander</cell>
+				  <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -308,8 +308,8 @@
 				 
 				 <row role="data">
 				  <cell>7</cell>
-				  <cell><l>Per Axel Andersson</l><l>Kroksbo</l><l>Bn. Er. Andersson</l></cell>
-				  <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+				  <cell><lb/>Per Axel Andersson<lb/>Kroksbo<lb/>Bn. Er. Andersson</cell>
+				  <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -328,8 +328,8 @@
 				
 				 <row role="data">
 				  <cell>8</cell>
-				  <cell><l>Er. Anton Eriksson</l><l>Andersbo</l><l>Skrädd. And. Larsson</l></cell>
-				  <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>
+				  <cell><lb/>Er. Anton Eriksson<lb/>Andersbo<lb/>Skrädd. And. Larsson</cell>
+				  <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -345,14 +345,14 @@
 				  <cell></cell>
 				 </row>
 				</table>
-			   <l>Eftertryck förbjudes 
+			   <lb/>Eftertryck förbjudes 
 			      N:r 522 1/2.  Hasse W. Tullberg, Stockholm. — N. A. 
-			      N:r 522.  Hasse W. Tullberg, Stockholm. — N. A.</l>
+			      N:r 522.  Hasse W. Tullberg, Stockholm. — N. A.
 				</p>
          </div>
          <div type="page" facs="#s19002">
             <p>
-               <l>År 19__.</l>
+               <lb/>År 19__.
                <table rows="11" cols="16">
                   <head></head>
                   <row role="label">
@@ -401,8 +401,8 @@
                   
                   <row role="data">
                      <cell>9</cell>
-                     <cell><l>Elof Lindevall</l><l>Kroksbo</l><l>Torp. P.E. Lindevall</l></cell>
-                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>
+                     <cell><lb/>Elof Lindevall<lb/>Kroksbo<lb/>Torp. P.E. Lindevall</cell>
+                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -421,8 +421,8 @@
                   
                   <row role="data">
                      <cell>10</cell>
-                     <cell><l>Frans Gunnar Andersson</l><l>Aspnäs</l><l>Förm. L.O. Andersson</l></cell>
-                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>
+                     <cell><lb/>Frans Gunnar Andersson<lb/>Aspnäs<lb/>Förm. L.O. Andersson</cell>
+                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -441,8 +441,8 @@
                   
                   <row role="data">
                      <cell>11</cell>
-                     <cell><l>Axel Enlund</l><l>Persbo</l><l>Lägenhetstäg. J. O. Enlund</l></cell>
-                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>
+                     <cell><lb/>Axel Enlund<lb/>Persbo<lb/>Lägenhetstäg. J. O. Enlund</cell>
+                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -461,8 +461,8 @@
                   
                   <row role="data">
                      <cell>12</cell>
-                     <cell><l>Ernst Kanr. Eriksson</l><l>Enåkersby</l><l>Skom. Gust. Eriksson</l></cell>
-                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>
+                     <cell><lb/>Ernst Kanr. Eriksson<lb/>Enåkersby<lb/>Skom. Gust. Eriksson</cell>
+                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -482,28 +482,7 @@
                   <row role="data">
                      <cell></cell>
                      <cell></cell>
-                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                     <cell></cell>
-                  </row>
-                  
-                  
-                  <row role="data">
-                     <cell></cell>
-                     <cell></cell>
-                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>
+                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -524,7 +503,7 @@
                   <row role="data">
                      <cell></cell>
                      <cell></cell>
-                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>
+                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -545,7 +524,28 @@
                   <row role="data">
                      <cell></cell>
                      <cell></cell>
-                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>
+                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                     <cell></cell>
+                  </row>
+                  
+                  
+                  <row role="data">
+                     <cell></cell>
+                     <cell></cell>
+                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -566,7 +566,7 @@
          </div>
          <div type="page" facs="#s19011">
 		 <p>
-		    <l>År 1901.</l>
+		    <lb/>År 1901.
          <table rows="11" cols="16">
 				 <head></head>
 				 <row role="label">
@@ -615,12 +615,12 @@
 				 
 				 <row role="data">
 				  <cell>1</cell>
-				    <cell><l>Gustaf Alrik Olsson</l><l>Enåkersby</l><l>Gust. Olsson</l></cell>
-				    <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>
-				    <cell><l></l><l>9/2</l><l>16/3</l><l>30/3</l><l></l><l></l></cell>
-				    <cell><l>Bord</l><l>Strykmått</l><l>Köttklubba</l><l>Trädgårdsstol</l><l></l><l></l></cell>
-				    <cell><l>2/2</l><l>9/3</l><l>30/3</l><l>2/11</l><l></l><l></l></cell>
-				    <cell><l>b</l><l>b</l><l>b</l><l>b</l><l></l><l></l></cell>
+				    <cell><lb/>Gustaf Alrik Olsson<lb/>Enåkersby<lb/>Gust. Olsson</cell>
+				    <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
+				    <cell><lb/><lb/>9/2<lb/>16/3<lb/>30/3<lb/><lb/></cell>
+				    <cell><lb/>Bord<lb/>Strykmått<lb/>Köttklubba<lb/>Trädgårdsstol<lb/><lb/></cell>
+				    <cell><lb/>2/2<lb/>9/3<lb/>30/3<lb/>2/11<lb/><lb/></cell>
+				    <cell><lb/>b<lb/>b<lb/>b<lb/>b<lb/><lb/></cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -635,12 +635,12 @@
 				 
 				 <row role="data">
 				  <cell>2</cell>
-				    <cell><l>Er. Anton Eriksson</l><l>Andersbo</l><l>Skrädd. And. Larsson</l></cell>
-				    <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>
-				    <cell><l>19/1</l><l>16/2</l><l>2/3</l><l>6/4</l><l>25/5</l><l>14/9</l></cell>
-				    <cell><l>Pall</l><l>Brödspade</l><l>Hacklåda</l><l>Köttklubba</l><l>Kniflåda</l><l>Skurlåda</l></cell>
-				    <cell><l>9/2</l><l>23/2</l><l>30/3</l><l>18/5</l><l>15/6</l><l>26/10</l></cell>
-				    <cell><l>b</l><l>b</l><l>b</l><l>b</l><l>b</l><l>b</l></cell>
+				    <cell><lb/>Er. Anton Eriksson<lb/>Andersbo<lb/>Skrädd. And. Larsson</cell>
+				    <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
+				    <cell><lb/>19/1<lb/>16/2<lb/>2/3<lb/>6/4<lb/>25/5<lb/>14/9</cell>
+				    <cell><lb/>Pall<lb/>Brödspade<lb/>Hacklåda<lb/>Köttklubba<lb/>Kniflåda<lb/>Skurlåda</cell>
+				    <cell><lb/>9/2<lb/>23/2<lb/>30/3<lb/>18/5<lb/>15/6<lb/>26/10</cell>
+				    <cell><lb/>b<lb/>b<lb/>b<lb/>b<lb/>b<lb/>b</cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -655,16 +655,16 @@
 				
 				 <row role="data">
 				  <cell>3</cell>
-				    <cell><l>Bror Erik Pil</l><l>Österbo</l><l>Sold. L. E. Pil</l></cell>
-				    <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>
-				    <cell><l>19/1</l><l>9/2</l><l>13/4</l><l>25/5</l><l>8/6</l><l>14/9</l></cell>
-				    <cell><l>Skottkärra</l><l>Bord</l><l>Strykmått</l><l>Brödspade</l><l>Linjal</l><l>Trädgårdsstol</l></cell>
-				    <cell><l>2/2</l><l>30/3</l><l>25/5</l><l>8/6</l><l>15/6</l><l>2/11</l></cell>
-				    <cell><l>b</l><l>b</l><l>b</l><l>b</l><l>b</l><l>b</l></cell>
-				    <cell><l>2/11</l><l></l><l></l><l></l><l></l><l></l><l></l></cell>
-				    <cell><l>Baktråg</l><l></l><l></l><l></l><l></l><l></l><l></l></cell>
-				    <cell><l>30/11</l><l></l><l></l><l></l><l></l><l></l><l></l></cell>
-				    <cell><l>b</l><l></l><l></l><l></l><l></l><l></l><l></l></cell>
+				    <cell><lb/>Bror Erik Pil<lb/>Österbo<lb/>Sold. L. E. Pil</cell>
+				    <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
+				    <cell><lb/>19/1<lb/>9/2<lb/>13/4<lb/>25/5<lb/>8/6<lb/>14/9</cell>
+				    <cell><lb/>Skottkärra<lb/>Bord<lb/>Strykmått<lb/>Brödspade<lb/>Linjal<lb/>Trädgårdsstol</cell>
+				    <cell><lb/>2/2<lb/>30/3<lb/>25/5<lb/>8/6<lb/>15/6<lb/>2/11</cell>
+				    <cell><lb/>b<lb/>b<lb/>b<lb/>b<lb/>b<lb/>b</cell>
+				    <cell><lb/>2/11<lb/><lb/><lb/><lb/><lb/><lb/></cell>
+				    <cell><lb/>Baktråg<lb/><lb/><lb/><lb/><lb/><lb/></cell>
+				    <cell><lb/>30/11<lb/><lb/><lb/><lb/><lb/><lb/></cell>
+				    <cell><lb/>b<lb/><lb/><lb/><lb/><lb/><lb/></cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -675,12 +675,12 @@
 				 
 				 <row role="data">
 				  <cell>4</cell>
-				    <cell><l>Karl August Andersson</l><l>Ingbo</l><l>Fördelsm. And. Ersson</l></cell>
-				    <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>
-				    <cell><l>19/1</l><l>30/3</l><l>20/4</l><l>25/5</l><l>12/10</l>16/11<l></l></cell>
-				    <cell><l>Skottkärra</l><l>Köttklubba</l><l>Strykmått</l><l>Mjölkar</l><l>Skurlåda</l><l>Sågställning</l></cell>
-				    <cell><l>23/3</l><l>13/4</l><l>25/5</l><l>15/6</l><l>9/11</l><l>30/11</l></cell>
-				    <cell><l>b</l><l>b</l><l>b</l><l>b</l><l>b</l><l>b</l></cell>
+				    <cell><lb/>Karl August Andersson<lb/>Ingbo<lb/>Fördelsm. And. Ersson</cell>
+				    <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
+				    <cell><lb/>19/1<lb/>30/3<lb/>20/4<lb/>25/5<lb/>12/1016/11<lb/></cell>
+				    <cell><lb/>Skottkärra<lb/>Köttklubba<lb/>Strykmått<lb/>Mjölkar<lb/>Skurlåda<lb/>Sågställning</cell>
+				    <cell><lb/>23/3<lb/>13/4<lb/>25/5<lb/>15/6<lb/>9/11<lb/>30/11</cell>
+				    <cell><lb/>b<lb/>b<lb/>b<lb/>b<lb/>b<lb/>b</cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -695,12 +695,12 @@
 				 
 				 <row role="data">
 				  <cell>5</cell>
-				    <cell><l>Alexius Arenander</l><l>Lindsbro</l><l>Änkefru Arenander</l></cell>
-				    <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>
-				    <cell><l>19/1</l><l>16/2</l><l>20/4</l><l>25/5</l><l>1/6</l><l>16/11</l></cell>
-				    <cell><l>Hacklåda</l><l>Werktygsklubba</l><l>Köttklubba</l><l>Brödpigg</l><l>Skottkärra</l><l>Sågställning</l></cell>
-				    <cell><l>9/2</l><l>13/4</l><l>25/5</l><l>1/6</l><l>9/11</l><l>30/11</l></cell>
-				    <cell><l>b</l><l>b</l><l>b</l><l>b</l><l>b</l><l>b</l></cell>
+				    <cell><lb/>Alexius Arenander<lb/>Lindsbro<lb/>Änkefru Arenander</cell>
+				    <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
+				    <cell><lb/>19/1<lb/>16/2<lb/>20/4<lb/>25/5<lb/>1/6<lb/>16/11</cell>
+				    <cell><lb/>Hacklåda<lb/>Werktygsklubba<lb/>Köttklubba<lb/>Brödpigg<lb/>Skottkärra<lb/>Sågställning</cell>
+				    <cell><lb/>9/2<lb/>13/4<lb/>25/5<lb/>1/6<lb/>9/11<lb/>30/11</cell>
+				    <cell><lb/>b<lb/>b<lb/>b<lb/>b<lb/>b<lb/>b</cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -715,16 +715,16 @@
 				 
 				 <row role="data">
 				  <cell>6</cell>
-				    <cell><l>Ernst Eriksson</l><l>Enåkersby</l><l>Skom. Gust. Eriksson</l></cell>
-				    <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>
-				    <cell><l>26/1</l><l>2/2</l><l>21/9</l><l>12/10</l><l>26/10</l><l>2/11</l></cell>
-				    <cell><l>Filskaft</l><l>Werktygsklubba</l><l>Mjölskopa</l><l>Hörnhylla</l><l>Spade</l><l>Fotskrapa</l></cell>
-				    <cell><l>26/1</l><l>14/9</l><l>12/10</l><l>26/10</l><l>2/11</l><l>16/11</l></cell>
-				    <cell><l>b</l><l>b</l><l>b</l><l>b</l><l>b</l><l>b</l></cell>
-				    <cell><l>23/11</l><l></l><l></l><l></l><l></l><l></l><l></l></cell>
-				    <cell><l>Brödpigg</l><l></l><l></l><l></l><l></l><l></l><l></l></cell>
-				    <cell><l>30/11</l><l></l><l></l><l></l><l></l><l></l><l></l></cell>
-				    <cell><l>b</l><l></l><l></l><l></l><l></l><l></l><l></l></cell>
+				    <cell><lb/>Ernst Eriksson<lb/>Enåkersby<lb/>Skom. Gust. Eriksson</cell>
+				    <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
+				    <cell><lb/>26/1<lb/>2/2<lb/>21/9<lb/>12/10<lb/>26/10<lb/>2/11</cell>
+				    <cell><lb/>Filskaft<lb/>Werktygsklubba<lb/>Mjölskopa<lb/>Hörnhylla<lb/>Spade<lb/>Fotskrapa</cell>
+				    <cell><lb/>26/1<lb/>14/9<lb/>12/10<lb/>26/10<lb/>2/11<lb/>16/11</cell>
+				    <cell><lb/>b<lb/>b<lb/>b<lb/>b<lb/>b<lb/>b</cell>
+				    <cell><lb/>23/11<lb/><lb/><lb/><lb/><lb/><lb/></cell>
+				    <cell><lb/>Brödpigg<lb/><lb/><lb/><lb/><lb/><lb/></cell>
+				    <cell><lb/>30/11<lb/><lb/><lb/><lb/><lb/><lb/></cell>
+				    <cell><lb/>b<lb/><lb/><lb/><lb/><lb/><lb/></cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -735,16 +735,16 @@
 				
 				 <row role="data">
 				  <cell>7</cell>
-				    <cell><l>Gunnar Andersson</l><l>Aspnäs</l><l>Förm. L. O. Andersson</l></cell>
-				    <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>
-				    <cell><l>19/1</l><l>26/1</l><l>2/3</l><l>16/3</l><l>6/4</l><l>25/5</l><l></l></cell>
-				    <cell><l>Filskaft</l><l>Klappträ</l><l>Köttklubba</l><l>Brödspade</l><l>Hörnhylla</l><l>Kniflåda</l><l></l></cell>
-				    <cell><l>26/1</l><l>23/2</l><l>16/3</l><l>30/3</l><l>18/5</l><l>15/6</l><l></l></cell>
-				    <cell><l>b</l><l>b</l><l>b</l><l>b</l><l>b</l><l></l><l></l></cell>
-				    <cell><l>4/9</l><l></l><l></l><l></l><l></l><l></l><l></l></cell>
-				    <cell><l>Skurlåda</l><l></l><l></l><l></l><l></l><l></l><l></l></cell>
-				    <cell><l>30/11</l><l></l><l></l><l></l><l></l><l></l><l></l></cell>
-				    <cell><l>b</l><l></l><l></l><l></l><l></l><l></l><l></l></cell>
+				    <cell><lb/>Gunnar Andersson<lb/>Aspnäs<lb/>Förm. L. O. Andersson</cell>
+				    <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
+				    <cell><lb/>19/1<lb/>26/1<lb/>2/3<lb/>16/3<lb/>6/4<lb/>25/5<lb/></cell>
+				    <cell><lb/>Filskaft<lb/>Klappträ<lb/>Köttklubba<lb/>Brödspade<lb/>Hörnhylla<lb/>Kniflåda<lb/></cell>
+				    <cell><lb/>26/1<lb/>23/2<lb/>16/3<lb/>30/3<lb/>18/5<lb/>15/6<lb/></cell>
+				    <cell><lb/>b<lb/>b<lb/>b<lb/>b<lb/>b<lb/><lb/></cell>
+				    <cell><lb/>4/9<lb/><lb/><lb/><lb/><lb/><lb/></cell>
+				    <cell><lb/>Skurlåda<lb/><lb/><lb/><lb/><lb/><lb/></cell>
+				    <cell><lb/>30/11<lb/><lb/><lb/><lb/><lb/><lb/></cell>
+				    <cell><lb/>b<lb/><lb/><lb/><lb/><lb/><lb/></cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -755,16 +755,16 @@
 				
 				 <row role="data">
 				  <cell>8</cell>
-				  <cell><l>Axel Enlund</l><l>Persbo</l><l>Torpäg. J.O. Enlund</l></cell>
-				  <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell> 
-				  <cell><l>19/1</l><l>16/3</l><l>13/4</l><l>1/6</l><l>8/6</l><l></l></cell>
-				  <cell><l>Pall</l><l>Brödspade</l><l>Werktygsklubba</l><l>Filskaft</l><l>Köttklubba</l><l></l></cell>
-				  <cell><l>9/3</l><l>30/3</l><l>18/5</l><l>1/6</l><l>15/6</l><l></l></cell>
-				  <cell><l>b</l><l>b</l><l>b</l><l>b</l><l>b</l><l></l></cell>
-				  <cell><l>4/9</l><l>26/10</l><l>23/11</l><l></l><l></l><l></l></cell>
-				  <cell><l>Skurlåda</l><l>Hacklåda</l><l>Brödpigg</l><l></l><l></l><l></l></cell>
-				  <cell><l>19/10</l><l>16/11</l><l>30/11</l><l></l><l></l><l></l></cell>
-				  <cell><l>b</l><l>b</l><l>b</l><l></l><l></l><l></l></cell>
+				  <cell><lb/>Axel Enlund<lb/>Persbo<lb/>Torpäg. J.O. Enlund</cell>
+				  <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell> 
+				  <cell><lb/>19/1<lb/>16/3<lb/>13/4<lb/>1/6<lb/>8/6<lb/></cell>
+				  <cell><lb/>Pall<lb/>Brödspade<lb/>Werktygsklubba<lb/>Filskaft<lb/>Köttklubba<lb/></cell>
+				  <cell><lb/>9/3<lb/>30/3<lb/>18/5<lb/>1/6<lb/>15/6<lb/></cell>
+				  <cell><lb/>b<lb/>b<lb/>b<lb/>b<lb/>b<lb/></cell>
+				  <cell><lb/>4/9<lb/>26/10<lb/>23/11<lb/><lb/><lb/></cell>
+				  <cell><lb/>Skurlåda<lb/>Hacklåda<lb/>Brödpigg<lb/><lb/><lb/></cell>
+				  <cell><lb/>19/10<lb/>16/11<lb/>30/11<lb/><lb/><lb/></cell>
+				  <cell><lb/>b<lb/>b<lb/>b<lb/><lb/><lb/></cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -776,7 +776,7 @@
       </div>
 	   <div type="page" facs="#s19012">
 	    <p>
-	       <l>År 1901.</l>
+	       <lb/>År 1901.
          <table rows="11" cols="16">
 				 <head></head>
 				 <row role="label">
@@ -825,16 +825,16 @@
 				 
 				 <row role="data">
 				  <cell>9</cell>
-				    <cell><l>Wiktor Söderberg</l><l>Främnäs</l><l>Torp. A. Söderberg</l></cell>
-				  <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell> 
-				    <cell><l>19/1</l><l>19/1</l><l>26/1</l><l>2/2</l><l>9/2</l><l>23/2</l></cell>
-				    <cell><l>Blomkrukspinne</l><l>Nyckeletikett</l><l>Klädstrecksklyka</l><l>Selpinne</l><l>Skärbräde</l><l>Strumpbräde</l></cell>
-				    <cell><l>19/1</l><l>26/1</l><l>26/1</l><l>9/2</l><l>16/2</l><l>2/3</l></cell>
-				    <cell><l>b</l><l>b</l><l>b</l><l>b</l><l>b</l><l>b</l></cell>
-				    <cell><l>2/3</l><l>9/3</l><l>16/3</l><l>23/3</l><l>30/3</l><l>30/3</l></cell>
-				    <cell><l>Rockhängare</l><l>Stämjärnsskaft</l><l>Hammarskaft</l><l>Smörspade</l><l>Pappersknif</l><l>Spjälpall</l></cell>
-				    <cell><l>9/3</l><l>16/3</l><l>16/3</l><l>23/3</l><l>30/3</l><l>13/4</l></cell>
-				    <cell><l>b</l><l>b</l><l>b</l><l>b</l><l>b</l><l>b</l></cell>
+				    <cell><lb/>Wiktor Söderberg<lb/>Främnäs<lb/>Torp. A. Söderberg</cell>
+				  <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell> 
+				    <cell><lb/>19/1<lb/>19/1<lb/>26/1<lb/>2/2<lb/>9/2<lb/>23/2</cell>
+				    <cell><lb/>Blomkrukspinne<lb/>Nyckeletikett<lb/>Klädstrecksklyka<lb/>Selpinne<lb/>Skärbräde<lb/>Strumpbräde</cell>
+				    <cell><lb/>19/1<lb/>26/1<lb/>26/1<lb/>9/2<lb/>16/2<lb/>2/3</cell>
+				    <cell><lb/>b<lb/>b<lb/>b<lb/>b<lb/>b<lb/>b</cell>
+				    <cell><lb/>2/3<lb/>9/3<lb/>16/3<lb/>23/3<lb/>30/3<lb/>30/3</cell>
+				    <cell><lb/>Rockhängare<lb/>Stämjärnsskaft<lb/>Hammarskaft<lb/>Smörspade<lb/>Pappersknif<lb/>Spjälpall</cell>
+				    <cell><lb/>9/3<lb/>16/3<lb/>16/3<lb/>23/3<lb/>30/3<lb/>13/4</cell>
+				    <cell><lb/>b<lb/>b<lb/>b<lb/>b<lb/>b<lb/>b</cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -845,16 +845,16 @@
 				 
 				 <row role="data">
 				  <cell>10</cell>
-				    <cell><l>Lorentz Arenander</l><l>Lindsbro</l><l>Änkefru Arenander</l></cell>
-				  <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>   
-				    <cell><l>19/1</l><l>26/1</l><l>2/2</l><l>16/2</l><l>2/3</l><l>16/3</l></cell>
-				    <cell><l>Blomkrukspinne</l><l>Nyckeletikett</l><l>Klädstrecksklyka</l><l>Selpinne</l><l>Rockhängare</l><l>Skärbräde</l></cell>
-				    <cell><l>19/1</l><l>26/1</l><l>9/2</l><l>2/3</l><l>16/3</l><l>16/3</l></cell>
-				    <cell><l>b</l><l>c</l><l>b</l><l>b</l><l>c</l><l>b</l></cell>
-				    <cell><l>13/4</l><l>20/4</l><l>18/5</l><l>15/6</l><l>4/9</l><l>21/9</l></cell>
-				    <cell><l>Strumpbräde</l><l>Stämjärnsskaft</l><l>Hammarskaft</l><l>Smörspade</l><l>Pappersknif</l><l>Spjälpall</l></cell>
-				    <cell><l>20/4</l><l>18/5</l><l>18/5</l><l>15/6</l><l>21/9</l><l>19/10</l></cell>
-				    <cell><l>c</l><l>b</l><l>b</l><l>b</l><l>b</l><l>b</l></cell>
+				    <cell><lb/>Lorentz Arenander<lb/>Lindsbro<lb/>Änkefru Arenander</cell>
+				  <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>   
+				    <cell><lb/>19/1<lb/>26/1<lb/>2/2<lb/>16/2<lb/>2/3<lb/>16/3</cell>
+				    <cell><lb/>Blomkrukspinne<lb/>Nyckeletikett<lb/>Klädstrecksklyka<lb/>Selpinne<lb/>Rockhängare<lb/>Skärbräde</cell>
+				    <cell><lb/>19/1<lb/>26/1<lb/>9/2<lb/>2/3<lb/>16/3<lb/>16/3</cell>
+				    <cell><lb/>b<lb/>c<lb/>b<lb/>b<lb/>c<lb/>b</cell>
+				    <cell><lb/>13/4<lb/>20/4<lb/>18/5<lb/>15/6<lb/>4/9<lb/>21/9</cell>
+				    <cell><lb/>Strumpbräde<lb/>Stämjärnsskaft<lb/>Hammarskaft<lb/>Smörspade<lb/>Pappersknif<lb/>Spjälpall</cell>
+				    <cell><lb/>20/4<lb/>18/5<lb/>18/5<lb/>15/6<lb/>21/9<lb/>19/10</cell>
+				    <cell><lb/>c<lb/>b<lb/>b<lb/>b<lb/>b<lb/>b</cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -865,16 +865,16 @@
 				
 				 <row role="data">
 				  <cell>11</cell>
-				    <cell><l>Ernst Olsson</l><l>Österbo</l><l>Torp. L. Olsson</l></cell>
-				  <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>   
-				    <cell><l>19/1</l><l>19/1</l><l>26/1</l><l>2/2</l><l>16/2</l><l>23/2</l></cell>
-				    <cell><l>Blomkrukspinne</l><l>Nyckeletikett</l><l>Klädstrecksklyka</l><l>Selpinne</l><l>Skärbräde</l><l>Strumpbräde</l></cell>
-				    <cell><l>19/1</l><l>26/1</l><l>2/2</l><l>16/2</l><l>23/2</l><l>9/3</l></cell>
-				    <cell><l>b</l><l>b</l><l>b</l><l>b</l><l>b</l><l>c</l></cell>
-				    <cell><l>9/3</l><l>16/3</l><l>23/3</l><l>30/3</l><l>6/4</l><l>4/9</l></cell>
-				    <cell><l>Rockhängare</l><l>Stämjärnsskaft</l><l>Hammarskaft</l><l>Smörspade</l><l>Pappersknif</l><l>Klädhängare</l></cell>
-				    <cell><l>16/3</l><l>23/3</l><l>30/3</l><l>6/4</l><l>20/4</l><l>12/10</l></cell>
-				    <cell><l>c</l><l></l><l>b</l><l>b</l><l>c</l><l>c</l></cell>
+				    <cell><lb/>Ernst Olsson<lb/>Österbo<lb/>Torp. L. Olsson</cell>
+				  <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>   
+				    <cell><lb/>19/1<lb/>19/1<lb/>26/1<lb/>2/2<lb/>16/2<lb/>23/2</cell>
+				    <cell><lb/>Blomkrukspinne<lb/>Nyckeletikett<lb/>Klädstrecksklyka<lb/>Selpinne<lb/>Skärbräde<lb/>Strumpbräde</cell>
+				    <cell><lb/>19/1<lb/>26/1<lb/>2/2<lb/>16/2<lb/>23/2<lb/>9/3</cell>
+				    <cell><lb/>b<lb/>b<lb/>b<lb/>b<lb/>b<lb/>c</cell>
+				    <cell><lb/>9/3<lb/>16/3<lb/>23/3<lb/>30/3<lb/>6/4<lb/>4/9</cell>
+				    <cell><lb/>Rockhängare<lb/>Stämjärnsskaft<lb/>Hammarskaft<lb/>Smörspade<lb/>Pappersknif<lb/>Klädhängare</cell>
+				    <cell><lb/>16/3<lb/>23/3<lb/>30/3<lb/>6/4<lb/>20/4<lb/>12/10</cell>
+				    <cell><lb/>c<lb/><lb/>b<lb/>b<lb/>c<lb/>c</cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -885,16 +885,16 @@
 				 
 				 <row role="data">
 				  <cell>12</cell>
-				    <cell><l>Frans Gust Eriksson</l><l>Enåkersby</l><l>Skom. Gust. Eriksson</l></cell>
-				  <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>
-				    <cell><l>26/1</l><l>26/1</l><l>2/2</l><l>9/2</l><l>16/2</l><l>23/2</l></cell>
-				    <cell><l>Blomkrukspinne</l><l>Nyckeletikett</l><l>Klädstrecksklyka</l><l>Selpinne</l><l>Skärbräde</l><l>Strumpbräde</l></cell>
-				    <cell><l>26/1</l><l>2/2</l><l>9/2</l><l>16/2</l><l>16/2</l><l>2/3</l></cell>
-				    <cell><l>b</l><l>b</l><l>b</l><l>b</l><l>b</l><l>b</l></cell>
-				    <cell><l>2/3</l><l>9/3</l><l>9/3</l><l>16/3</l><l>21/9</l><l>26/10</l></cell>
-				    <cell><l>Rockhängare</l><l>Stämjärnsskaft</l><l>Hammarskaft</l><l>Smörspade</l><l>Pappersknif</l><l>Klädhängare</l></cell>
-				    <cell><l>2/3</l><l>9/3</l><l>16/3</l><l>23/3</l><l>28/9</l><l>2/11</l></cell>
-				    <cell><l>b</l><l>b</l><l>b</l><l>b</l><l>b</l><l>b</l></cell>
+				    <cell><lb/>Frans Gust Eriksson<lb/>Enåkersby<lb/>Skom. Gust. Eriksson</cell>
+				  <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
+				    <cell><lb/>26/1<lb/>26/1<lb/>2/2<lb/>9/2<lb/>16/2<lb/>23/2</cell>
+				    <cell><lb/>Blomkrukspinne<lb/>Nyckeletikett<lb/>Klädstrecksklyka<lb/>Selpinne<lb/>Skärbräde<lb/>Strumpbräde</cell>
+				    <cell><lb/>26/1<lb/>2/2<lb/>9/2<lb/>16/2<lb/>16/2<lb/>2/3</cell>
+				    <cell><lb/>b<lb/>b<lb/>b<lb/>b<lb/>b<lb/>b</cell>
+				    <cell><lb/>2/3<lb/>9/3<lb/>9/3<lb/>16/3<lb/>21/9<lb/>26/10</cell>
+				    <cell><lb/>Rockhängare<lb/>Stämjärnsskaft<lb/>Hammarskaft<lb/>Smörspade<lb/>Pappersknif<lb/>Klädhängare</cell>
+				    <cell><lb/>2/3<lb/>9/3<lb/>16/3<lb/>23/3<lb/>28/9<lb/>2/11</cell>
+				    <cell><lb/>b<lb/>b<lb/>b<lb/>b<lb/>b<lb/>b</cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -905,16 +905,16 @@
 				 
 				 <row role="data">
 				  <cell>13</cell>
-				    <cell><l>Sigfrid Andersson</l><l>Aspnäs</l><l>Förm. L.O. Andersson</l></cell>
-				  <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
-				    <cell><l>19/1</l><l>26/1</l><l>2/2</l><l>23/2</l><l>9/3</l><l>16/3</l></cell>
-				    <cell><l>Blomkrukspinne</l><l>Nyckeletikett</l><l>Klädstrecksklyka</l><l>Selpinne</l><l>Skärbräde</l><l>Strumpbräde</l></cell>
-				    <cell><l>19/1</l><l>2/2</l><l>23/2</l><l>l9/3></l><l>16/3</l><l>30/3</l></cell>
-				    <cell><l>b</l><l>c</l><l>c</l><l>b</l><l>b</l><l>c</l></cell>
-				    <cell><l>30/3</l><l>6/4</l><l>18/5</l><l>1/6</l><l>4/9</l><l>21/9</l></cell>
-				    <cell><l>Rockhängare</l><l>Stämjärnsskaft</l><l>Hammarskaft</l><l>Smörspade</l><l>Pappersknif</l><l>Spjälpall</l></cell>
-				    <cell><l>6/4</l><l>20/4</l><l>1/6</l><l>15/6</l><l>21/9</l><l>19/10</l></cell>
-				    <cell><l>c</l><l>b</l><l>b</l><l>b</l><l>b</l><l>b</l></cell>
+				    <cell><lb/>Sigfrid Andersson<lb/>Aspnäs<lb/>Förm. L.O. Andersson</cell>
+				  <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
+				    <cell><lb/>19/1<lb/>26/1<lb/>2/2<lb/>23/2<lb/>9/3<lb/>16/3</cell>
+				    <cell><lb/>Blomkrukspinne<lb/>Nyckeletikett<lb/>Klädstrecksklyka<lb/>Selpinne<lb/>Skärbräde<lb/>Strumpbräde</cell>
+				    <cell><lb/>19/1<lb/>2/2<lb/>23/2<lb/>l9/3><lb/>16/3<lb/>30/3</cell>
+				    <cell><lb/>b<lb/>c<lb/>c<lb/>b<lb/>b<lb/>c</cell>
+				    <cell><lb/>30/3<lb/>6/4<lb/>18/5<lb/>1/6<lb/>4/9<lb/>21/9</cell>
+				    <cell><lb/>Rockhängare<lb/>Stämjärnsskaft<lb/>Hammarskaft<lb/>Smörspade<lb/>Pappersknif<lb/>Spjälpall</cell>
+				    <cell><lb/>6/4<lb/>20/4<lb/>1/6<lb/>15/6<lb/>21/9<lb/>19/10</cell>
+				    <cell><lb/>c<lb/>b<lb/>b<lb/>b<lb/>b<lb/>b</cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -925,16 +925,16 @@
 				 
 				 <row role="data">
 				  <cell>14</cell>
-				    <cell><l>Gunnar Hedlund</l><l>Enåkersby</l><l>Statdr. J.O. Hedlund</l></cell>
-				  <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>
-				    <cell><l>19/1</l><l>26/1</l><l>2/2</l><l>23/2</l><l>9/3</l><l>16/3</l><l>30/3</l></cell>
-				    <cell><l>Blomkrukspinne</l><l>Nyckeletikett</l><l>Klädstrecksklyka</l><l>Selpinne</l><l>Skärbräde</l><l>Strumpbräde</l><l>Rockhängare</l></cell>
-				    <cell><l>19/1</l><l>1/2</l><l>23/2</l><l>9/3</l><l>16/3</l><l>30/3</l><l>6/4</l></cell>
-				    <cell><l>b</l><l>b</l><l>c</l><l>b</l><l>b</l><l>c</l></cell>
-				    <cell><l>30/3</l><l>6/4</l><l>18/5</l><l>1/6</l><l>4/9</l><l>21/9</l></cell>
-				    <cell><l>Rockhängare</l><l>Stämjärnsskaft</l><l>Hammarskaft</l><l>Smörspade</l><l>Pappersknif</l><l>Spjälpall</l></cell>
-				    <cell><l>6/4</l><l>20/4</l><l>1/6</l><l>15/6</l><l>21/9</l><l>19/10</l></cell>
-				    <cell><l>c</l><l>b</l><l>b</l><l>b</l><l>c</l><l>c</l></cell>
+				    <cell><lb/>Gunnar Hedlund<lb/>Enåkersby<lb/>Statdr. J.O. Hedlund</cell>
+				  <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
+				    <cell><lb/>19/1<lb/>26/1<lb/>2/2<lb/>23/2<lb/>9/3<lb/>16/3<lb/>30/3</cell>
+				    <cell><lb/>Blomkrukspinne<lb/>Nyckeletikett<lb/>Klädstrecksklyka<lb/>Selpinne<lb/>Skärbräde<lb/>Strumpbräde<lb/>Rockhängare</cell>
+				    <cell><lb/>19/1<lb/>1/2<lb/>23/2<lb/>9/3<lb/>16/3<lb/>30/3<lb/>6/4</cell>
+				    <cell><lb/>b<lb/>b<lb/>c<lb/>b<lb/>b<lb/>c</cell>
+				    <cell><lb/>30/3<lb/>6/4<lb/>18/5<lb/>1/6<lb/>4/9<lb/>21/9</cell>
+				    <cell><lb/>Rockhängare<lb/>Stämjärnsskaft<lb/>Hammarskaft<lb/>Smörspade<lb/>Pappersknif<lb/>Spjälpall</cell>
+				    <cell><lb/>6/4<lb/>20/4<lb/>1/6<lb/>15/6<lb/>21/9<lb/>19/10</cell>
+				    <cell><lb/>c<lb/>b<lb/>b<lb/>b<lb/>c<lb/>c</cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -945,16 +945,16 @@
 				
 				 <row role="data">
 				  <cell>15</cell>
-				    <cell><l>Erik Sigfrid Larsson</l><l>Skrädderbo</l><l>Bn. L.E. Larsson</l></cell>
-				  <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>
-				    <cell><l>26/1</l><l>26/1</l><l>23/2</l><l>9/3</l><l>16/3</l><l>23/3</l></cell>
-				    <cell><l>Blomkrukspinne</l><l>Nyckeletikett</l><l>Klädstrecksklyka</l><l>Selpinne</l><l>Skärbräde</l><l>Strumpbräde</l></cell>
-				    <cell><l>26/1</l><l>2/2</l><l>9/3</l><l>16/3</l><l>16/3</l><l>31/3</l></cell>
-				  <cell><l>b</l><l>c</l><l>b</l><l>b</l><l>b</l><l>c</l></cell>
-				    <cell><l>6/4</l><l>13/4</l><l>18/5</l><l>1/6</l><l>4/9</l><l>21/9</l><l>21/9</l></cell>
-				    <cell><l>Rockhängare</l><l>Stämjärnsskaft</l><l>Hammarskaft</l><l>Smörspade</l><l>Pappersknif</l><l>Spjälpall</l></cell>
-				    <cell><l>13/4</l><l>20/4</l><l>1/6</l><l>15/6</l><l>21/9</l><l>19/10</l></cell>
-				    <cell><l>c</l><l>b</l><l>b</l><l>b</l><l>b</l><l>b</l></cell>
+				    <cell><lb/>Erik Sigfrid Larsson<lb/>Skrädderbo<lb/>Bn. L.E. Larsson</cell>
+				  <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
+				    <cell><lb/>26/1<lb/>26/1<lb/>23/2<lb/>9/3<lb/>16/3<lb/>23/3</cell>
+				    <cell><lb/>Blomkrukspinne<lb/>Nyckeletikett<lb/>Klädstrecksklyka<lb/>Selpinne<lb/>Skärbräde<lb/>Strumpbräde</cell>
+				    <cell><lb/>26/1<lb/>2/2<lb/>9/3<lb/>16/3<lb/>16/3<lb/>31/3</cell>
+				  <cell><lb/>b<lb/>c<lb/>b<lb/>b<lb/>b<lb/>c</cell>
+				    <cell><lb/>6/4<lb/>13/4<lb/>18/5<lb/>1/6<lb/>4/9<lb/>21/9<lb/>21/9</cell>
+				    <cell><lb/>Rockhängare<lb/>Stämjärnsskaft<lb/>Hammarskaft<lb/>Smörspade<lb/>Pappersknif<lb/>Spjälpall</cell>
+				    <cell><lb/>13/4<lb/>20/4<lb/>1/6<lb/>15/6<lb/>21/9<lb/>19/10</cell>
+				    <cell><lb/>c<lb/>b<lb/>b<lb/>b<lb/>b<lb/>b</cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -965,10 +965,11 @@
 				
 				 <row role="data">
 				  <cell>16</cell>
-				    <cell><l>Gunnar Ekström</l><l></l><l></l></cell>
-				  <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>    
-				    <cell><l>2/3</l><l>2/3</l><l>16/3</l><l>23/3</l><l>6/4</l><l>20/4</l></cell>
-				    <cell><l>Blomkrukspinne</l><l>Nyckeletikett</l><l>Klädstrecksklyka</l><l>Selpinne</l><l>Skärbräde</l><l>Strumpbräde</l></cell>
+				    <cell><lb/>Gunnar Ekström<lb/><lb/></cell>
+				  <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>    
+				    <cell><lb/>2/3<lb/>2/3<lb/>16/3<lb/>23/3<lb/>6/4<lb/>20/4</cell>
+				    <cell><lb/>Blomkrukspinne<lb/>Nyckeletikett<lb/>Klädstrecksklyka<lb/>Selpinne<lb/>Skärbräde<lb/>Strumpbräde</cell>
+				    <cell><lb/>2/3<lb/>9/3<lb/>23/3<lb/>30/3<lb/>20/4<lb/>25/5</cell>
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -978,15 +979,14 @@
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
-				  <cell></cell>
-				    <cell><l>Började den 2/3 Flyttade den 8/10</l></cell>
+				    <cell><lb/>Började den 2/3 Flyttade den 8/10</cell>
 				 </row>
 				</table>
 			</p>
       </div>
          <div type="page" facs="#s19013">
             <p>
-               <l>År 1901.</l>
+               <lb/>År 1901.
                <table rows="11" cols="16">
                   <head></head>
                   <row role="label">
@@ -1035,8 +1035,8 @@
                   
                   <row role="data">
                      <cell>9</cell>
-                     <cell><l>Wiktor Söderberg</l><l>Främnäs</l><l>Torp. A. Söderberg</l></cell>
-                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell> 
+                     <cell><lb/>Wiktor Söderberg<lb/>Främnäs<lb/>Torp. A. Söderberg</cell>
+                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell> 
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -1055,8 +1055,8 @@
                   
                   <row role="data">
                      <cell>10</cell>
-                     <cell><l>Lorentz Arenander</l><l>Lindsbro</l><l>Änkefru Arenander</l></cell>
-                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>   
+                     <cell><lb/>Lorentz Arenander<lb/>Lindsbro<lb/>Änkefru Arenander</cell>
+                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>   
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -1075,8 +1075,8 @@
                   
                   <row role="data">
                      <cell>11</cell>
-                     <cell><l>Ernst Olsson</l><l>Österbo</l><l>Torp. L. Olsson</l></cell>
-                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>   
+                     <cell><lb/>Ernst Olsson<lb/>Österbo<lb/>Torp. L. Olsson</cell>
+                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>   
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -1095,8 +1095,8 @@
                   
                   <row role="data">
                      <cell>12</cell>
-                     <cell><l>Frans Gust Eriksson</l><l>Enåkersby</l><l>Skom. Gust. Eriksson</l></cell>
-                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>
+                     <cell><lb/>Frans Gust Eriksson<lb/>Enåkersby<lb/>Skom. Gust. Eriksson</cell>
+                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -1115,8 +1115,8 @@
                   
                   <row role="data">
                      <cell>13</cell>
-                     <cell><l>Sigfrid Andersson</l><l>Aspnäs</l><l>Förm. L.O. Andersson</l></cell>
-                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+                     <cell><lb/>Sigfrid Andersson<lb/>Aspnäs<lb/>Förm. L.O. Andersson</cell>
+                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -1135,8 +1135,8 @@
                   
                   <row role="data">
                      <cell>14</cell>
-                     <cell><l>Gunnar Hedlund</l><l>Enåkersby</l><l>Statdr. J.O. Hedlund</l></cell>
-                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>
+                     <cell><lb/>Gunnar Hedlund<lb/>Enåkersby<lb/>Statdr. J.O. Hedlund</cell>
+                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -1155,8 +1155,8 @@
                   
                   <row role="data">
                      <cell>15</cell>
-                     <cell><l>Erik Sigfrid Larsson</l><l>Skrädderbo</l><l>Bn. L.E. Larsson</l></cell>
-                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>
+                     <cell><lb/>Erik Sigfrid Larsson<lb/>Skrädderbo<lb/>Bn. L.E. Larsson</cell>
+                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -1175,8 +1175,8 @@
                   
                   <row role="data">
                      <cell>16</cell>
-                     <cell><l>Gunnar Ekström</l><l></l><l></l></cell>
-                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>    
+                     <cell><lb/>Gunnar Ekström<lb/><lb/></cell>
+                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>    
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -1189,7 +1189,7 @@
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
-                     <cell><l>Började den 2/3 Flyttade den 8/10</l></cell>
+                     <cell><lb/>Började den 2/3 Flyttade den 8/10</cell>
                   </row>
                </table>
             </p>
@@ -1246,7 +1246,7 @@
 				 <row role="data">
 				  <cell></cell>
 				  <cell></cell>  
-				  <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+				  <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
 				  <cell></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -1266,7 +1266,7 @@
             <row role="data">
                <cell></cell>
                <cell></cell>  
-               <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+               <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                <cell></cell>
                <cell></cell>
                <cell></cell>
@@ -1286,7 +1286,7 @@
             <row role="data">
                <cell></cell>
                <cell></cell>  
-               <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+               <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                <cell></cell>
                <cell></cell>
                <cell></cell>
@@ -1306,7 +1306,7 @@
             <row role="data">
                <cell></cell>
                <cell></cell>  
-               <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+               <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                <cell></cell>
                <cell></cell>
                <cell></cell>
@@ -1326,7 +1326,7 @@
             <row role="data">
                <cell></cell>
                <cell></cell>  
-               <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+               <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                <cell></cell>
                <cell></cell>
                <cell></cell>
@@ -1346,27 +1346,7 @@
             <row role="data">
                <cell></cell>
                <cell></cell>  
-               <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
-               <cell></cell>
-               <cell></cell>
-               <cell></cell>
-               <cell></cell>
-               <cell></cell>
-               <cell></cell>
-               <cell></cell>
-               <cell></cell>
-               <cell></cell>
-               <cell></cell>
-               <cell></cell>
-               <cell></cell>
-               <cell></cell>
-            </row>
-				 
-				
-            <row role="data">
-               <cell></cell>
-               <cell></cell>  
-               <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+               <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                <cell></cell>
                <cell></cell>
                <cell></cell>
@@ -1386,7 +1366,27 @@
             <row role="data">
                <cell></cell>
                <cell></cell>  
-               <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+               <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+               <cell></cell>
+            </row>
+				 
+				
+            <row role="data">
+               <cell></cell>
+               <cell></cell>  
+               <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                <cell></cell>
                <cell></cell>
                <cell></cell>
@@ -1456,7 +1456,7 @@
                   <row role="data">
                      <cell></cell>
                      <cell></cell>  
-                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -1476,7 +1476,7 @@
                   <row role="data">
                      <cell></cell>
                      <cell></cell>  
-                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -1496,7 +1496,7 @@
                   <row role="data">
                      <cell></cell>
                      <cell></cell>  
-                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -1516,7 +1516,7 @@
                   <row role="data">
                      <cell></cell>
                      <cell></cell>  
-                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -1536,7 +1536,7 @@
                   <row role="data">
                      <cell></cell>
                      <cell></cell>  
-                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -1556,7 +1556,7 @@
                   <row role="data">
                      <cell></cell>
                      <cell></cell>  
-                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -1576,7 +1576,7 @@
                   <row role="data">
                      <cell></cell>
                      <cell></cell>  
-                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -1596,7 +1596,7 @@
                   <row role="data">
                      <cell></cell>
                      <cell></cell>  
-                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -1666,7 +1666,7 @@
                   <row role="data">
                      <cell></cell>
                      <cell></cell>  
-                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -1686,7 +1686,7 @@
                   <row role="data">
                      <cell></cell>
                      <cell></cell>  
-                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -1706,7 +1706,7 @@
                   <row role="data">
                      <cell></cell>
                      <cell></cell>  
-                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -1726,7 +1726,7 @@
                   <row role="data">
                      <cell></cell>
                      <cell></cell>  
-                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -1746,7 +1746,7 @@
                   <row role="data">
                      <cell></cell>
                      <cell></cell>  
-                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -1766,7 +1766,7 @@
                   <row role="data">
                      <cell></cell>
                      <cell></cell>  
-                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -1786,7 +1786,7 @@
                   <row role="data">
                      <cell></cell>
                      <cell></cell>  
-                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -1806,7 +1806,7 @@
                   <row role="data">
                      <cell></cell>
                      <cell></cell>  
-                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -1876,7 +1876,7 @@
                   <row role="data">
                      <cell></cell>
                      <cell></cell>  
-                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -1896,7 +1896,7 @@
                   <row role="data">
                      <cell></cell>
                      <cell></cell>  
-                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -1916,7 +1916,7 @@
                   <row role="data">
                      <cell></cell>
                      <cell></cell>  
-                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -1936,7 +1936,7 @@
                   <row role="data">
                      <cell></cell>
                      <cell></cell>  
-                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -1956,7 +1956,7 @@
                   <row role="data">
                      <cell></cell>
                      <cell></cell>  
-                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -1976,7 +1976,7 @@
                   <row role="data">
                      <cell></cell>
                      <cell></cell>  
-                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -1996,7 +1996,7 @@
                   <row role="data">
                      <cell></cell>
                      <cell></cell>  
-                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>
@@ -2016,7 +2016,7 @@
                   <row role="data">
                      <cell></cell>
                      <cell></cell>  
-                     <cell><l>M.</l><l>T.</l><l>O.</l><l>T.</l><l><del>F.</del>L.</l><l>L.</l></cell>  
+                     <cell><lb/>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell></cell>
                      <cell></cell>
                      <cell></cell>

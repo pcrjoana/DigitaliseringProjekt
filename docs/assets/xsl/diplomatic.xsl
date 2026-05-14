@@ -41,12 +41,12 @@
                     <!-- define a row layout with bootstrap's css classes (two columns with content, and an empty column in between) -->
                         <div class="row">
                             <div class="col-sm">
-                                <h3>Images</h3>
+                                <h3>Bilder</h3>
                             </div>
                             <div class="col-sm">
                             </div>
                             <div class="col-sm">
-                                <h3>Transcription</h3>
+                                <h3>Transkribering</h3>
                             </div>
                         </div>
                         <!-- set up an image-text pair for each page in your document, and start a new 'row' for each pair -->
@@ -87,9 +87,8 @@
                                 <!-- fill the second column with our transcription -->
                                 <div class='col-sm'>
                                     <article class="transcription">
-                                        <table>
+                                       
                                             <xsl:apply-templates/>   
-                                        </table>    
                                     </article>
                                 </div>
                             </div>
@@ -121,7 +120,7 @@
     We don't want to show the metadata. So we write a template for the teiHeader that
     stops the text nodes underneath (=nested in) teiHeader from being printed into our
     html-->
-    <xsl:template match="tei:teiHeader"/>
+   <!-- <xsl:template match="tei:teiHeader"/> -->
 
     <!-- turn tei linebreaks (lb) into html linebreaks (br) -->
     <xsl:template match="tei:lb">
@@ -132,16 +131,28 @@
     apply to the nodes nested within it.-->
 
     <!-- we turn the tei head element (headline) into an html h1 element-->
-    <xsl:template match="tei:head">
+     <xsl:template match="tei:head">
         <h2>
             <xsl:apply-templates/>
         </h2>
     </xsl:template>
-    
+
     <xsl:template match="tei:table">
-        <u>
+        <table>
             <xsl:apply-templates/>
-        </u>
+        </table>
+    </xsl:template>
+    
+    <xsl:template match="tei:row">
+        <tr>
+            <xsl:apply-templates/>
+        </tr>
+    </xsl:template>
+    
+    <xsl:template match="tei:cell">
+        <td>
+            <xsl:apply-templates/>
+        </td>
     </xsl:template>
     <!-- transform tei paragraphs into html paragraphs -->
     <xsl:template match="tei:p">
