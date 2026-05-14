@@ -49,7 +49,11 @@ h3 {
 }
 
 
-
+table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+}
 
 th, td {
   border-bottom: 1px solid #ddd;
