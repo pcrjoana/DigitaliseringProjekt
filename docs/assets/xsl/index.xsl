@@ -97,7 +97,7 @@
                   			</a>
                   		</div>
                   		<div class="copyright_text">
-                         2026 Alex Bergwhall; Joana P.C. Ribeiro
+                  		    2026 Alex Berghwall; Joana P.C. Ribeiro
                       </div>
                     </div>
                 </div>
