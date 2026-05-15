@@ -26,6 +26,9 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
+         <langUsage>
+            <language ident="se">Svenska</language>
+         </langUsage>
          <handNotes>
             <handNote xml:id="ESS" medium="black-ink">Originaltext i bläck.</handNote>
          </handNotes>
@@ -143,6 +146,36 @@
    </facsimile>
    <text>
       <body>
+         <div type="page" facs="#sidan1">
+         <p>
+            Dagbok<lb/>
+            för<lb/>
+            slöjdan vid kyrkan<lb/>
+            i Enåkers skoldistrikt<lb/>
+            1900-1908.<lb/>
+            Denna dagbok är afsedd att tillika utgöra arbetsjournal och kan användas vid skolor för så väl manlig som kvinnlig slöjd.<lb/>
+            I de breda kolumnerna under rubriken "arbertsårets månader" inskrifes månadens namn eller ock 
+            tiden omfattande en arbetsmånad t.ex. <hi>15/4</hi>---<hi>14/5</hi>. Hvarje månad innehåller 5 kolumner, hvardera beräknad för en 
+            vecka, enär månaden kan gå i på 5:te veckan. Vid anteckningarna kunna begagnas följande förkortningar:
+            n = närvarande, s = sjuk, l =frånvaro med lof eller annat godkänt förfall, f = frånvaro utan lof 
+            eller godkänt förfall; --- eller kanske mera bekvämt för anteckningen:
+              + = närvarande, <metamark></metamark> = sjuk, x= frånvaro med lof eller annat godkönt förfal, --- = frånvaro utan
+            lof eller godkät förfall, o = en dat, då hela skolar hvilar. <lb/>
+            I de därför afsedda kolumnerna antecknas så väl de arbeten, hvarmed för hvarje färdiggjordt arbete.<lb/>
+            Äro lärjungarne fördelade i flera slöjdafdelningar, användes alltefter behof tvp eller flera uppslar för
+            hvarje afdelning, och afdelningens ordningsnummer inskrifves till väster å uppslaget ofvan öfversta rubriklinien.<lb/>
+            
+            Formuläret upprättadt af <lb/>
+            Folkskoleinspektören, Kontraktsprosten, R. Fjetterström.<lb/>
+            
+            Efertryck förbjudes. <lb/>
+            
+            Stockolm. <lb/>
+            Hasse W. Tullbergs Blankettflörlag.
+         
+         </p>
+         </div>
+
          <div type="page" facs="#s19001">
 
 			<p>

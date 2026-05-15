@@ -34,6 +34,7 @@
                     <a href="transkribering.html">Transkribering</a> |
                     <a href="reading.html">Dagbok</a> |
                     <a href="galleri.html">Galleri</a> |
+                    <a href="resurser.html">Elektroniska resurser</a> |
                 </nav>
                 <main id="manuscript">
                     <!-- bootstrap "container" class makes the columns look pretty -->
@@ -62,9 +63,12 @@
                             <div class="col-sm">
                                 <article id="description">
                                   <p>
-                                    <strong>Description:</strong> &#160;
+                                      <h5>Om projektet</h5> &#160;
+                                      <p>
                                     <xsl:apply-templates select="//tei:sourceDesc"/>
+                                      </p>    
                                   </p>
+
                                 </article>
                             </div>
                         </div>
@@ -72,11 +76,11 @@
                                 <div class="col-sm">
                                     <article id="details">
                                       <p>
-                                        <strong>Author:</strong><br/>
+                                        <strong>Projekt gjorde av:</strong><br/>
                                         <xsl:apply-templates select="//tei:titleStmt/tei:author"/>
                                       </p>
                                       <p>
-                                        <strong>Transcription by:</strong><br/>
+                                        <strong>Transkriberade av:</strong><br/>
                                         <xsl:apply-templates select="//tei:titleStmt/tei:principal"/>
                                       </p>
                                     </article>
