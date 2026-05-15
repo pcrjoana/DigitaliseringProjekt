@@ -12,7 +12,7 @@
                 <title>
                     <!-- add the title from the metadata. This is what will be shown
                     on your browsers tab-->
-                    DCHM Template: Reading Text
+                    Slöjdskolan i Enåkers sockens dagbok åren 1900-1902: Dagboken
                 </title>
                 <!-- load bootstrap css (requires internet!) so you can use their pre-defined css classes to style your html -->
                 <link rel="stylesheet"
@@ -30,23 +30,15 @@
                     </h1>
                 </header>
                 <nav id="sitenav">
-                    <a href="index.html">Home</a> |
-                    <a href="diplomatic.html">Diplomatic Transcription</a> |
-                    <a href="reading.html">Reading Text</a> |
-                    <a href="toplayer.html">Top Layer</a> |
+                    <a href="index.html">Hem</a> |
+                    <a href="transkribering.html">Transkribering</a> |
+                    <a href="reading.html">Dagbok</a> |
+                    <a href="galleri.html">Galleri</a> |
                 </nav>
                 <main id="manuscript">
                     <!-- bootstrap "container" class makes the columns look pretty -->
                     <div class="container">
-                        <!-- define a row layout with bootstrap's css classes (two columns with content, and an empty column in between) -->
-                        <div class="row">
-                            <div class="col-">
-                                <h3>Images</h3>
-                            </div>
-                            <div class="col-md">
-                                <h3>Transcription</h3>
-                            </div>
-                        </div>
+
                         <!-- set up an image-text pair for each page in your document, and start a new 'row' for each pair -->
                         <xsl:for-each select="//tei:div[@type='page']">
                             <!-- save the value of each page's @facs attribute in a variable, so we can use it later -->
@@ -71,7 +63,7 @@
                                                         we want to disregard the hashtag in the @facs attribute-->
                                             
                                             <xsl:attribute name="src">
-                                                <xsl:value-of select="//tei:surface[@xml:id=substring-after($facs, '#')]/tei:figure/tei:graphic[2]/@url"/>
+                                                <xsl:value-of select="//tei:surface[@xml:id=substring-after($facs, '#')]/tei:figure/tei:graphic/@url"/>
                                             </xsl:attribute>
                                             <xsl:attribute name="title">
                                                 <xsl:value-of select="//tei:surface[@xml:id=substring-after($facs, '#')]/tei:figure/tei:label"/>
@@ -101,7 +93,7 @@
                         </a>
                       </div>
                       <div>
-                         2022 Wout Dillen.
+                          2026 Alex Bergwhall; Joana P.C. Ribeiro
                       </div>
                     </div>
                 </div>
@@ -155,6 +147,24 @@
             <xsl:apply-templates/>
         </u>
     </xsl:template>
-
-
+    <xsl:template match="tei:table">
+        <table>
+            <xsl:apply-templates/>
+        </table>
+    </xsl:template>
+    
+    <xsl:template match="tei:row">
+        <tr>
+            <xsl:apply-templates/>
+        </tr>
+    </xsl:template>
+    
+    <xsl:template match="tei:cell">
+        <td>
+            <xsl:apply-templates/>
+        </td>
+    </xsl:template>
+    <xsl:template match="tei:lb">
+        <br/>
+    </xsl:template>
 </xsl:stylesheet>

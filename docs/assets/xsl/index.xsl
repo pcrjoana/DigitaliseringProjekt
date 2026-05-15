@@ -32,8 +32,8 @@
                 <nav id="sitenav">
                     <a href="index.html">Hem</a> |
                     <a href="transkribering.html">Transkribering</a> |
-                    <a href="reading.html">Reading Text</a> |
-                    <a href="toplayer.html">Top Layer</a> |
+                    <a href="reading.html">Dagbok</a> |
+                    <a href="galleri.html">Galleri</a> |
                 </nav>
                 <main id="manuscript">
                     <!-- bootstrap "container" class makes the columns look pretty -->
@@ -46,7 +46,7 @@
                                     <xsl:for-each select="//tei:surface">
                                         <img class="thumbnail">
                                          <xsl:attribute name="src">
-                                             <xsl:value-of select="tei:figure/tei:graphic[2]/@url"/>
+                                             <xsl:value-of select="tei:figure/tei:graphic/@url"/>
                                          </xsl:attribute>
                                          <xsl:attribute name="title">
                                              <xsl:value-of select="tei:figure/tei:label"/>

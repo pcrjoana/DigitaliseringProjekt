@@ -105,3 +105,21 @@ footer {
     border: 1px solid black;
     width: 500px;
 }
+.zoom-container {
+  width: 600px;
+  position: relative;
+  margin-bottom: 20px;
+  overflow: hidden; 
+  height: auto;
+  display: flex;
+  align-items: center; 
+  justify-content: center;
+  margin: 20px auto;
+}
+
+.zoom-container img {
+  width: 100%;
+  height: auto;
+  transition: transform 0.1s ease;
+  transform-origin: center center;
+}

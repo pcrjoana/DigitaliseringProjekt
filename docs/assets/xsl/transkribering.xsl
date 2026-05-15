@@ -32,8 +32,8 @@
                 <nav id="sitenav">
                     <a href="index.html">Hem</a> |
                     <a href="transkribering.html">Transkribering</a> |
-                    <a href="reading.html">Reading Text</a> |
-                    <a href="toplayer.html">Top Layer</a> |
+                    <a href="reading.html">Dagbok</a> |
+                    <a href="galleri.html">Galleri</a> |
                 </nav>
                 <main id="manuscript">
                     <!-- bootstrap "container" class makes the columns look pretty -->
