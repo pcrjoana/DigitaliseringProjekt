@@ -12,7 +12,7 @@
                 <title>
                     <!-- add the title from the metadata. This is what will be shown
                     on your browsers tab-->
-                    Slöjdskolan i Enåkers sockens dagbok åren 1900-1902: Hem
+                    Enåkers slöjdskolans dagbok åren 1900-1902: Hem
                 </title>
                 <!-- load bootstrap css (requires internet!) so you can use their pre-defined css classes to style your html -->
                 <link rel="stylesheet"
