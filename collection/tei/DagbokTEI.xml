@@ -173,7 +173,7 @@
             hvarje afdelning, och afdelningens ordningsnummer inskrifves till väster å uppslaget ofvan öfversta rubriklinien.<lb/>
             
             Formuläret upprättadt af <lb/>
-            Folkskoleinspektören, Kontraktsprosten, R. Fjetterström.<lb/>
+            Folkskoleinspektören, Kontraktsprosten, <name>R. Fjetterström</name>.<lb/>
             
             Efertryck förbjudes. <lb/>
             
@@ -247,7 +247,7 @@
 				 
                <row role="data">
                   <cell>1</cell>
-                  <cell>Gustaf Alrik Olsson<lb/>Enåkersby<lb/>XX A.G. Olsson</cell>
+                  <cell><name>Gustaf Alrik Olsson</name><lb/>Enåkersby<lb/><name>Bn. A.G. Olsson</name></cell>
                   <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
                   <cell></cell>
                   <cell></cell>
@@ -266,7 +266,7 @@
 				 
 				 <row role="data">
 				  <cell>2</cell>
-				  <cell>Otto Berlund<lb/>Ingbo<lb/>Arb. J. O. Berglund</cell>
+				    <cell><name>Otto Berlund</name><lb/>Ingbo<lb/><name>Arb. J. O. Berglund</name></cell>
 				  <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
 				  <cell></cell>
 				  <cell></cell>
@@ -286,7 +286,7 @@
 				 
 				 <row role="data">
 				  <cell>3</cell>
-				  <cell>Karl Rick. Hedlund<lb/>Uddnäs<lb/>Statk. P.O. Hedlund</cell>
+				    <cell><name>Karl Rick. Hedlund</name><lb/>Uddnäs<lb/><name>Statk. P.O. Hedlund</name></cell>
 				  <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -306,7 +306,7 @@
 				
 				 <row role="data">
 				  <cell>4</cell>
-				  <cell>Bror Er. Pil<lb/>Österbo</cell>
+				    <cell><name>Bror Er. Pil</name><lb/>Österbo</cell>
 				  <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -326,7 +326,7 @@
 				 
 				 <row role="data">
 				  <cell>5</cell>
-				  <cell>Karl Aug. Andersson<lb/>Ingbo<lb/>Fördelsm. And Ersson</cell>
+				  <cell><name>Karl Aug. Andersson</name><lb/>Ingbo<lb/><name>Fördelsm. And Ersson</name></cell>
 				  <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -346,7 +346,7 @@
 				 
 				 <row role="data">
 				  <cell>6</cell>
-				  <cell>Alexius Arenander<lb/>Lindsbro<lb/>Fru Arenander</cell>
+				  <cell><name>Alexius Arenander</name><lb/>Lindsbro<lb/><name>Fru Arenander</name></cell>
 				  <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
 				  <cell></cell>
 				  <cell></cell>
@@ -366,7 +366,7 @@
 				 
 				 <row role="data">
 				  <cell>7</cell>
-				  <cell>Per Axel Andersson<lb/>Kroksbo<lb/>Bn. Er. Andersson</cell>
+				  <cell><name>Per Axel Andersson</name><lb/>Kroksbo<lb/><name>Bn. Er. Andersson</name></cell>
 				  <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
 				  <cell></cell>
 				  <cell></cell>
@@ -386,7 +386,7 @@
 				
 				 <row role="data">
 				  <cell>8</cell>
-				  <cell>Er. Anton Eriksson<lb/>Andersbo<lb/>Skrädd. And. Larsson</cell>
+				  <cell><name>Er. Anton Eriksson</name><lb/>Andersbo<lb/><name>Skrädd. And. Larsson</name></cell>
 				  <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -490,7 +490,7 @@
                   
                   <row role="data">
                      <cell>10</cell>
-                     <cell>Frans Gunnar Andersson<lb/>Aspnäs<lb/>Förm. L.O. Andersson</cell>
+                     <cell><name>Frans Gunnar Andersson</name><lb/>Aspnäs<lb/>Förm. L.O. Andersson</cell>
                      <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
                      <cell></cell>
                      <cell></cell>
@@ -510,7 +510,7 @@
                   
                   <row role="data">
                      <cell>11</cell>
-                     <cell>Axel Enlund<lb/>Persbo<lb/>Lägenhetstäg. J. O. Enlund</cell>
+                     <cell><name>Axel Enlund</name><lb/>Persbo<lb/><name>Lägenhetstäg. J. O. Enlund</name></cell>
                      <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
                      <cell></cell>
                      <cell></cell>
@@ -530,7 +530,7 @@
                   
                   <row role="data">
                      <cell>12</cell>
-                     <cell>Ernst Kanr. Eriksson<lb/>Enåkersby<lb/>Skom. Gust. Eriksson</cell>
+                     <cell><name>Ernst Kanr. Eriksson</name><lb/>Enåkersby<lb/><name>Skom. Gust. Eriksson</name></cell>
                      <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
                      <cell></cell>
                      <cell></cell>
@@ -700,7 +700,7 @@
 				 
 				 <row role="data">
 				  <cell>1</cell>
-				    <cell>Gustaf Alrik Olsson<lb/>Enåkersby<lb/>Gust. Olsson</cell>
+				    <cell><name>Gustaf Alrik Olsson</name><lb/>Enåkersby<lb/>Gust. Olsson</cell>
 				    <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
 				    <cell><lb/>9/2<lb/>16/3<lb/>30/3<lb/><lb/></cell>
 				    <cell>Bord<lb/>Strykmått<lb/>Köttklubba<lb/>Trädgårdsstol<lb/><lb/></cell>
@@ -720,7 +720,7 @@
 				 
 				 <row role="data">
 				  <cell>2</cell>
-				    <cell>Er. Anton Eriksson<lb/>Andersbo<lb/>Skrädd. And. Larsson</cell>
+				    <cell><name>Er. Anton Eriksson</name><lb/>Andersbo<lb/><name>Skrädd. And. Larsson</name></cell>
 				    <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
 				    <cell>19/1<lb/>16/2<lb/>2/3<lb/>6/4<lb/>25/5<lb/>14/9</cell>
 				    <cell>Pall<lb/>Brödspade<lb/>Hacklåda<lb/>Köttklubba<lb/>Kniflåda<lb/>Skurlåda</cell>
@@ -740,7 +740,7 @@
 				
 				 <row role="data">
 				  <cell>3</cell>
-				    <cell>Bror Erik Pil<lb/>Österbo<lb/>Sold. L. E. Pil</cell>
+				    <cell><name>Bror Erik Pil</name><lb/>Österbo<lb/><name>Sold. L. E. Pil</name></cell>
 				    <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
 				    <cell>19/1<lb/>9/2<lb/>13/4<lb/>25/5<lb/>8/6<lb/>14/9</cell>
 				    <cell>Skottkärra<lb/>Bord<lb/>Strykmått<lb/>Brödspade<lb/>Linjal<lb/>Trädgårdsstol</cell>
@@ -760,7 +760,7 @@
 				 
 				 <row role="data">
 				  <cell>4</cell>
-				    <cell>Karl August Andersson<lb/>Ingbo<lb/>Fördelsm. And. Ersson</cell>
+				    <cell><name>Karl August Andersson</name><lb/>Ingbo<lb/><name>Fördelsm. And. Ersson</name></cell>
 				    <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
 				    <cell>19/1<lb/>30/3<lb/>20/4<lb/>25/5<lb/>12/1016/11<lb/></cell>
 				    <cell>Skottkärra<lb/>Köttklubba<lb/>Strykmått<lb/>Mjölkar<lb/>Skurlåda<lb/>Sågställning</cell>
@@ -780,7 +780,7 @@
 				 
 				 <row role="data">
 				  <cell>5</cell>
-				    <cell>Alexius Arenander<lb/>Lindsbro<lb/>Änkefru Arenander</cell>
+				    <cell><name>Alexius Arenander</name><lb/>Lindsbro<lb/>Änke<name>Fru Arenander</name></cell>
 				    <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
 				    <cell>19/1<lb/>16/2<lb/>20/4<lb/>25/5<lb/>1/6<lb/>16/11</cell>
 				    <cell>Hacklåda<lb/>Werktygsklubba<lb/>Köttklubba<lb/>Brödpigg<lb/>Skottkärra<lb/>Sågställning</cell>
@@ -800,7 +800,7 @@
 				 
 				 <row role="data">
 				  <cell>6</cell>
-				    <cell>Ernst Eriksson<lb/>Enåkersby<lb/>Skom. Gust. Eriksson</cell>
+				    <cell><name>Ernst Eriksson</name><lb/>Enåkersby<lb/><name>Skom. Gust. Eriksson</name></cell>
 				    <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
 				    <cell>26/1<lb/>2/2<lb/>21/9<lb/>12/10<lb/>26/10<lb/>2/11</cell>
 				    <cell>Filskaft<lb/>Werktygsklubba<lb/>Mjölskopa<lb/>Hörnhylla<lb/>Spade<lb/>Fotskrapa</cell>
@@ -820,7 +820,7 @@
 				
 				 <row role="data">
 				  <cell>7</cell>
-				    <cell>Gunnar Andersson<lb/>Aspnäs<lb/>Förm. L. O. Andersson</cell>
+				    <cell><name>Gunnar Andersson</name><lb/>Aspnäs<lb/><name>Förm. L. O. Andersson</name></cell>
 				    <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
 				    <cell>19/1<lb/>26/1<lb/>2/3<lb/>16/3<lb/>6/4<lb/>25/5<lb/></cell>
 				    <cell>Filskaft<lb/>Klappträ<lb/>Köttklubba<lb/>Brödspade<lb/>Hörnhylla<lb/>Kniflåda<lb/></cell>
@@ -840,7 +840,7 @@
 				
 				 <row role="data">
 				  <cell>8</cell>
-				  <cell>Axel Enlund<lb/>Persbo<lb/>Torpäg. J.O. Enlund</cell>
+				  <cell><name>Axel Enlund</name><lb/>Persbo<lb/><name>Torpäg. J.O. Enlund</name></cell>
 				  <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell> 
 				  <cell>19/1<lb/>16/3<lb/>13/4<lb/>1/6<lb/>8/6<lb/></cell>
 				  <cell>Pall<lb/>Brödspade<lb/>Werktygsklubba<lb/>Filskaft<lb/>Köttklubba<lb/></cell>
@@ -922,7 +922,7 @@
 				 
 				 <row role="data">
 				  <cell>9</cell>
-				    <cell>Wiktor Söderberg<lb/>Främnäs<lb/>Torp. A. Söderberg</cell>
+				    <cell><name>Wiktor Söderberg</name><lb/>Främnäs<lb/><name>Torp. A. Söderberg</name></cell>
 				  <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell> 
 				    <cell>19/1<lb/>19/1<lb/>26/1<lb/>2/2<lb/>9/2<lb/>23/2</cell>
 				    <cell>Blomkrukspinne<lb/>Nyckeletikett<lb/>Klädstrecksklyka<lb/>Selpinne<lb/>Skärbräde<lb/>Strumpbräde</cell>
@@ -942,7 +942,7 @@
 				 
 				 <row role="data">
 				  <cell>10</cell>
-				    <cell>Lorentz Arenander<lb/>Lindsbro<lb/>Änkefru Arenander</cell>
+				    <cell><name>Lorentz Arenander</name><lb/>Lindsbro<lb/>Änke<name>Fru Arenander</name></cell>
 				  <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>   
 				    <cell>19/1<lb/>26/1<lb/>2/2<lb/>16/2<lb/>2/3<lb/>16/3</cell>
 				    <cell>Blomkrukspinne<lb/>Nyckeletikett<lb/>Klädstrecksklyka<lb/>Selpinne<lb/>Rockhängare<lb/>Skärbräde</cell>
@@ -962,7 +962,7 @@
 				
 				 <row role="data">
 				  <cell>11</cell>
-				    <cell>Ernst Olsson<lb/>Österbo<lb/>Torp. L. Olsson</cell>
+				    <cell><name>Ernst Olsson</name><lb/>Österbo<lb/><name>Torp. L. Olsson</name></cell>
 				  <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>   
 				    <cell>19/1<lb/>19/1<lb/>26/1<lb/>2/2<lb/>16/2<lb/>23/2</cell>
 				    <cell>Blomkrukspinne<lb/>Nyckeletikett<lb/>Klädstrecksklyka<lb/>Selpinne<lb/>Skärbräde<lb/>Strumpbräde</cell>
@@ -982,7 +982,7 @@
 				 
 				 <row role="data">
 				  <cell>12</cell>
-				    <cell>Frans Gust Eriksson<lb/>Enåkersby<lb/>Skom. Gust. Eriksson</cell>
+				    <cell><name>Frans Gust Eriksson</name><lb/>Enåkersby<lb/><name>Skom. Gust. Eriksson</name></cell>
 				  <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
 				    <cell>26/1<lb/>26/1<lb/>2/2<lb/>9/2<lb/>16/2<lb/>23/2</cell>
 				    <cell>Blomkrukspinne<lb/>Nyckeletikett<lb/>Klädstrecksklyka<lb/>Selpinne<lb/>Skärbräde<lb/>Strumpbräde</cell>
@@ -1002,7 +1002,7 @@
 				 
 				 <row role="data">
 				  <cell>13</cell>
-				    <cell>Sigfrid Andersson<lb/>Aspnäs<lb/>Förm. L.O. Andersson</cell>
+				    <cell><name>Sigfrid Andersson</name><lb/>Aspnäs<lb/><name>Förm. L.O. Andersson</name></cell>
 				  <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
 				    <cell>19/1<lb/>26/1<lb/>2/2<lb/>23/2<lb/>9/3<lb/>16/3</cell>
 				    <cell>Blomkrukspinne<lb/>Nyckeletikett<lb/>Klädstrecksklyka<lb/>Selpinne<lb/>Skärbräde<lb/>Strumpbräde</cell>
@@ -1022,7 +1022,7 @@
 				 
 				 <row role="data">
 				  <cell>14</cell>
-				    <cell>Gunnar Hedlund<lb/>Enåkersby<lb/>Statdr. J.O. Hedlund</cell>
+				    <cell><name>Gunnar Hedlund</name><lb/>Enåkersby<lb/><name>Statdr. J.O. Hedlund</name></cell>
 				  <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
 				    <cell>19/1<lb/>26/1<lb/>2/2<lb/>23/2<lb/>9/3<lb/>16/3<lb/>30/3</cell>
 				    <cell>Blomkrukspinne<lb/>Nyckeletikett<lb/>Klädstrecksklyka<lb/>Selpinne<lb/>Skärbräde<lb/>Strumpbräde<lb/>Rockhängare</cell>
@@ -1042,7 +1042,7 @@
 				
 				 <row role="data">
 				  <cell>15</cell>
-				    <cell>Erik Sigfrid Larsson<lb/>Skrädderbo<lb/>Bn. L.E. Larsson</cell>
+				    <cell><name>Erik Sigfrid Larsson</name><lb/>Skrädderbo<lb/><name>Bn. L.E. Larsson</name></cell>
 				  <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
 				    <cell>26/1<lb/>26/1<lb/>23/2<lb/>9/3<lb/>16/3<lb/>23/3</cell>
 				    <cell>Blomkrukspinne<lb/>Nyckeletikett<lb/>Klädstrecksklyka<lb/>Selpinne<lb/>Skärbräde<lb/>Strumpbräde</cell>
@@ -1062,7 +1062,7 @@
 				
 				 <row role="data">
 				  <cell>16</cell>
-				    <cell>Gunnar Ekström<lb/><lb/></cell>
+				    <cell><name>Gunnar Ekström</name><lb/><lb/></cell>
 				  <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>    
 				    <cell>2/3<lb/>2/3<lb/>16/3<lb/>23/3<lb/>6/4<lb/>20/4</cell>
 				    <cell>Blomkrukspinne<lb/>Nyckeletikett<lb/>Klädstrecksklyka<lb/>Selpinne<lb/>Skärbräde<lb/>Strumpbräde</cell>
@@ -1146,7 +1146,7 @@
                   
                   <row role="data">
                      <cell>9</cell>
-                     <cell>Wiktor Söderberg<lb/>Främnäs<lb/>Torp. A. Söderberg</cell>
+                     <cell><name>Wiktor Söderberg</name><lb/>Främnäs<lb/><name>Torp. A. Söderberg</name></cell>
                      <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell> 
                      <cell>20/4<lb/>8/6<lb/>12/10<lb/>2/11<lb/>23/11</cell>
                      <cell>Klädhängare<lb/>Ägghylla<lb/>Kratta<lb/>Såptråg<lb/>Sked</cell>
@@ -1166,7 +1166,7 @@
                   
                   <row role="data">
                      <cell>10</cell>
-                     <cell>Lorentz Arenander<lb/>Lindsbro<lb/>Änkefru Arenander</cell>
+                     <cell><name>Lorentz Arenander</name><lb/>Lindsbro<lb/>Änke<name>Fru Arenander</name></cell>
                      <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>   
                      <cell>26/10<lb/>9/11</cell>
                      <cell>Klädhängare<lb/>Ägghylla</cell>
@@ -1186,7 +1186,7 @@
                   
                   <row role="data">
                      <cell>11</cell>
-                     <cell>Ernst Olsson<lb/>Österbo<lb/>Torp. L. Olsson</cell>
+                     <cell><name>Ernst Olsson</name><lb/>Österbo<lb/><name>Torp. L. Olsson</name></cell>
                      <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>   
                      <cell>4/9<lb/>19/10<lb/>23/11</cell>
                      <cell>Klädhängare<lb/>Flughåfskaft<lb/>Kratta</cell>
@@ -1206,7 +1206,7 @@
                   
                   <row role="data">
                      <cell>12</cell>
-                     <cell>Frans Gust Eriksson<lb/>Enåkersby<lb/>Skom. Gust. Eriksson</cell>
+                     <cell><name>Frans Gust Eriksson</name><lb/>Enåkersby<lb/><name>Skom. Gust. Eriksson</name></cell>
                      <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
                      <cell>26/10<lb/>2/11<lb/>23/11</cell>
                      <cell>Klädhängare<lb/>Ägghylla<lb/>Kratta</cell>
@@ -1226,7 +1226,7 @@
                   
                   <row role="data">
                      <cell>13</cell>
-                     <cell>Sigfrid Andersson<lb/>Aspnäs<lb/>Förm. L.O. Andersson</cell>
+                     <cell><name>Sigfrid Andersson</name><lb/>Aspnäs<lb/><name>Förm. L.O. Andersson</name></cell>
                      <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell>26/10<lb/>23/11</cell>
                      <cell>Klädhängare<lb/>Ägghylla</cell>
@@ -1246,7 +1246,7 @@
                   
                   <row role="data">
                      <cell>14</cell>
-                     <cell>Gunnar Hedlund<lb/>Enåkersby<lb/>Statdr. J.O. Hedlund</cell>
+                     <cell><name>Gunnar Hedlund</name><lb/>Enåkersby<lb/><name>Statdr. J.O. Hedlund</name></cell>
                      <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
                      <cell>26/10<lb/>23/11</cell>
                      <cell>Klädhängare<lb/>Kratta</cell>
@@ -1266,7 +1266,7 @@
                   
                   <row role="data">
                      <cell>15</cell>
-                     <cell>Erik Sigfrid Larsson<lb/>Skrädderbo<lb/>Bn. L.E. Larsson</cell>
+                     <cell><name>Erik Sigfrid Larsson</name><lb/>Skrädderbo<lb/><name>Bn. L.E. Larsson</name></cell>
                      <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
                      <cell>26/10</cell>
                      <cell>Klädhängare</cell>
@@ -1286,7 +1286,7 @@
                   
                   <row role="data">
                      <cell>16</cell>
-                     <cell>Gunnar Ekström<lb/><lb/></cell>
+                     <cell><name>Gunnar Ekström</name><lb/><lb/></cell>
                      <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>    
                      <cell></cell>
                      <cell></cell>
@@ -1369,7 +1369,7 @@
 				 
 				 <row role="data">
 				  <cell>1</cell>
-				    <cell>Alexius Arenander<lb/>Lindsbro<lb/>Fru. Arenander</cell>  
+				    <cell><name>Alexius Arenander</name><lb/>Lindsbro<lb/>Fru. Arenander</cell>  
 				  <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
 				    <cell>18/1<lb/>15/2<lb/>1/3</cell>
 				    <cell>Mjölkar<lb/>Smygvinkel<lb/>Bokhylla</cell>
@@ -1389,7 +1389,7 @@
 				 
             <row role="data">
                <cell>2</cell>
-               <cell>Karl Aug. Andersson<lb/>Ingbo<lb/>Fördelsm. And. Ersson</cell>  
+               <cell><name>Karl Aug. Andersson</name><lb/>Ingbo<lb/><name>Fördelsm. And. Ersson</name></cell>  
                <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                <cell>18/1<lb/>1/2<lb/>8/2<lb/>29/3<lb/>3/5<lb/>17/5</cell>
                <cell>Linjal<lb/>Smygvinkel<lb/>Bokhylla<lb/>Ägghylla svarfvad<lb/>Rätvinkel<lb/>Baktråg</cell>
@@ -1409,7 +1409,7 @@
 				
             <row role="data">
                <cell>3</cell>
-               <cell>Frans Gunnar Andersson<lb/>Aspnäs<lb/>Förm. L.O. Andersson</cell>  
+               <cell><name>Frans Gunnar Andersson</name><lb/>Aspnäs<lb/>Förm. L.O. Andersson</cell>  
                <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                <cell>18/1<lb/>12/4<lb/>10/5<lb/>13/9<lb/>4/10<lb/>18/10</cell>
                <cell>Skottkärra<lb/>Sågställning<lb/>Mjölkar<lb/>Köttklubba<lb/>Ritmått<lb/>Bokhylla</cell>
@@ -1429,7 +1429,7 @@
 				 
             <row role="data">
                <cell>4</cell>
-               <cell>Lorentz Gust. Arenander<lb/>Lindsbro<lb/>Fru Arenander</cell>  
+               <cell><name>Lorentz Gust. Arenander</name><lb/>Lindsbro<lb/><name>Fru Arenander</name></cell>  
                <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                <cell>1901 8/11<lb/>1/2<lb/>15/2<lb/>22/2<lb/>8/3<lb/>22/3</cell>
                <cell>Ägghylla<lb/>Kratta<lb/>Flughåfskaft<lb/>Sked<lb/>Såptråg<lb/>Stöfvelkneckt</cell>
@@ -1449,7 +1449,7 @@
 				 
             <row role="data">
                <cell>5</cell>
-               <cell>Sigfrid Andersson<lb/>Aspnäs<lb/>Förm. L.O. Andersson</cell>  
+               <cell><name>Sigfrid Andersson</name><lb/>Aspnäs<lb/><name>Förm. L.O. Andersson</name></cell>  
                <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                <cell>1901 25/11<lb/>1902 15/3<lb/>5/4<lb/>12/4<lb/>10/5<lb/>14/6</cell>
                <cell>Ägghylla<lb/>Kratta<lb/>Flughåfskaft<lb/>Sked<lb/>Stöfvelkneckt<lb/>Såptråg</cell>
@@ -1469,7 +1469,7 @@
 				 
             <row role="data">
                <cell>6</cell>
-               <cell>Wiktor Söderberg<lb/>Framnäs<lb/>Torp. A. Söderberg</cell>  
+               <cell><name>Wiktor Söderberg</name><lb/>Framnäs<lb/><name>Torp. A. Söderberg</name></cell>  
                <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                <cell>18/1<lb/>25/1<lb/>22/2<lb/>19/3<lb/>12/4<lb/>19/4</cell>
                <cell>Sked<lb/>Stöfvelkneckt<lb/>Werktygsklubba<lb/>Mjölskopa<lb/>Skofvel<lb/>Hörnhylla</cell>
@@ -1489,7 +1489,7 @@
 				
             <row role="data">
                <cell>7</cell>
-               <cell>Gunnar Hedlund<lb/>Mossboda<lb/>Arb Hedlund</cell>  
+               <cell><name>Gunnar Hedlund</name><lb/>Mossboda<lb/><name>Arb Hedlund</name></cell>  
                <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                <cell>18/1<lb/>1/3<lb/>19/4<lb/>10/5<lb/>27/5<lb/>11/10</cell>
                <cell>Kratta<lb/>Ägghylla<lb/>Flughåfskaft<lb/>Fågelholk<lb/>Stöfvelkneckt<lb/>Köttklubba</cell>
@@ -1509,7 +1509,7 @@
 				
             <row role="data">
                <cell>8</cell>
-               <cell>Ernst Olsson<lb/>Svedden<lb/>Torp. L. Olsson</cell>  
+               <cell><name>Ernst Olsson</name><lb/>Svedden<lb/><name>Torp. L. Olsson</name></cell>  
                <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                <cell>18/1<lb/>8/3<lb/>5/4<lb/>19/4<lb/>24/5</cell>
                <cell>Kratta<lb/>Såptråg<lb/>Sked<lb/>Stöfvelkneckt<lb/>Köttklubba</cell>
@@ -1593,7 +1593,7 @@
                   
                   <row role="data">
                      <cell>1</cell>
-                     <cell>Alexius Arenander<lb/>Lindsbro<lb/>Fru. Arenander</cell>  
+                     <cell><name>Alexius Arenander</name><lb/>Lindsbro<lb/>Fru. Arenander</cell>  
                      <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell></cell>
                      <cell></cell>
@@ -1613,7 +1613,7 @@
                   
                   <row role="data">
                      <cell>2</cell>
-                     <cell>Karl Aug. Andersson<lb/>Ingbo<lb/>Fördelsm. And. Ersson</cell>  
+                     <cell><name>Karl Aug. Andersson</name><lb/>Ingbo<lb/><name>Fördelsm. And. Ersson</name></cell>  
                      <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell></cell>
                      <cell></cell>
@@ -1633,7 +1633,7 @@
                   
                   <row role="data">
                      <cell>3</cell>
-                     <cell>Frans Gunnar Andersson<lb/>Aspnäs<lb/>Förm. L.O. Andersson</cell>  
+                     <cell><name>Frans Gunnar Andersson</name><lb/>Aspnäs<lb/><name>Förm. L.O. Andersson</name></cell>  
                      <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell></cell>
                      <cell></cell>
@@ -1653,7 +1653,7 @@
                   
                   <row role="data">
                      <cell>4</cell>
-                     <cell>Lorentz Gust. Arenander<lb/>Lindsbro<lb/>Fru Arenander</cell>  
+                     <cell><name>Lorentz Gust. Arenander</name><lb/>Lindsbro<lb/><name>Fru Arenander</name></cell>  
                      <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell></cell>
                      <cell></cell>
@@ -1673,7 +1673,7 @@
                   
                   <row role="data">
                      <cell>5</cell>
-                     <cell>Sigfrid Andersson<lb/>Aspnäs<lb/>Förm. L.O. Andersson</cell>  
+                     <cell><name>Sigfrid Andersson</name><lb/>Aspnäs<lb/><name>Förm. L.O. Andersson</name></cell>  
                      <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell></cell>
                      <cell></cell>
@@ -1693,7 +1693,7 @@
                   
                   <row role="data">
                      <cell>6</cell>
-                     <cell>Wiktor Söderberg<lb/>Framnäs<lb/>Torp. A. Söderberg</cell>  
+                     <cell><name>Wiktor Söderberg</name><lb/>Framnäs<lb/><name>Torp. A. Söderberg</name></cell>  
                      <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell>22/11</cell>
                      <cell>Hacklåda</cell>
@@ -1713,7 +1713,7 @@
                   
                   <row role="data">
                      <cell>7</cell>
-                     <cell>Gunnar Hedlund<lb/>Mossboda<lb/>Arb Hedlund</cell>  
+                     <cell><name>Gunnar Hedlund</name><lb/>Mossboda<lb/><name>Arb Hedlund</name></cell>  
                      <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell></cell>
                      <cell></cell>
@@ -1733,7 +1733,7 @@
                   
                   <row role="data">
                      <cell>8</cell>
-                     <cell>Ernst Olsson<lb/>Svedden<lb/>Torp. L. Olsson</cell>  
+                     <cell><name>Ernst Olsson</name><lb/>Svedden<lb/><name>Torp. L. Olsson</name></cell>  
                      <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell></cell>
                      <cell></cell>
@@ -1816,7 +1816,7 @@
                   
                   <row role="data">
                      <cell>9</cell>
-                     <cell>Erik Alfr. Larsson<lb/>Klasbo<lb/>F. Bn. L. Er. Larsson</cell>  
+                     <cell><name>Erik Alfr. Larsson</name><lb/>Klasbo<lb/><name>F. Bn. L. Er. Larsson</name></cell>  
                      <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell>18/1<lb/>18/1<lb/>25/1<lb/>1/2<lb/>15/2<lb/>22/2</cell>
                      <cell>Blomkrukspinne<lb/>Nyckeletikett<lb/>Klädstrecksklyka<lb/>Selsticka<lb/>Skärbräde<lb/>Strumpbräde</cell>
@@ -1836,7 +1836,7 @@
                   
                   <row role="data">
                      <cell>10</cell>
-                     <cell>Gunnar Lönnholm<lb/>Gallbolund<lb/>Skom. And. Lönnholm</cell>  
+                     <cell><name>Gunnar Lönnholm</name><lb/>Gallbolund<lb/><name>Skom. And. Lönnholm</name></cell>  
                      <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell>18/1<lb/>18/1<lb/>25/1<lb/>8/2<lb/>22/2<lb/>15/3</cell>
                      <cell>Blomkrukspinne<lb/>Nyckeletikett<lb/>Klädstrecksklyka<lb/>Selsticka<lb/>Skärbräde<lb/>Strumpbräde</cell>
@@ -1856,7 +1856,7 @@
                   
                   <row role="data">
                      <cell>11</cell>
-                     <cell>Wiktor Olsson<lb/>Österbo<lb/>Skrädd. Gust. Olsson</cell>  
+                     <cell><name>Wiktor Olsson</name><lb/>Österbo<lb/><name>Skrädd. Gust. Olsson</name></cell>  
                      <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell>18/1<lb/>25/1<lb/>1/2<lb/>15/2<lb/>1/3<lb/>19/3</cell>
                      <cell>Blomkrukspinne<lb/>Nyckeletikett<lb/>Klädstrecksklyka<lb/>Selsticka<lb/>Skärbräde<lb/>Strumpbräde</cell>
@@ -1876,7 +1876,7 @@
                   
                   <row role="data">
                      <cell>12</cell>
-                     <cell>Karl Hedlund<lb/>Mossboda<lb/>Rätt. J. Hedlund</cell>  
+                     <cell><name>Karl Hedlund</name><lb/>Mossboda<lb/><name>Rätt. J. Hedlund</name></cell>  
                      <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell>18/1<lb/>18/1<lb/>25/1<lb/>8/2<lb/>1/3<lb/>15/3</cell>
                      <cell>Blomkrukspinne<lb/>Nyckeletikett<lb/>Klädstrecksklyka<lb/>Selsticka<lb/>Skärbräde<lb/>Strumpbräde</cell>
@@ -1896,7 +1896,7 @@
                   
                   <row role="data">
                      <cell>13</cell>
-                     <cell>Erik Sigfrid Larsson<lb/>Skräddarbo<lb/>L.E. Larsson</cell>  
+                     <cell><name>Erik Sigfrid Larsson</name><lb/>Skräddarbo<lb/><name>L.E. Larsson</name></cell>  
                      <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell>1/2<lb/>22/2<lb/>15/3<lb/>19/4<lb/>3/5<lb/>7/6</cell>
                      <cell>Kratta<lb/>Ägghylla<lb/>Sked<lb/>Stöfvelkneckt<lb/>Såptråg<lb/>Filskaft</cell>
@@ -1916,7 +1916,7 @@
                   
                   <row role="data">
                      <cell>14</cell>
-                     <cell>August Andersson<lb/>Lund<lb/>Arb. Gust. Andersson</cell>  
+                     <cell><name>August Andersson</name><lb/>Lund<lb/><name>Arb. Gust. Andersson</name></cell>  
                      <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell>29/3<lb/>29/3<lb/>5/4<lb/>12/4<lb/>26/4<lb/>10/5</cell>
                      <cell>Blomkrukspinne<lb/>Nyckeletikett<lb/>Klädstrecksklyka<lb/>Selsticka<lb/>Skärbräde<lb/>Strumpbräde</cell>
@@ -1936,7 +1936,7 @@
                   
                   <row role="data">
                      <cell>15</cell>
-                     <cell>Alfred Pettersson<lb/>Ingbo<lb/>Ladugårds arr. Pettersson</cell>  
+                     <cell><name>Alfred Pettersson</name><lb/>Ingbo<lb/><name>Ladugårds arr. Pettersson</name></cell>  
                      <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell>29/3<lb/>29/3<lb/>5/4<lb/>19/4<lb/>10/5<lb/>31/5</cell>
                      <cell>Blomkrukspinne<lb/>Nyckeletikett<lb/>Klädstrecksklyka<lb/>Selsticka<lb/>Skärbräde<lb/>Strumpbräde</cell>
@@ -1956,7 +1956,7 @@
                   
                   <row role="data">
                      <cell>16</cell>
-                     <cell>Gunnar Ekström<lb/>Ingbo<lb/>Brygg. A. Nordén</cell>  
+                     <cell><name>Gunnar Ekström</name><lb/>Ingbo<lb/><name>Brygg. A. Nordén</name></cell>  
                      <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell>10/5<lb/>31/5<lb/>22/9<lb/>4/10<lb/>8/11</cell>
                      <cell>Klädhängare<lb/>Kratta<lb/>Filskaft<lb/>Ägghylla<lb/>Sked</cell>
@@ -2040,7 +2040,7 @@
                   
                   <row role="data">
                      <cell>9</cell>
-                     <cell>Erik Alfr. Larsson<lb/>Klasbo<lb/>F. Bn. L. Er. Larsson</cell>  
+                     <cell><name>Erik Alfr. Larsson</name><lb/>Klasbo<lb/><name>F. Bn. L. Er. Larsson</name></cell>  
                      <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell>17/5<lb/>31/5<lb/>6/9<lb/>11/10<lb/>25/10<lb/>8/11</cell>
                      <cell>Klädhängare<lb/>Kratta<lb/>Ägghylla<lb/>Flughåfskaft<lb/>Sked<lb/>Stöfvelkneckt</cell>
@@ -2060,7 +2060,7 @@
                   
                   <row role="data">
                      <cell>10</cell>
-                     <cell>Gunnar Lönnholm<lb/>Gallbolund<lb/>Skom. And. Lönnholm</cell>  
+                     <cell><name>Gunnar Lönnholm</name><lb/>Gallbolund<lb/><name>Skom. And. Lönnholm</name></cell>  
                      <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell>22/9<lb/>25/10</cell>
                      <cell>Klädhängare<lb/>Ägghylla</cell>
@@ -2080,7 +2080,7 @@
                   
                   <row role="data">
                      <cell>11</cell>
-                     <cell>Wiktor Olsson<lb/>Österbo<lb/>Skrädd. Gust. Olsson</cell>  
+                     <cell><name>Wiktor Olsson</name><lb/>Österbo<lb/><name>Skrädd. Gust. Olsson</name></cell>  
                      <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell>22/11</cell>
                      <cell>Klädhängare</cell>
@@ -2100,7 +2100,7 @@
                   
                   <row role="data">
                      <cell>12</cell>
-                     <cell>Karl Hedlund<lb/>Mossboda<lb/>Rätt. J. Hedlund</cell>  
+                     <cell><name>Karl Hedlund</name><lb/>Mossboda<lb/><name>Rätt. J. Hedlund</name></cell>  
                      <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell>4/10<lb/>22/11</cell>
                      <cell>Spjälpall<lb/>Klädhängare</cell>
@@ -2120,7 +2120,7 @@
                   
                   <row role="data">
                      <cell>13</cell>
-                     <cell>Erik Sigfrid Larsson<lb/>Skräddarbo<lb/>L.E. Larsson</cell>  
+                     <cell><name>Erik Sigfrid Larsson</name><lb/>Skräddarbo<lb/><name>L.E. Larsson</name></cell>  
                      <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell></cell>
                      <cell></cell>
@@ -2140,7 +2140,7 @@
                   
                   <row role="data">
                      <cell>14</cell>
-                     <cell>August Andersson<lb/>Lund<lb/>Arb. Gust. Andersson</cell>  
+                     <cell><name>August Andersson</name><lb/>Lund<lb/><name>Arb. Gust. Andersson</name></cell>  
                      <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell></cell>
                      <cell></cell>
@@ -2160,7 +2160,7 @@
                   
                   <row role="data">
                      <cell>15</cell>
-                     <cell>Alfred Pettersson<lb/>Ingbo<lb/>Ladugårds arr. Pettersson</cell>  
+                     <cell><name>Alfred Pettersson</name><lb/>Ingbo<lb/><name>Ladugårds arr. Pettersson</name></cell>  
                      <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell></cell>
                      <cell></cell>
@@ -2180,7 +2180,7 @@
                   
                   <row role="data">
                      <cell>16</cell>
-                     <cell>Gunnar Ekström<lb/>Ingbo<lb/>Brygg. A. Nordén</cell>  
+                     <cell><name>Gunnar Ekström</name><lb/>Ingbo<lb/><name>Brygg. A. Nordén</name></cell>  
                      <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
                      <cell></cell>
                      <cell></cell>
