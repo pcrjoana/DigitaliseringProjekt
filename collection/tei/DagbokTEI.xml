@@ -146,6 +146,13 @@
    </facsimile>
    <text>
       <body>
+         <div type="page" facs="#framsidan">
+            <p>
+               Dagbok <lb/>
+               för <lb/>
+               Enåkers slöjdskola
+            </p>
+         </div>
          <div type="page" facs="#sidan1">
          <p>
             Dagbok<lb/>
@@ -2194,7 +2201,11 @@
                N:r 522.  Hasse W. Tullberg, Stockholm. — N. A.               
             </p>	
          </div>	   	   
-	  
+	     <div type="page" facs="#baksidan">
+	        <p>
+	           
+	        </p>
+	     </div>
       </body>
    </text>
 </TEI>
