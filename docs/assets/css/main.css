@@ -1,3 +1,8 @@
+header {
+  background-color: #0659BA;
+  text-align: center;
+  padding: 10px;
+}
 
 
 body {
@@ -22,7 +27,9 @@ nav {
     border-bottom: 1px solid black;
     padding: 1vw;
 }
-
+h1 {
+	color: white;
+}
 h2 {
     padding: 1vw;
 }
