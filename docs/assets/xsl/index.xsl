@@ -29,11 +29,11 @@
                         <xsl:apply-templates select="//tei:titleStmt/tei:title"/>
                     </h1>
                 </header>
-                <nav id="sitenav">
-                    <a href="index.html">Hem</a> |
+                <nav id="sitenav"><a href="index.html">Hem</a> |
                     <a href="transkribering.html">Transkribering</a> |
                     <a href="reading.html">Dagbok</a> |
                     <a href="galleri.html">Galleri</a> |
+                    <a href="projekt.html">Projekt</a> |
                     <a href="resurser.html">Elektroniska resurser</a> |
                 </nav>
                 <main id="manuscript">
