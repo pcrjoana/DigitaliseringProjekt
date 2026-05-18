@@ -822,7 +822,7 @@
 				  <cell>7</cell>
 				    <cell><name>Gunnar Andersson</name><lb/>Aspnäs<lb/><name>Förm. L. O. Andersson</name></cell>
 				    <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
-				    <cell><date when="1901-01-19">19/1</date><lb/><date when="1901-01-26">26/1</date><lb/><date when="1901-03-02">2/3</date><lb/><date when="1901-03-16">16/3</date>16/3<lb/><date when="1901-04-06">6/4</date><lb/><date when="1901-05-25">25/5</date><lb/></cell>
+				    <cell><date when="1901-01-19">19/1</date><lb/><date when="1901-01-26">26/1</date><lb/><date when="1901-03-02">2/3</date><lb/><date when="1901-03-16">16/3</date><date when="1901-03-16">16/3</date><lb/><date when="1901-04-06">6/4</date><lb/><date when="1901-05-25">25/5</date><lb/></cell>
 				    <cell>Filskaft<lb/>Klappträ<lb/>Köttklubba<lb/>Brödspade<lb/>Hörnhylla<lb/>Kniflåda<lb/></cell>
 				    <cell><date when="1901-01-26">26/1</date><lb/><date when="1901-02-23">23/2</date><lb/><date when="1901-03-16">16/3</date><lb/><date when="1901-03-30">30/3</date><lb/><date when="1901-05-18">18/5</date><lb/><date when="1901-06-15">15/6</date><lb/></cell>
 				    <cell>b<lb/>b<lb/>b<lb/>b<lb/>b<lb/><lb/></cell>
@@ -842,13 +842,13 @@
 				  <cell>8</cell>
 				  <cell><name>Axel Enlund</name><lb/>Persbo<lb/><name>Torpäg. J.O. Enlund</name></cell>
 				  <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell> 
-				  <cell><date when="1901-01-19">19/1</date><lb/>16/3<lb/>13/4<lb/>1/6<lb/>8/6<lb/></cell>
+				  <cell><date when="1901-01-19">19/1</date><lb/><date when="1901-03-16">16/3</date><lb/><date when="1901-04-13">13/4</date><date when="1901-06-01">01/6</date>1/6<lb/><date when="1901-06-08">8/6</date><lb/></cell>
 				  <cell>Pall<lb/>Brödspade<lb/>Werktygsklubba<lb/>Filskaft<lb/>Köttklubba<lb/></cell>
-				  <cell>9/3<lb/>30/3<lb/>18/5<lb/>1/6<lb/>15/6<lb/></cell>
+				  <cell><date when="1901-03-09">9/3</date><lb/><date when="1901-03-30">30/3</date><lb/><date when="1901-05-18">18/5</date><lb/><date when="1901-06-01">01/6</date><lb/><date when="1901-06-15">15/6</date><lb/></cell>
 				  <cell>b<lb/>b<lb/>b<lb/>b<lb/>b<lb/></cell>
-				  <cell>4/9<lb/>26/10<lb/>23/11<lb/><lb/><lb/></cell>
+				  <cell><date when="1901-09-04">4/9</date><lb/><date when="1901-10-26">26/10</date><lb/><date when="1901-11-23">23/11</date><lb/><lb/><lb/></cell>
 				  <cell>Skurlåda<lb/>Hacklåda<lb/>Brödpigg<lb/><lb/><lb/></cell>
-				    <cell>19/10<lb/>16/11<lb/><date when="1901-11-30">30/11</date><lb/><lb/><lb/></cell>
+				  <cell><date when="1901-10-19">19/10</date><lb/><date when="1901-11-16">16/11</date><lb/><date when="1901-11-30">30/11</date><lb/><lb/><lb/></cell>
 				  <cell>b<lb/>b<lb/>b<lb/><lb/><lb/></cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -928,9 +928,9 @@
 				    <cell>Blomkrukspinne<lb/>Nyckeletikett<lb/>Klädstrecksklyka<lb/>Selpinne<lb/>Skärbräde<lb/>Strumpbräde</cell>
 				    <cell><date when="1901-01-19">19/1</date><lb/>26/1<lb/>26/1<lb/>9/2<lb/>16/2<lb/>2/3</cell>
 				    <cell>b<lb/>b<lb/>b<lb/>b<lb/>b<lb/>b</cell>
-				    <cell>2/3<lb/>9/3<lb/>16/3<lb/>23/3<lb/>30/3<lb/>30/3</cell>
+				    <cell>2/3<lb/>9/3<lb/><date when="1901-03-16">16/3</date><lb/>23/3<lb/>30/3<lb/>30/3</cell>
 				    <cell>Rockhängare<lb/>Stämjärnsskaft<lb/>Hammarskaft<lb/>Smörspade<lb/>Pappersknif<lb/>Spjälpall</cell>
-				    <cell>9/3<lb/>16/3<lb/>16/3<lb/>23/3<lb/>30/3<lb/>13/4</cell>
+				    <cell>9/3<lb/><date when="1901-03-16">16/3</date><lb/><date when="1901-03-16">16/3</date><lb/>23/3<lb/>30/3<lb/>13/4</cell>
 				    <cell>b<lb/>b<lb/>b<lb/>b<lb/>b<lb/>b</cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -946,9 +946,9 @@
 				  <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>   
 				    <cell><date when="1901-01-19">19/1</date><lb/>26/1<lb/>2/2<lb/>16/2<lb/>2/3<lb/>16/3</cell>
 				    <cell>Blomkrukspinne<lb/>Nyckeletikett<lb/>Klädstrecksklyka<lb/>Selpinne<lb/>Rockhängare<lb/>Skärbräde</cell>
-				    <cell><date when="1901-01-19">19/1</date><lb/>26/1<lb/>9/2<lb/>2/3<lb/>16/3<lb/>16/3</cell>
+				    <cell><date when="1901-01-19">19/1</date><lb/>26/1<lb/>9/2<lb/>2/3<lb/><date when="1901-03-16">16/3</date><lb/>16/3</cell>
 				    <cell>b<lb/>c<lb/>b<lb/>b<lb/>c<lb/>b</cell>
-				    <cell>13/4<lb/>20/4<lb/>18/5<lb/>15/6<lb/>4/9<lb/>21/9</cell>
+				    <cell><date when="1901-04-13">13/4</date>20/4<lb/>18/5<lb/>15/6<lb/>4/9<lb/>21/9</cell>
 				    <cell>Strumpbräde<lb/>Stämjärnsskaft<lb/>Hammarskaft<lb/>Smörspade<lb/>Pappersknif<lb/>Spjälpall</cell>
 				    <cell>20/4<lb/>18/5<lb/>18/5<lb/>15/6<lb/>21/9<lb/>19/10</cell>
 				    <cell>c<lb/>b<lb/>b<lb/>b<lb/>b<lb/>b</cell>
@@ -968,9 +968,9 @@
 				    <cell>Blomkrukspinne<lb/>Nyckeletikett<lb/>Klädstrecksklyka<lb/>Selpinne<lb/>Skärbräde<lb/>Strumpbräde</cell>
 				    <cell><date when="1901-01-19">19/1</date><lb/>26/1<lb/>2/2<lb/>16/2<lb/>23/2<lb/>9/3</cell>
 				    <cell>b<lb/>b<lb/>b<lb/>b<lb/>b<lb/>c</cell>
-				    <cell>9/3<lb/>16/3<lb/>23/3<lb/>30/3<lb/>6/4<lb/>4/9</cell>
+				    <cell>9/3<lb/><date when="1901-03-16">16/3</date><lb/>23/3<lb/>30/3<lb/>6/4<lb/>4/9</cell>
 				    <cell>Rockhängare<lb/>Stämjärnsskaft<lb/>Hammarskaft<lb/>Smörspade<lb/>Pappersknif<lb/>Klädhängare</cell>
-				    <cell>16/3<lb/>23/3<lb/>30/3<lb/>6/4<lb/>20/4<lb/>12/10</cell>
+				    <cell><date when="1901-03-16">16/3</date><lb/>23/3<lb/>30/3<lb/>6/4<lb/>20/4<lb/>12/10</cell>
 				    <cell>c<lb/><lb/>b<lb/>b<lb/>c<lb/>c</cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -988,9 +988,9 @@
 				    <cell>Blomkrukspinne<lb/>Nyckeletikett<lb/>Klädstrecksklyka<lb/>Selpinne<lb/>Skärbräde<lb/>Strumpbräde</cell>
 				    <cell>26/1<lb/>2/2<lb/>9/2<lb/>16/2<lb/>16/2<lb/>2/3</cell>
 				    <cell>b<lb/>b<lb/>b<lb/>b<lb/>b<lb/>b</cell>
-				    <cell>2/3<lb/>9/3<lb/>9/3<lb/>16/3<lb/>21/9<lb/>26/10</cell>
+				    <cell>2/3<lb/>9/3<lb/>9/3<lb/><date when="1901-03-16">16/3</date><lb/>21/9<lb/>26/10</cell>
 				    <cell>Rockhängare<lb/>Stämjärnsskaft<lb/>Hammarskaft<lb/>Smörspade<lb/>Pappersknif<lb/>Klädhängare</cell>
-				    <cell>2/3<lb/>9/3<lb/>16/3<lb/>23/3<lb/>28/9<lb/>2/11</cell>
+				    <cell>2/3<lb/>9/3<lb/><date when="1901-03-16">16/3</date><lb/>23/3<lb/>28/9<lb/>2/11</cell>
 				    <cell>b<lb/>b<lb/>b<lb/>b<lb/>b<lb/>b</cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -1006,7 +1006,7 @@
 				  <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
 				    <cell><date when="1901-01-19">19/1</date><lb/>26/1<lb/>2/2<lb/>23/2<lb/>9/3<lb/>16/3</cell>
 				    <cell>Blomkrukspinne<lb/>Nyckeletikett<lb/>Klädstrecksklyka<lb/>Selpinne<lb/>Skärbräde<lb/>Strumpbräde</cell>
-				    <cell><date when="1901-01-19">19/1</date><lb/>2/2<lb/>23/2<lb/>l9/3><lb/>16/3<lb/>30/3</cell>
+				    <cell><date when="1901-01-19">19/1</date><lb/>2/2<lb/>23/2<lb/>l9/3><lb/><date when="1901-03-16">16/3</date><lb/>30/3</cell>
 				    <cell>b<lb/>c<lb/>c<lb/>b<lb/>b<lb/>c</cell>
 				    <cell>30/3<lb/>6/4<lb/>18/5<lb/>1/6<lb/>4/9<lb/>21/9</cell>
 				    <cell>Rockhängare<lb/>Stämjärnsskaft<lb/>Hammarskaft<lb/>Smörspade<lb/>Pappersknif<lb/>Spjälpall</cell>
@@ -1024,9 +1024,9 @@
 				  <cell>14</cell>
 				    <cell><name>Gunnar Hedlund</name><lb/>Enåkersby<lb/><name>Statdr. J.O. Hedlund</name></cell>
 				  <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
-				    <cell><date when="1901-01-19">19/1</date><lb/>26/1<lb/>2/2<lb/>23/2<lb/>9/3<lb/>16/3<lb/>30/3</cell>
+				    <cell><date when="1901-01-19">19/1</date><lb/>26/1<lb/>2/2<lb/>23/2<lb/>9/3<lb/><date when="1901-03-16">16/3</date><lb/>30/3</cell>
 				    <cell>Blomkrukspinne<lb/>Nyckeletikett<lb/>Klädstrecksklyka<lb/>Selpinne<lb/>Skärbräde<lb/>Strumpbräde<lb/>Rockhängare</cell>
-				    <cell><date when="1901-01-19">19/1</date><lb/>1/2<lb/>23/2<lb/>9/3<lb/>16/3<lb/>30/3<lb/>6/4</cell>
+				    <cell><date when="1901-01-19">19/1</date><lb/>1/2<lb/>23/2<lb/>9/3<lb/><date when="1901-03-16">16/3</date><lb/>30/3<lb/>6/4</cell>
 				    <cell>b<lb/>b<lb/>c<lb/>b<lb/>b<lb/>c</cell>
 				    <cell>30/3<lb/>6/4<lb/>18/5<lb/>1/6<lb/>4/9<lb/>21/9</cell>
 				    <cell>Rockhängare<lb/>Stämjärnsskaft<lb/>Hammarskaft<lb/>Smörspade<lb/>Pappersknif<lb/>Spjälpall</cell>
@@ -1044,13 +1044,13 @@
 				  <cell>15</cell>
 				    <cell><name>Erik Sigfrid Larsson</name><lb/>Skrädderbo<lb/><name>Bn. L.E. Larsson</name></cell>
 				  <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
-				    <cell>26/1<lb/>26/1<lb/>23/2<lb/>9/3<lb/>16/3<lb/>23/3</cell>
+				    <cell>26/1<lb/>26/1<lb/>23/2<lb/>9/3<lb/><date when="1901-03-16">16/3</date><lb/>23/3</cell>
 				    <cell>Blomkrukspinne<lb/>Nyckeletikett<lb/>Klädstrecksklyka<lb/>Selpinne<lb/>Skärbräde<lb/>Strumpbräde</cell>
-				    <cell>26/1<lb/>2/2<lb/>9/3<lb/>16/3<lb/>16/3<lb/>31/3</cell>
+				    <cell>26/1<lb/>2/2<lb/>9/3<lb/><date when="1901-03-16">16/3</date><lb/><date when="1901-03-16">16/3</date><lb/>31/3</cell>
 				  <cell>b<lb/>c<lb/>b<lb/>b<lb/>b<lb/>c</cell>
-				    <cell>6/4<lb/>13/4<lb/>18/5<lb/>1/6<lb/>4/9<lb/>21/9<lb/>21/9</cell>
+				    <cell>6/4<lb/><date when="1901-04-13">13/4</date>18/5<lb/>1/6<lb/>4/9<lb/>21/9<lb/>21/9</cell>
 				    <cell>Rockhängare<lb/>Stämjärnsskaft<lb/>Hammarskaft<lb/>Smörspade<lb/>Pappersknif<lb/>Spjälpall</cell>
-				    <cell>13/4<lb/>20/4<lb/>1/6<lb/>15/6<lb/>21/9<lb/>19/10</cell>
+				    <cell><date when="1901-04-13">13/4</date>20/4<lb/>1/6<lb/>15/6<lb/>21/9<lb/>19/10</cell>
 				    <cell>c<lb/>b<lb/>b<lb/>b<lb/>b<lb/>b</cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -1064,7 +1064,7 @@
 				  <cell>16</cell>
 				    <cell><name>Gunnar Ekström</name><lb/><lb/></cell>
 				  <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>    
-				    <cell>2/3<lb/>2/3<lb/>16/3<lb/>23/3<lb/>6/4<lb/>20/4</cell>
+				    <cell>2/3<lb/>2/3<lb/><date when="1901-03-16">16/3</date><lb/>23/3<lb/>6/4<lb/>20/4</cell>
 				    <cell>Blomkrukspinne<lb/>Nyckeletikett<lb/>Klädstrecksklyka<lb/>Selpinne<lb/>Skärbräde<lb/>Strumpbräde</cell>
 				    <cell>2/3<lb/>9/3<lb/>23/3<lb/>30/3<lb/>20/4<lb/>25/5</cell>
 				    <cell>b<lb/>c<lb/>b<lb/>b<lb/>b<lb/>c</cell>
