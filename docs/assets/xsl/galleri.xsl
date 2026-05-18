@@ -71,7 +71,7 @@
                                                     <xsl:value-of select="tei:figure/tei:figDesc"/>
                                                 </xsl:attribute>
                                         </img>
-                                        </div>    
+                                       </div>     
                                     </article>
                       
                         </xsl:for-each>

@@ -12,6 +12,7 @@ header {
 }
 a {
 	color: #0659BA;
+	font-weight: bold;
 }
 
 body {
@@ -119,7 +120,7 @@ footer {
 .img-full {
     margin: 5px;
     border: 1px solid black;
-    width: 500px;
+    width: 100%;
 }
 .zoom-container {
   width: 600px;
