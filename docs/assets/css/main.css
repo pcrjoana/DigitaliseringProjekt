@@ -10,7 +10,9 @@ header {
   text-align: center;
   padding: 10px;
 }
-
+a {
+	color: #0659BA;
+}
 
 body {
 	padding: 1vw;
