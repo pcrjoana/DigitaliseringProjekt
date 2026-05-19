@@ -16,7 +16,7 @@
             <availability>
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
                   <p>
-                     Transcription distributed under a CC-BY-SA 4.0 license.
+                     Transcription distributed under a CC-BY-SA 4.0 licence.
                   </p>
                </licence>
             </availability>
@@ -39,7 +39,7 @@
          <figure>
             <label>Framsidan</label>
             <figDesc>
-               Framsidan på Sljödskolans dagbok 
+               Framsidan på Slöjdskolans dagbok 
             </figDesc>
             <graphic xml:id="framsidan_full" url="assets/img/documents/framsidan.jpeg"/>
          </figure>
@@ -470,7 +470,7 @@
 
                   <row role="data">
                      <cell>9</cell>
-                     <cell>Elof Lindevall<lb/>Kroksbo<lb/>Torp. P.E. Lindevall</cell>
+                     <cell><name>Elof Lindevall</name><lb/>Kroksbo<lb/><name>Torp. P.E. Lindevall</name></cell>
                      <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
                      <cell></cell>
                      <cell></cell>
@@ -948,9 +948,9 @@
 				    <cell>Blomkrukspinne<lb/>Nyckeletikett<lb/>Klädstrecksklyka<lb/>Selpinne<lb/>Rockhängare<lb/>Skärbräde</cell>
 				    <cell><date when="1901-01-19">19/1</date><lb/><date when="1901-01-26">26/1</date><lb/><date when="1901-02-09">9/2</date><lb/><date when="1901-03-02">2/3</date><lb/><date when="1901-03-16">16/3</date><lb/><date when="1901-03-16">16/3</date></cell>
 				    <cell>b<lb/>c<lb/>b<lb/>b<lb/>c<lb/>b</cell>
-				    <cell><date when="1901-04-13">13/4</date><lb/>20/4<lb/>18/5<lb/>15/6<lb/>4/9<lb/>21/9</cell>
+				    <cell><date when="1901-04-13">13/4</date><lb/><date when="1901-04-20">20/4</date><lb/><date when="1901-05-18">18/5</date><lb/><date when="1901-06-15">15/6</date><lb/><date when="1901-09-04">4/9</date><lb/><date when="1901-09-21">21/9</date></cell>
 				    <cell>Strumpbräde<lb/>Stämjärnsskaft<lb/>Hammarskaft<lb/>Smörspade<lb/>Pappersknif<lb/>Spjälpall</cell>
-				    <cell>20/4<lb/>18/5<lb/>18/5<lb/>15/6<lb/>21/9<lb/>19/10</cell>
+				    <cell><date when="1901-04-20">20/4</date><lb/><date when="1901-05-18">18/5</date><lb/><date when="1901-05-18">18/5</date><lb/><date when="1901-06-15">15/6</date><lb/><date when="1901-09-21">21/9</date><lb/><date when="1901-10-19">19/10</date></cell>
 				    <cell>c<lb/>b<lb/>b<lb/>b<lb/>b<lb/>b</cell>
 				  <cell></cell>
 				  <cell></cell>
@@ -964,13 +964,13 @@
 				  <cell>11</cell>
 				    <cell><name>Ernst Olsson</name><lb/>Österbo<lb/><name>Torp. L. Olsson</name></cell>
 				  <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>   
-				    <cell><date when="1901-01-19">19/1</date><lb/><date when="1901-01-19">19/1</date><lb/><date when="1901-01-26">26/1</date><lb/><date when="1901-02-02">2/2</date><lb/>16/2<lb/>23/2</cell>
+				    <cell><date when="1901-01-19">19/1</date><lb/><date when="1901-01-19">19/1</date><lb/><date when="1901-01-26">26/1</date><lb/><date when="1901-02-02">2/2</date><lb/><date when="1901-02-16">16/2</date><lb/><date when="1901-02-23">23/2</date></cell>
 				    <cell>Blomkrukspinne<lb/>Nyckeletikett<lb/>Klädstrecksklyka<lb/>Selpinne<lb/>Skärbräde<lb/>Strumpbräde</cell>
-				    <cell><date when="1901-01-19">19/1</date><lb/><date when="1901-01-26">26/1</date><lb/><date when="1901-02-02">2/2</date><lb/>16/2<lb/>23/2<lb/>9/3</cell>
+				    <cell><date when="1901-01-19">19/1</date><lb/><date when="1901-01-26">26/1</date><lb/><date when="1901-02-02">2/2</date><lb/><date when="1901-02-16">16/2</date><lb/><date when="1901-02-23">23/2</date><lb/><date when="1901-03-09">9/3</date></cell>
 				    <cell>b<lb/>b<lb/>b<lb/>b<lb/>b<lb/>c</cell>
-				    <cell>9/3<lb/><date when="1901-03-16">16/3</date><lb/>23/3<lb/>30/3<lb/>6/4<lb/>4/9</cell>
+				    <cell>9/3<lb/><date when="1901-03-16">16/3</date><lb/><date when="1901-03-23">23/3</date><lb/><date when="1901-03-30">30/3</date><lb/><date when="1901-04-06">6/4</date><lb/><date when="1901-09-04">4/9</date></cell>
 				    <cell>Rockhängare<lb/>Stämjärnsskaft<lb/>Hammarskaft<lb/>Smörspade<lb/>Pappersknif<lb/>Klädhängare</cell>
-				    <cell><date when="1901-03-16">16/3</date><lb/>23/3<lb/>30/3<lb/>6/4<lb/>20/4<lb/>12/10</cell>
+				    <cell><date when="1901-03-16">16/3</date><lb/><date when="1901-03-23">23/3</date><lb/><date when="1901-03-30">30/3</date><lb/><date when="1901-04-06">6/4</date><lb/><date when="1901-04-20">20/4</date><lb/><date when="1901-10-12">12/10</date></cell>
 				    <cell>c<lb/><lb/>b<lb/>b<lb/>c<lb/>c</cell>
 				  <cell></cell>
 				  <cell></cell>
