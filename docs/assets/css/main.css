@@ -20,7 +20,7 @@ body {
 	font-family: 'Palatino','Palatino Linotype','Palatino LT STD','Book Antiqua','Georgia,serif';
 	line-height: 1.25;
 	font-size: 1vw;
-  width: 100%;
+	width: 100%;
 	}
 	
 div {
@@ -49,31 +49,22 @@ h3 {
     padding: 1vw;
     
 }
-#table {
-    display: table;
-    padding: 5px;
-}
-.tr {
-    display: table-row;
-    padding: 5px;
-}
-.td {
-    display: table-cell;
-    padding: 5px;
-    width: 150px;
-    border: #000000 solid 1px;
-    margin: 5px;
-}
+
 
 
 table {
+	table-layout: auto;
+	border: 1px solid;
     display: block;
     overflow-x: auto;
-    white-space: nowrap;
+	border-collapse: collapse;
+	white-space: nowrap;
 }
 
 th, td {
   border-bottom: 1px solid #ddd;
+
+  
 }
 
 #details {
