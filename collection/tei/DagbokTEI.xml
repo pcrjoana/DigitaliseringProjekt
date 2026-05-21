@@ -30,7 +30,8 @@
             <language ident="se">Svenska</language>
          </langUsage>
          <handNotes>
-            <handNote xml:id="ESS" medium="black-ink">Originaltext i bläck.</handNote>
+            <handNote xml:id="ESS" medium="black-ink">Anteckningar i bläck. Gäller all text på dagboken förutom anmärkningar, och anteckingar på första sidan samt bokomslag.</handNote>
+            <handNote xml:id="PENNA" medium="pencil">Anteckningar i penna. Gäller texten på dagbokens bokomslag samt första sidan.</handNote>
          </handNotes>
       </profileDesc>
    </teiHeader>
