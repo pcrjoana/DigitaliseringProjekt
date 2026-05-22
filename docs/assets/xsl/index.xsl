@@ -65,7 +65,7 @@
                                   <p>
                                       <h5>Om projektet</h5> &#160;
                                       <p>
-                                    <xsl:apply-templates select="//tei:sourceDesc"/>
+                                          Detta projekt är utfört i samband med Enåkers hembygdsförening av Alexandra Berghwall och Joana Ribeiro, studenter på delkursen “Digitalisering för bevarande och tillgänglighet” på Masterprogrammet i Biblioteks-och informationsvetenskap vid Högskolan i Borås under vårterminen 2026. Projektet är en digitalisering av en dagbok från Enåkers slöjdskola, Enåker socken, Heby kommun från år 1900-1908 men är i nuläget begränsat till de första tre åren (1900-1902) på grund av tidsbegränsningar. <xsl:apply-templates select="//tei:msContents"/> framtiden, planerar vi att digitalisera dagboken i sin helhet. Hela boken var digitaliserad och transkriberad och transkriberingen var utförd vid hand för bokens helhet.
                                       </p>    
                                   </p>
                                     <p> 

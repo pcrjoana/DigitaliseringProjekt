@@ -22,7 +22,42 @@
             </availability>
          </publicationStmt>
          <sourceDesc>
-            <p>Detta projekt är utfört i samband med Enåkers hembygdsförening av Alexandra Berghwall och Joana Ribeiro, studenter på delkursen “Digitalisering för bevarande och tillgänglighet” på Masterprogrammet i Biblioteks-och informationsvetenskap vid Högskolan i Borås under vårterminen 2026. Projektet är en digitalisering av en dagbok från Enåkers slöjdskola, Enåker socken, Heby kommun från år <date when="1900">1900</date>-<date when="1908">1908</date> men är i nuläget begränsat till de första tre åren (1900-1902) på grund av tidsbegränsningar. I framtiden, planerar vi att digitalisera dagboken i sin helhet. Hela boken var digitaliserad och transkriberad och transkriberingen var utförd vid hand för bokens helhet.</p>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Heby kommuns arkiv</repository>
+               </msIdentifier>
+               <msContents>
+                  <p>I dagboken loggades information om skolans eleverna, deras närvaro, samt information om vilka projekt eleverna tillverkade. Eleverna är identifierade med nummer och namn, samt hemort och vårdvanare. Projekten tillverkade av varje student är identifierade och till stort sätt daterade och betygsatt.</p>
+               </msContents>
+               <physDesc>
+                 <objectDesc form="book">
+                    <supportDesc>
+                       <support xml:id="dagbok">
+                          <dimensions unit="mm">
+                             <height>380</height>
+                             <width>245</width>
+                          </dimensions> 
+                       </support> 
+                    </supportDesc>
+                    <layoutDesc>
+                       <layout xml:id="storasidor">
+                          <p>Dagbokens helstorlek sidor, som har två små sidor varje</p>
+                          <dimensions unit="mm">
+                             <height>355</height>
+                             <width>238</width>
+                          </dimensions>   
+                       </layout>
+                       <layout xml:id="småsidor">
+                          <p>Småsidor som finns inom dagbokens helstorlek sidor</p>
+                          <dimensions unit="mm">
+                             <height>355</height>
+                             <width>113</width>
+                          </dimensions>   
+                       </layout>
+                    </layoutDesc>
+                 </objectDesc>
+               </physDesc>
+            </msDesc>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
@@ -30,8 +65,9 @@
             <language ident="se">Svenska</language>
          </langUsage>
          <handNotes>
-            <handNote xml:id="ESS" medium="black-ink">Anteckningar i bläck. Gäller all text på dagboken förutom anmärkningar, och anteckingar på första sidan samt bokomslag.</handNote>
-            <handNote xml:id="PENNA" medium="pencil">Anteckningar i penna. Gäller texten på dagbokens bokomslag samt första sidan.</handNote>
+            <handNote xml:id="ESS" medium="black-ink">Anteckningar i svart bläck. Gäller all text på dagboken förutom anmärkningar, och "1900" på första sidan.</handNote>
+            <handNote xml:id="PENNA" medium="pencil">Anteckningar i penna. Gäller anmärkningar.</handNote>
+            <handNote xml:id="BSS" medium="blue-ink">Anteckningar i blå bläck. Gäller "1908" på första sidan.</handNote>
          </handNotes>
       </profileDesc>
    </teiHeader>
