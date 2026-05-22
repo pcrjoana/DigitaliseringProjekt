@@ -63,13 +63,13 @@
                             <div class="col-sm">
                                 <article id="description">
                                   <p>
-                                      <h5>Om projektet</h5> &#160;
+                                      <h5>Om projektet</h5> 
                                       <p>
                                           Detta projekt är utfört i samband med <a href="https://www.hembygd.se/en-kers-hembygdsf-rening">Enåkers hembygdsförening</a> av Alexandra Berghwall och Joana Ribeiro, studenter på delkursen “Digitalisering för bevarande och tillgänglighet” på Masterprogrammet i Biblioteks-och informationsvetenskap vid Högskolan i Borås under vårterminen 2026. Projektet är en digitalisering av en dagbok från Enåkers slöjdskola, Enåker socken, Heby kommun från år 1900-1908 men är i nuläget begränsat till de första tre åren (1900-1902) på grund av tidsbegränsningar. <xsl:apply-templates select="//tei:msContents"/> framtiden, planerar vi att digitalisera dagboken i sin helhet. Hela boken var digitaliserad och transkriberad och transkriberingen var utförd vid hand för bokens helhet.
                                       </p>    
                                   </p>
                                     <p> 
-                                        <h5>Om skolan</h5> &#160;
+                                        <h5>Om skolan</h5> 
                                         
                                         Enåkers skola började i samband med folkskolans reformer 1844 som en ambulerande folkskola mellan lokaler i närliggande Kroksbo, Pålsbo och Ekedal tills det blev koncentrerat fem år senare till två lokaler i Ekedal och i byns Sockenstugan. En fast folkskola byggdes vid Enåkers kyrka mellan 1872-76 och fick namnet Kyrkskolan. Ett större skolhus byggdes år 1914 och hade plats för 50 elever på folkskolan och 36 vid småskolan vid årskurs 1-6. Skolan fortsätter att ha blandade årskurser i samma undervisningslokal ännu fram till 2001. Kommunal undervisning och ansvar för skolan slutades år 2009 och en lokal ekonomisk förening tog över ansvaret för skolan som en fristående föräldrakooperativ skola tills den  stängdes vårterminen 2011 på grund av elevbrist. (Informationen från O. Nilson, Möt Enåker. En uppländsk socken nära Västmanland, 2018). 
                                     </p> 
