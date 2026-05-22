@@ -30,7 +30,7 @@
                     </h1>
                 </header>
                 <nav id="sitenav"><a href="index.html">Hem</a> |
-                    <a href="transkribering.html">Transkribering</a> |
+                    <a href="transkribering.html">Transkription</a> |
                     <a href="reading.html">Dagbok</a> |
                     <a href="galleri.html">Galleri</a> |
                     <a href="projekt.html">Projekt</a> |
@@ -46,7 +46,7 @@
                             </div>
  
                             <div class="col-sm">
-                                <h3>Transkribering</h3>
+                                <h3>Transkription</h3>
                             </div>
                         </div>
                         <!-- set up an image-text pair for each page in your document, and start a new 'row' for each pair -->
