@@ -30,8 +30,8 @@
                     </h1>
                 </header>
                 <nav id="sitenav"><a href="index.html">Hem</a> |
-                    <a href="transkribering.html">Transkription</a> |
-                    <a href="reading.html">Dagbok</a> |
+                    <a href="transkription.html">Transkription</a> |
+                    <a href="dagbok.html">Dagbok</a> |
                     <a href="galleri.html">Galleri</a> |
                     <a href="projekt.html">Projekt</a> |
                     <a href="resurser.html">Elektroniska resurser</a> |
