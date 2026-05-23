@@ -7,8 +7,23 @@
       <fileDesc>
          <titleStmt>
             <title>Enåkers slöjdskolans dagbok åren 1900-1902</title>
-            <author corresp="#sls"><name>Alex Bergwhall</name>; <name>Joana P.C. Ribeiro</name></author>
-            <principal><name>Alex Bergwhall</name>; <name>Joana P.C. Ribeiro</name></principal>
+            <author corresp="#berg"><persName><forename>Alex</forename><surname>Bergwhall</surname></persName></author>
+            <author corresp="#pcr"><persName><forename>Joana</forename><surname>P.C. Ribeiro</surname></persName></author>
+            <principal>
+               <persName>
+                  <forename>Alex</forename>
+                  <surname>Bergwhall</surname>
+                  <email corresp="berg">alexandraberghwall@gmail.com</email>
+               </persName>
+            </principal>
+            <principal>
+               <persName>
+                  <forename>Joana</forename>
+                  <surname>P.C. Ribeiro</surname>
+                  <email corresp="pcr">pcrjoana@gmail.com</email>
+               </persName>
+            </principal>
+           
          </titleStmt>
          <publicationStmt>
             <publisher>Högskolan i Borås</publisher>
