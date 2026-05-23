@@ -1,4 +1,4 @@
-
+https://doi.org/10.5281/zenodo.20356402
 # Digitalisering Projekt
 
 This is a digitalisation project for the digitalisation course of the MSc in Library and Information Science at the [University of Borås](https://www.hb.se/).
