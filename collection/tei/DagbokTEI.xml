@@ -85,6 +85,16 @@
             <handNote xml:id="BSS" medium="blue-ink">Anteckningar i blå bläck. Gäller "1908" på första sidan.</handNote>
          </handNotes>
       </profileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <interpretation>
+               <p>All text var transkriberade för hand, det vill säga utan användning av OCR.</p>
+            </interpretation>
+         </editorialDecl>
+         <samplingDecl>
+            <p>Dagboken digitaliserades med hjälp av en Bookeye 5 bokskanner i 24 bit Colour med 400 DPI upplösning vid Uppsalas riksarkivet</p>
+         </samplingDecl>
+      </encodingDesc>
    </teiHeader>
    <facsimile>
       <surface xml:id="framsidan">
