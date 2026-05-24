@@ -42,8 +42,11 @@
                   <repository>Heby kommuns arkiv</repository>
                </msIdentifier>
                <msContents>
-                  <p>I dagboken loggades information om skolans elever, deras närvaro, samt information om vilka projekt eleverna tillverkade. Eleverna är identifierade med nummer och namn, samt hemort och vårdvarnare. Projekten tillverkade av varje student är identifierade och till stort sätt daterade och betygsatta.</p>
+                  <p>I dagboken loggades information om skolans elever, deras närvaro, samt information om vilka projekt eleverna tillverkade under åren 1900-1908. Eleverna är identifierade med nummer och namn, samt hemort och vårdvarnare. Projekten tillverkade av varje student är identifierade och till stort sätt daterade och betygsatta.</p>
                </msContents>
+               <additional>
+                  <p>Enåkers slöjdskolans dagboken har information för åren 1900-1908. För detta digitaliserings projekt valde vi att fokusera på åren 1900-1902 på grund av tidsbegränsingar.</p>
+               </additional>
                <physDesc>
                  <objectDesc form="book">
                     <supportDesc>
@@ -81,7 +84,7 @@
          </langUsage>
          <handNotes>
             <handNote xml:id="ESS" medium="black-ink">Anteckningar i svart bläck. Gäller all text på dagboken förutom anmärkningar, och "1900" på första sidan.</handNote>
-            <handNote xml:id="PENNA" medium="pencil">Anteckningar i penna. Gäller anmärkningar.</handNote>
+            <handNote xml:id="PENNA" medium="pencil">Anteckningar i penna. Gäller anmärkningar och "L" under dagar i samtliga sidor. Text i penna förekommer i mindre del i andra fälter av dagboken.</handNote>
             <handNote xml:id="BSS" medium="blue-ink">Anteckningar i blå bläck. Gäller "1908" på första sidan.</handNote>
          </handNotes>
       </profileDesc>
