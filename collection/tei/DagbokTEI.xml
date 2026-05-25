@@ -226,16 +226,16 @@
             i Enåkers skoldistrikt<lb/>
             <date when="1900">1900</date>-<date when="1908">1908</date>.<lb/>
             Denna dagbok är afsedd att tillika utgöra arbetsjournal och kan användas vid skolor för så väl manlig som kvinnlig slöjd.<lb/>
-            I de breda kolumnerna under rubriken "arbertsårets månader" inskrifes månadens namn eller ock 
+            I de breda kolumnerna under rubriken "arbetsårets månader" inskrifes månadens namn eller ock 
             tiden omfattande en arbetsmånad t.ex. <hi>15/4</hi>---<hi>14/5</hi>. Hvarje månad innehåller 5 kolumner, hvardera beräknad för en 
-            vecka, enär månaden kan gå i på 5:te veckan. Vid anteckningarna kunna begagnas följande förkortningar:
+            vecka, enär månaden kan gå in på 5:te veckan. Vid anteckningarna kunna begagnas följande förkortningar:
             n = närvarande, s = sjuk, l =frånvaro med lof eller annat godkänt förfall, f = frånvaro utan lof 
             eller godkänt förfall; --- eller kanske mera bekvämt för anteckningen:
-              + = närvarande, <metamark></metamark> = sjuk, x= frånvaro med lof eller annat godkönt förfal, --- = frånvaro utan
-            lof eller godkät förfall, o = en dat, då hela skolar hvilar. <lb/>
+            + = närvarande, <metamark>&#x2713;</metamark> = sjuk, x= frånvaro med lof eller annat godkänt förfall, --- = frånvaro utan
+            lof eller godkänt förfall, o = en dag, då hela skolar hvilar. <lb/>
             I de därför afsedda kolumnerna antecknas så väl de arbeten, hvarmed för hvarje färdiggjordt arbete.<lb/>
-            Äro lärjungarne fördelade i flera slöjdafdelningar, användes alltefter behof tvp eller flera uppslar för
-            hvarje afdelning, och afdelningens ordningsnummer inskrifves till väster å uppslaget ofvan öfversta rubriklinien.<lb/>
+            Äro lärjungarne fördelade i flera slöjdafdelningar, användes alltefter behof tvp eller flera uppslag för
+            hvarje afdelning, och afdelningens ordningsnummer inskrifves till vänster å uppslaget ofvan öfversta rubriklinien.<lb/>
             
             Formuläret upprättadt af <lb/>
             Folkskoleinspektören, Kontraktsprosten, <name>R. Fjetterström</name>.<lb/>
@@ -243,7 +243,7 @@
             Efertryck förbjudes. <lb/>
             
             Stockolm. <lb/>
-            <name>Hasse W. Tullberg</name>s Blankettflörlag.
+            <name>Hasse W. Tullberg</name>s Blankettförlag.
          
          </p>
          </div>
@@ -331,7 +331,7 @@
 				 
 				 <row role="data">
 				  <cell>2</cell>
-				    <cell><name>Otto Berlund</name><lb/>Ingbo<lb/><name>Arb. J. O. Berglund</name></cell>
+				    <cell><name>Otto Berglund</name><lb/>Ingbo<lb/><name>Arb. J. O. Berglund</name></cell>
 				  <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>  
 				  <cell></cell>
 				  <cell></cell>
@@ -595,7 +595,7 @@
                   
                   <row role="data">
                      <cell>12</cell>
-                     <cell><name>Ernst Kanr. Eriksson</name><lb/>Enåkersby<lb/><name>Skom. Gust. Eriksson</name></cell>
+                     <cell><name>Ernst Konr. Eriksson</name><lb/>Enåkersby<lb/><name>Skom. Gust. Eriksson</name></cell>
                      <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
                      <cell></cell>
                      <cell></cell>
@@ -1107,7 +1107,7 @@
 				
 				 <row role="data">
 				  <cell>15</cell>
-				    <cell><name>Erik Sigfrid Larsson</name><lb/>Skrädderbo<lb/><name>Bn. L.E. Larsson</name></cell>
+				    <cell><name>Erik Sigfrid Larsson</name><lb/>Skräddarbo<lb/><name>Bn. L.E. Larsson</name></cell>
 				  <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
 				    <cell><date when="1901-01-26">26/1</date><lb/><date when="1901-01-26">26/1</date><lb/><date when="1901-02-23">23/2</date><lb/><date when="1901-03-09">9/3</date><lb/><date when="1901-03-16">16/3</date><lb/><date when="1901-03-23">23/3</date></cell>
 				    <cell>Blomkrukspinne<lb/>Nyckeletikett<lb/>Klädstrecksklyka<lb/>Selpinne<lb/>Skärbräde<lb/>Strumpbräde</cell>
@@ -1331,7 +1331,7 @@
                   
                   <row role="data">
                      <cell>15</cell>
-                     <cell><name>Erik Sigfrid Larsson</name><lb/>Skrädderbo<lb/><name>Bn. L.E. Larsson</name></cell>
+                     <cell><name>Erik Sigfrid Larsson</name><lb/>Skräddarbo<lb/><name>Bn. L.E. Larsson</name></cell>
                      <cell>M.<lb/>T.<lb/>O.<lb/>T.<lb/><del>F.</del>L.<lb/>L.</cell>
                      <cell><date when="1901-10-26">26/10</date><lb/><lb/><lb/><lb/><lb/><lb/></cell>
                      <cell>Klädhängare<lb/><lb/><lb/><lb/><lb/><lb/></cell>
