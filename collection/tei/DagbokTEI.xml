@@ -42,10 +42,10 @@
                   <repository>Heby kommuns arkiv</repository>
                </msIdentifier>
                <msContents>
-                  <p>I dagboken loggades information om skolans elever, deras närvaro, samt information om vilka projekt eleverna tillverkade under åren 1900-1908. Eleverna är identifierade med nummer och namn, samt hemort och vårdvarnare. Projekten tillverkade av varje student är identifierade och till stort sätt daterade och betygsatta.</p>
+                  <p>I dagboken loggades information om skolans elever, deras närvaro, samt information om vilka projekt eleverna tillverkade under åren <date when="1900">1900</date>-<date when="1908">1908</date>. Eleverna är identifierade med nummer och namn, samt hemort och vårdvarnare. Projekten tillverkade av varje student är identifierade och till stort sätt daterade och betygsatta.</p>
                </msContents>
                <additional>
-                  <p>Enåkers slöjdskolans dagboken har information för åren 1900-1908. För detta digitaliserings projekt valde vi att fokusera på åren 1900-1902 på grund av tidsbegränsingar.</p>
+                  <p>Enåkers slöjdskolans dagboken har information för åren <date when="1900">1900</date>-<date when="1908">1908</date>. För detta digitaliserings projekt valde vi att fokusera på åren <date when="1900">1900</date>-<date when="1902">1902</date> på grund av tidsbegränsingar.</p>
                </additional>
                <physDesc>
                  <objectDesc form="book">
@@ -91,7 +91,7 @@
       <encodingDesc>
          <editorialDecl>
             <interpretation>
-               <p>All text var transkriberade för hand, det vill säga utan användning av OCR.</p>
+               <p>All text var transkriberade för hand, det vill säga utan användning av Optical Character Recognition (OCR).</p>
             </interpretation>
          </editorialDecl>
          <samplingDecl>
@@ -102,25 +102,25 @@
    <facsimile>
       <surface xml:id="framsidan">
          <figure>
-            <label>Framsidan</label>
+            <label>Enåkers slöjdskolans dagbok åren <date when="1900">1900</date>-<date when="1908">1908</date> bokomslag fram</label>
             <figDesc>
-               Framsidan på Slöjdskolans dagbok 
+               Enåkers slöjdskolans dagbok åren <date when="1900">1900</date>-<date when="1908">1908</date> bokomslag fram
             </figDesc>
             <graphic xml:id="framsidan_full" url="assets/img/documents/framsidan.jpeg"/>
          </figure>
       </surface>
       <surface xml:id="sidan1">
          <figure>
-            <label>Första sidan</label>
+            <label>Enåkers slöjdskolans dagbok åren <date when="1900">1900</date>-<date when="1908">1908</date> första sida</label>
             <figDesc>
-               Slöjdskolans dagbokens första sida  
+               Enåkers slöjdskolans dagbok åren <date when="1900">1900</date>-<date when="1908">1908</date> första sida
             </figDesc>
             <graphic xml:id="sidan1_full" url="assets/img/documents/sidan.jpeg"/>
          </figure>
       </surface>    
       <surface xml:id="s19001">
          <figure>
-            <label>Slöjdskolans dagbok <date when="1900">1900</date></label>
+            <label>Enåkers sljödskolans dagbok år <date when="1900">1900</date> elever 1-8</label>
             <figDesc>
                En lista av elever med nummer 1-8 som pluggade vid slöjdskolan år <date when="1900">1900</date>.
             </figDesc>
@@ -129,7 +129,7 @@
       </surface>
       <surface xml:id="s19002">
          <figure>
-            <label>Slöjdskolans dagbok <date when="1900">1900</date></label>
+            <label>Enåkers sljödskolans dagbok år <date when="1900">1900</date> elever 9-12<date when="1900">1900</date></label>
             <figDesc>
                En lista elever med nummer 9-12 som pluggade vid slöjdskolan år <date when="1900">1900</date>.
             </figDesc>
@@ -138,16 +138,16 @@
       </surface>
       <surface xml:id="s19011">
          <figure>
-            <label>Slöjdskolans dagbok <date when="1901">1901</date></label>
+            <label>Enåkers sljödskolans dagbok år <date when="1901">1901</date> elever 1-8</label>
             <figDesc>
-               En lista av elever med nummer 1-8 som pluggade vid slöjdskolan år <date when="1901">1901</date>.
+               En lista av elever med nummer 1-8 som pluggade vid slöjdskolan år <date when="1901">1901</date>. Sidan har åldersfläckar.
             </figDesc>
             <graphic xml:id="s19011_full" url="assets/img/documents/1901_2.jpeg"/>
          </figure>
       </surface>
       <surface xml:id="s19012">
          <figure>
-            <label>Slöjdskolans dagbok <date when="1901">1901</date></label>
+            <label>Enåkers sljödskolans dagbok år <date when="1901">1901</date> elever 9-16 del 1/2</label>
             <figDesc>
                En lista elever med nummer 9-12 som pluggade vid slöjdskolan år <date when="1901">1901</date>.
             </figDesc>
@@ -156,7 +156,7 @@
       </surface>
       <surface xml:id="s19013">
          <figure>
-            <label>Slöjdskolans dagbok <date when="1901">1901</date></label>
+            <label>Enåkers sljödskolans dagbok år <date when="1901">1901</date> elever 9-16 del 2/2</label>
             <figDesc>
                En lista elever med nummer 9-12 som pluggade vid slöjdskolan år <date when="1901">1901</date>.
             </figDesc>
@@ -165,7 +165,7 @@
       </surface>
       <surface xml:id="s19021">
          <figure>
-            <label>Slöjdskolans dagbok <date when="1902">1902</date></label>
+            <label>Enåkers sljödskolans dagbok år <date when="1902">1902</date> elever 1-8 del 1/2</label>
             <figDesc>
                En lista av elever med nummer 1-8 som pluggade vid slöjdskolan år <date when="1902">1902</date>.
             </figDesc>
@@ -174,7 +174,7 @@
       </surface>
       <surface xml:id="s19022">
          <figure>
-            <label>Slöjdskolans dagbok <date when="1902">1902</date></label>
+            <label>Enåkers sljödskolans dagbok år <date when="1902">1902</date> elever 1-8 del 2/2</label>
             <figDesc>
                En lista av elever med nummer 1-8 som pluggade vid slöjdskolan år <date when="1902">1902</date>.
             </figDesc>
@@ -183,7 +183,7 @@
       </surface>
       <surface xml:id="s19023">
          <figure>
-            <label>Slöjdskolans dagbok <date when="1902">1902</date></label>
+            <label>Enåkers sljödskolans dagbok år <date when="1902">1902</date> elever 9-16 del 1/2</label>
             <figDesc>
                En lista elever med nummer 9-16 som pluggade vid slöjdskolan år <date when="1902">1902</date>.
             </figDesc>
@@ -192,7 +192,7 @@
       </surface>
       <surface xml:id="s19024">
          <figure>
-            <label>Slöjdskolans dagbok <date when="1902">1902</date></label>
+            <label>Enåkers sljödskolans dagbok år <date when="1902">1902</date> elever 9-16 del 2/2</label>
             <figDesc>
                En lista elever med nummer 9-16 som pluggade vid slöjdskolan år <date when="1902">1902</date>.
             </figDesc>
@@ -201,9 +201,9 @@
       </surface>
       <surface xml:id="baksidan">
          <figure>
-            <label>Baksidan</label>
+            <label>Enåkers slöjdskolans dagbok åren <date when="1900">1900</date>-<date when="1908">1908</date> bokomslag bak</label>
             <figDesc>
-               Slöjdskolans dagbokens baksida
+               Enåkers slöjdskolans dagbok åren <date when="1900">1900</date>-<date when="1908">1908</date> bokomslag bak
             </figDesc>
             <graphic xml:id="baksidan_full" url="assets/img/documents/baksidan.jpeg"/>
          </figure>
